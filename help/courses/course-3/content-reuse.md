@@ -1,10 +1,10 @@
 ---
 title: Inhoud opnieuw gebruiken
-description: Herhaald gebruik van functies in AEM hulplijnen
+description: Herhaald gebruik van functies in AEM Guides
 exl-id: 453c5a09-0bcf-4760-87fc-df3ea4a3a30a
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -19,64 +19,64 @@ Een van de belangrijkste functies van DITA is de mogelijkheid om inhoud opnieuw 
 
 Wanneer een verandering in een herbruikbaar brononderwerp wordt aangebracht, zal de informatie overal bijwerken de inhoud wordt gebruikt.
 
-1. Ga naar de **Bewaarplaats**.
+1. Navigeer aan de **Bewaarplaats**.
 
-1. Klik op de knop **contextueel menu** naast de map voor hergebruik.
+1. Klik het **contextafhankelijke menu** naast de hergebruiksomslag.
 
-1. Kies **Maken > Dita Topic**.
+1. Kies **creeer > Onderwerp Dita**.
 
 1. Vul de velden in het dialoogvenster Nieuw onderwerp maken. Bijvoorbeeld:
 
-   ![Bevestiging](images/lesson-8/new-topic-dialog.png)
+   ![ Bevestiging ](images/lesson-8/new-topic-dialog.png)
 
-1. Klikken [!UICONTROL **Maken**].
+1. Klik [!UICONTROL **creëren**].
 
 1. Voeg desgewenst inhoud toe aan het onderwerp.
 
 ## Voeg een nieuw herbruikbaar element aan een onderwerp toe
 
-Er zijn verschillende methoden om herbruikbare elementen toe te voegen. Hier is de eerste workflow het beste wanneer u slechts één component toevoegt. De tweede workflow is beter voor het toevoegen van meerdere herbruikbare componenten.
+Er zijn verschillende methoden om herbruikbare elementen toe te voegen. Hier is de eerste workflow het meest geschikt wanneer u slechts één component toevoegt. De tweede workflow is beter voor het toevoegen van meerdere herbruikbare componenten.
 
 ### Workflow 1
 
 1. Klik in het onderwerp bij een geldige plaats.
 
-1. Selecteer **Herbruikbare inhoud invoegen** op de bovenste werkbalk.
+1. Selecteer het **Opnieuw te gebruiken pictogram van de Inhoud van het Tussenvoegsel** op de hoogste toolbar.
 
-   ![Bevestiging](images/lesson-8/insert-reuse-icon.png)
+   ![ Bevestiging ](images/lesson-8/insert-reuse-icon.png)
 
-1. Klik in het dialoogvenster Inhoud opnieuw gebruiken op de knop [!UICONTROL **Map**] pictogram.
+1. In het dialoogvenster Inhoud opnieuw gebruiken klikt u op het pictogram **]Map[!UICONTROL ** .
 
 1. Navigeer naar de gewenste map.
 
 1. Kies een onderwerp met herbruikbare componenten.
 Bijvoorbeeld:
 
-   ![Bevestiging](images/lesson-8/reusable-topic.png)
+   ![ Bevestiging ](images/lesson-8/reusable-topic.png)
 
-1. Klikken [!UICONTROL **Selecteren**].
+1. Klik [!UICONTROL **Uitgezocht**].
 
 1. Kies een specifieke component die u opnieuw wilt gebruiken.
 
-1. Klikken [!UICONTROL **Selecteren**].
+1. Klik [!UICONTROL **Uitgezocht**].
 
 Het herbruikbare element is nu opgenomen in het onderwerp.
 
 ### Workflow 2
 
-1. Navigeren naar **Herbruikbare inhoud** in het linkerdeelvenster.
+1. Navigeer aan **Herbruikbare Inhoud** op het linkerpaneel.
 
-1. Klik op de knop [!UICONTROL **Toevoegen**] in het deelvenster Opnieuw te gebruiken inhoud.
+1. Klik [!UICONTROL **toevoegen**] pictogram op het Herbruikbare paneel van Inhoud.
 
-   ![Bevestiging](images/lesson-8/reuse-contents-icon.png)
+   ![ Bevestiging ](images/lesson-8/reuse-contents-icon.png)
 
-1. Navigeer naar een map.
+1. Blader naar een map.
 
 1. Selecteer een specifiek onderwerp of specifieke onderwerpen.
 
-1. Klikken [!UICONTROL **Toevoegen**].
+1. Klik [!UICONTROL **toevoegen**].
 
-1. Vouw vanuit het deelvenster Opnieuw bruikbare inhoud uit **Overzicht van element**.
+1. Van het Herbruikbare paneel van Inhoud, breid **Overzicht van het Element** uit.
 
 1. Sleep een element naar het onderwerp op een geldige locatie.
 
@@ -90,7 +90,7 @@ De dlentry die u zojuist hebt gemaakt, is een herbruikbaar element. Daarom is ee
 
 1. Klik in het deelvenster Eigenschappen van inhoud op het vervolgkeuzemenu onder Kenmerk.
 
-1. Selecteren **ID**.
+1. Selecteer **identiteitskaart**.
 
 1. Typ een logische naam voor de waarde.
 

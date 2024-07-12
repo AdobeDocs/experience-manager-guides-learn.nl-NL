@@ -1,6 +1,6 @@
 ---
 title: Wijzigingen bijhouden
-description: Wijzigingen bijhouden in AEM hulplijnen
+description: Wijzigingen bijhouden in AEM Guides
 exl-id: 57779920-b3b4-44be-a1fb-89ea7c89eef7
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,37 +11,37 @@ ht-degree: 0%
 
 # Wijzigingen bijhouden
 
-U kunt alle op een document aangebrachte updates bijhouden door de modus Wijzigingen bijhouden in te schakelen. In deze modus kunnen u en uw team alle invoegingen en verwijderingen vastleggen tijdens het revisieproces van het document.
+U kunt alle op een document aangebrachte updates bijhouden door de modus Wijzigingen bijhouden in te schakelen. In deze modus kunnen u en uw team tijdens het revisieproces alle invoegingen en verwijderingen vastleggen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342763?quality=12&learn=on)
 
 ## Werken met de functie Wijzigingen bijhouden
 
-1. Schakelen tussen **Wijzigingen bijhouden** werkbalkpictogram om de functie in of uit te schakelen.
+1. Wissel het **pictogram van de Veranderingen van het Spoor** toolbar om (of onbruikbaar te maken) de eigenschap toe te laten.
 
-   ![Wijzigingen bijhouden](images/lesson-12/track-changes-icon.png)
+   ![ Veranderingen van het Spoor ](images/lesson-12/track-changes-icon.png)
 
 1. Wijzig het onderwerp.
 
    Toegevoegde inhoud wordt nu groen weergegeven met een wijzigingsbalk. Verwijderde inhoud wordt rood weergegeven met een doorhaling.
 
-1. Selecteer **Bijgehouden wijzigingen** rechts in het deelvenster Bijgehouden wijzigingen.
+1. Selecteer het **Getraceerde pictogram van Veranderingen** op het recht om tot het Getraceerde paneel van Veranderingen toegang te hebben.
 
-   ![Alles accepteren/negeren](images/lesson-12/accept-reject-all.png)
+   ![ keurt/verwerpt allen ](images/lesson-12/accept-reject-all.png) goed
 
-1. Klikken [!UICONTROL **Opslaan**].
+1. Klik [!UICONTROL **sparen**].
 
-   ![Pictogram opslaan](images/lesson-12/save-icon.png)
+   ![ sparen Pictogram ](images/lesson-12/save-icon.png)
 
 1. Sluit het onderwerp.
 
 Andere gebruikers kunnen het onderwerp nu openen en de bestaande bijgehouden wijzigingen bekijken. Ze kunnen de wijzigingen accepteren of afwijzen en hun eigen wijzigingen toevoegen.
 
-## Bijgehouden wijzigingen zoeken
+## Bijgehouden wijzigingen doorzoeken
 
 De zoekfunctie is handig wanneer er veel bijgehouden wijzigingen zijn, omdat het tijdrovend doorbladeren ervan veel tijd in beslag kan nemen.
 
-1. Selecteer **Bijgehouden wijzigingen** rechts in het deelvenster Bijgehouden wijzigingen.
+1. Selecteer het **Getraceerde pictogram van Veranderingen** op het recht om tot het Getraceerde paneel van Veranderingen toegang te hebben.
 
 1. Typ een woord of woordgroep in het veld Zoeken.
 De zoekopdracht retourneert alle wijzigingen die overeenkomen met de zoekwoorden.
@@ -50,52 +50,52 @@ De zoekopdracht retourneert alle wijzigingen die overeenkomen met de zoekwoorden
 
 Meerdere bijgehouden wijzigingen kunnen ook worden gefilterd door invoegen, verwijderen of reviseren.
 
-1. Klik op de knop [!UICONTROL **Filter**] onder aan het deelvenster Bijgehouden wijzigingen.
+1. Klik het [!UICONTROL **pictogram van de Filter**] bij de bodem van het Bijgehouden paneel van Veranderingen.
 
 1. Schakel de selectievakjes voor de gewenste filters in.
 
-   ![Interface van filter](images/lesson-12/filter.png)
+   ![ UI van de Filter ](images/lesson-12/filter.png)
 
-1. Klikken [!UICONTROL **Toepassen**].
+1. Klik [!UICONTROL **toepassen**].
 
 ## Bijgehouden wijzigingen accepteren of negeren
 
 Revisoren en materiaaldeskundigen kunnen de wijzigingen van andere gebruikers afzonderlijk of in één keer accepteren of afwijzen.
 
-1. Klik op de knop [!UICONTROL **Bijgehouden wijzigingen**] rechts in het deelvenster Bijgehouden wijzigingen.
+1. Klik het [!UICONTROL **Bijgehouden pictogram van Veranderingen**] op het recht om tot het Bijgehouden paneel van Veranderingen toegang te hebben.
 
 1. Selecteer een specifieke wijziging.
 
-1. Klik op de knop [!UICONTROL **Stompelen omhoog**] of [!UICONTROL **Miniatuur omlaag**] pictogram dat aan de wijziging is gekoppeld om deze te accepteren of te negeren.
+1. Klik de [!UICONTROL **Duimen omhoog**] of [!UICONTROL **duimen neer**] pictogram verbonden aan de verandering om het goed te keuren of te verwerpen.
 
-   ![Eén interface accepteren/afwijzen](images/lesson-12/accept-reject-single.png)
+   ![ keurt/verwerpt Enige UI ](images/lesson-12/accept-reject-single.png) goed
 
    of
 
-   Klik op de knop [!UICONTROL **Stompelen omhoog**] of [!UICONTROL **Miniatuur omlaag**] boven de zoekbalk om alle wijzigingen te accepteren of af te wijzen.
+   Klik de [!UICONTROL **Duimen omhoog**] of [!UICONTROL **duimen neer**] pictogram boven de bar van het Onderzoek om alle veranderingen goed te keuren of te verwerpen.
 
-   ![Eén interface accepteren/afwijzen](images/lesson-12/accept-reject-single.png)
+   ![ keurt/verwerpt Enige UI ](images/lesson-12/accept-reject-single.png) goed
 
-1. [!UICONTROL **Opslaan**] het onderwerp.
+1. [!UICONTROL **sparen**] het onderwerp.
 
 ## Werken met de functie Samenvoegen
 
-Wanneer u in een multi-auteurmilieu werkt, kan het moeilijk zijn om te volgen welke veranderingen andere auteurs in een onderwerp of kaart hebben aangebracht. Met de functie Samenvoegen hebt u meer controle over het weergeven van de wijzigingen, maar ook over de wijzigingen die in de meest recente versie van het document blijven staan.
+Wanneer u in een multi-auteurmilieu werkt, kan het moeilijk zijn om te volgen welke veranderingen andere auteurs in een onderwerp of een kaart hebben aangebracht. Met de functie Samenvoegen hebt u meer controle over het weergeven van de wijzigingen, maar ook over de wijzigingen die in de meest recente versie van het document blijven staan.
 
-1. Open een onderwerp in de Redacteur van het Web.
+1. Een onderwerp openen in de webeditor.
 
-1. Klik op de knop [!UICONTROL **Samenvoegen**] op de werkbalk.
+1. Klik het [!UICONTROL **pictogram van de Fusie**] op de toolbar.
 
-   ![Pictogram Samenvoegen](images/lesson-12/merge-icon.png)
+   ![ Pictogram van de Fusie ](images/lesson-12/merge-icon.png)
 
 1. Selecteer in het dialoogvenster Samenvoegen een versie van het bestand waarmee u de huidige versie van het bestand wilt vergelijken.
 
 1. Kies bij Opties de volgende opties:
 
-   - **Wijzigingen bijhouden in geselecteerde versie**: Met deze optie worden alle inhoudsupdates weergegeven in de vorm van bijgehouden wijzigingen. Vervolgens kunt u kiezen of u de wijzigingen in het document een voor een of alle wijzigingen tegelijk wilt accepteren of negeren.
+   - **Veranderingen van het Spoor van Geselecteerde Versie**: Deze optie toont alle inhoudsupdates in de vorm van bijgehouden veranderingen. Vervolgens kunt u kiezen of u de wijzigingen in het document een voor een of alle wijzigingen tegelijk wilt accepteren of negeren.
 
-   - **Geselecteerde versie herstellen**: Met deze optie keert u de huidige versie van het document terug naar de geselecteerde versie. Het geeft u geen controle over de inhoud die wordt geaccepteerd of afgewezen.
+   - **keert aan Geselecteerde Versie** terug: Deze optie keert de huidige versie van het document aan de geselecteerde versie terug. Het geeft u geen controle over de inhoud die wordt geaccepteerd of afgewezen.
 
-1. Klikken [!UICONTROL **Gereed**].
+1. Klik [!UICONTROL **Gedaan**].
 
-Als u **Wijzigingen bijhouden van geselecteerde versie, optie** Vervolgens worden alle wijzigingen van de geselecteerde versie weergegeven op het tabblad Wijzigingen van het rechterdeelvenster.
+Als u de **Veranderingen van het Spoor van de Geselecteerde optie van de Versie** selecteerde, dan verschijnen alle veranderingen van de geselecteerde versie in het lusje van Veranderingen van het juiste paneel.

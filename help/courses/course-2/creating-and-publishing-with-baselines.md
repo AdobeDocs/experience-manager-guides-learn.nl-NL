@@ -1,6 +1,6 @@
 ---
 title: Maken en publiceren met basislijnen
-description: Maken en publiceren met basislijnen in [!DNL Adobe Experience Manager Guides]
+description: Maken en publiceren met basislijnen in  [!DNL Adobe Experience Manager Guides]
 exl-id: 3c229c30-f2e0-4fb0-b60c-7bae60ef1a5b
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -19,45 +19,45 @@ Door een basislijn te gebruiken, kunt u een versie van uw kaartonderwerpen en ve
 
 U kunt tot uw basislijnen in het Dashboard van de Kaart toegang hebben.
 
-1. Weergave opslagplaats, selecteer het pictogram Ovaal op de kaart om het menu Opties te openen en vervolgens **Open Kaartdashboard.**
+1. De Mening van de bewaarplaats, selecteert het pictogram van de Ellipse op uw kaart om het menu van Opties te openen, en dan **Open het Dashboard van de Kaart.**
 
-   ![ellipsis-map-dashboard.png](images/ellipsis-map-dashboard.png)
+   ![ ellipsis-kaart-dashboard.png ](images/ellipsis-map-dashboard.png)
 Het kaartdashboard wordt op een ander tabblad geopend.
 
-1. Selecteren **Basislijnen**.
+1. Selecteer **Basislijnen**.
 
-   ![baseline-tab.png](images/baseline-tab.png)
+   ![ baseline-tab.png ](images/baseline-tab.png)
 
 Het tabblad Basislijnen wordt weergegeven.
 
 ## Een basislijn maken op basis van labels
 
-1. Selecteer op het tabblad Basislijnen de optie **Maken**.
+1. In het lusje van Basislijnen, creeer de uitgezochte ****.
 
-   ![create-baseline.png](images/create-baseline.png)
+   ![ create-baseline.png ](images/create-baseline.png)
 
    De nieuwe basislijninformatie wordt weergegeven. De standaardnaam is gebaseerd op de aanmaakdatum.
 
 1. Geef uw basislijn een nieuwe naam, indien nodig.
 
 1. Selecteer onder de kop &quot;De versie instellen op basis van&quot; de cirkel bij Label.
-   ![set-the-version.png](images/set-the-version.png)
+   ![ set-the-version.png ](images/set-the-version.png)
 
    >[!NOTE]
    >
-   >OPMERKING: De *Laatste versie gebruiken als label niet aanwezig is* selectievakje is standaard ingeschakeld. Als dit niet wordt geselecteerd, en onderwerpen of media dossiers zonder het gekozen etiket op uw kaart bestaan, zal het proces van de verwezenlijking van de Basislijn ontbreken.
+   >NOTA: De *recentste versie van het Gebruik als het etiket* geen checkbox aanwezig is wordt geselecteerd door gebrek. Als dit niet wordt geselecteerd, en onderwerpen of media dossiers zonder het gekozen etiket op uw kaart bestaan, zal het proces van de verwezenlijking van de Basislijn ontbreken.
 
 1. Voer het label in dat u wilt gebruiken.
 
-1. Selecteren **Opslaan**.
+1. Selecteer **sparen**.
 
 De basislijn wordt gemaakt. Een lijst van alle onderwerpen en hun bijbehorende informatievertoningen.
 
 ### De functie Bladeren door alle onderwerpen gebruiken
 
-De Browse Al eigenschap van Onderwerpen staat u toe om de informatie van het onderwerp, met inbegrip van de versie en het etiket te bekijken, evenals de gebruikte versie te specificeren. U kunt het openen door te selecteren **Bladeren door alle onderwerpen** bij het maken of bewerken van de basislijn.
+De Browse Al eigenschap van Onderwerpen staat u toe om de informatie van het onderwerp, met inbegrip van de versie en het etiket te bekijken, evenals de gebruikte versie te specificeren. U kunt tot het toegang hebben door **te selecteren doorbladert Alle Onderwerpen** wanneer het creëren van of het uitgeven van uw basislijn.
 
-![browse-all-topics.png](images/browse-all-topics.png)
+![ browse-all-topics.png ](images/browse-all-topics.png)
 
 ## Een basislijn maken op basis van datum en tijd
 
@@ -65,19 +65,19 @@ U kunt ook basislijnen maken die een momentopname in de tijd zijn.
 
 1. Zorg ervoor dat het tabblad Basislijnen is geopend en selecteer Maken.
 
-   ![create-baseline.png](images/create-baseline.png)
+   ![ create-baseline.png ](images/create-baseline.png)
 
 1. Selecteer onder de kop &quot;De versie instellen op basis van&quot; de cirkel bij &quot;Versie ingeschakeld&quot;.
 
-   ![version-on.png](images/version-on.png)
+   ![ version-on.png ](images/version-on.png)
 
 1. Selecteer het kalenderpictogram en geef de gewenste datum en tijd op.
 
-   ![agenda.png](images/calendar.png)
+   ![ agenda.png ](images/calendar.png)
 
 1. Geef uw basislijn een nieuwe naam als dat nodig is.
 
-1. Selecteren **Opslaan**.
+1. Selecteer **sparen**.
 
 De basislijn wordt gemaakt. Een lijst van alle onderwerpen en hun bijbehorende informatievertoningen.
 
@@ -87,13 +87,13 @@ U kunt een nieuw label in bulk aan al uw kaartinhoud willen toewijzen.
 
 1. Selecteer de basislijn waaraan u labels wilt toevoegen.
 
-1. Selecteren **Labels toevoegen**.
+1. Selecteer **toevoegen Etiketten**.
 
-   ![add-labels.png](images/add-labels.png)
+   ![ toe:voegen-labels.png ](images/add-labels.png)
 
    Het dialoogvenster Label toevoegen wordt weergegeven.
 
-1. Voer het label in dat u wilt toewijzen en selecteer **Toevoegen**.
+1. Ga het etiket in u, **wilt toewijzen en selecteren** toevoegt.
 
 Het label is toegevoegd aan alle onderwerpen.
 
@@ -103,25 +103,25 @@ Het label is toegevoegd aan alle onderwerpen.
 
 1. Schakel het selectievakje AEM site in.
 
-   ![aem-site-checkbox.png](images/aem-site-checkbox.png)
+   ![ aem-plaats-checkbox.png ](images/aem-site-checkbox.png)
 
-1. Selecteren **Bewerken**.
+1. Selecteer **uitgeven**.
 
-   ![edit-name.png](images/edit-aem.png)
+   ![ uitgeven-aem.png ](images/edit-aem.png)
 
    Er wordt een nieuwe pagina weergegeven.
 
 1. Schakel het selectievakje Basislijn gebruiken in en kies in het vervolgkeuzemenu de basislijn die u wilt gebruiken.
 
-   ![baseline.png](images/baseline.png)
+   ![ baseline.png ](images/baseline.png)
 
-1. Selecteren **Gereed**.
+1. Selecteer **Gereed**.
 
-   ![done.png](images/done.png)
+   ![ done.png ](images/done.png)
 
-1. Selecteren **Genereren**.
+1. Selecteer **produceren**.
 
-   ![generate.png](images/generate.png)
+   ![ generate.png ](images/generate.png)
 
    De uitvoer is gegenereerd met een basislijn.
 
@@ -130,19 +130,19 @@ Het label is toegevoegd aan alle onderwerpen.
 1. Navigeer naar het tabblad Uitvoer in het kaartdashboard.
 
 1. Selecteer de tekst in de kolom Generatie-instelling om de uitvoer te openen.
-   ![aem-site-link.png](images/aem-site-link.png)
+   ![ aem-site-link.png ](images/aem-site-link.png)
 
 ## Een basislijn verwijderen
 
 1. Selecteer op het tabblad Basislijnen de basislijn die u wilt verwijderen.
 
-1. Selecteren **Verwijderen**.
+1. Selecteer **verwijderen**.
 
-   ![remove-baseline.png](images/remove-baseline.png)
+   ![ remove-baseline.png ](images/remove-baseline.png)
 
    Het dialoogvenster Basislijn verwijderen wordt weergegeven.
 
-1. Selecteren **Verwijderen**.
+1. Selecteer **verwijderen**.
 
 De basislijn wordt verwijderd.
 
@@ -150,13 +150,13 @@ De basislijn wordt verwijderd.
 
 1. Selecteer op het tabblad Basislijnen de basislijn die u wilt dupliceren.
 
-1. Selecteren **Dupliceren**.
+1. Selecteer **Dupliceren**.
 
-   ![duplicate.png](images/duplicate.png)
+   ![ duplicate.png ](images/duplicate.png)
 
-1. Selecteren **Opslaan**.
+1. Selecteer **sparen**.
 
-   ![save.png](images/save.png)
+   ![ save.png ](images/save.png)
 
 De gedupliceerde basislijn wordt gemaakt.
 
@@ -165,21 +165,21 @@ De gedupliceerde basislijn wordt gemaakt.
 U kunt de versie van een onderwerp direct specificeren dat in een basislijn wordt gebruikt.
 
 1. Selecteer op het tabblad Basislijnen de basislijn die u wilt wijzigen.
-1. Selecteren **Bewerken**.
+1. Selecteer **uitgeven**.
 
-   ![edit-name.png](images/edit-aem.png)
+   ![ uitgeven-aem.png ](images/edit-aem.png)
 
-1. Selecteren **Bladeren door alle onderwerpen**.
+1. Selecteer **doorbladeren Alle Onderwerpen**.
 
-   ![browse-all-topics.png](images/browse-all-topics.png)
+   ![ browse-all-topics.png ](images/browse-all-topics.png)
 
    Een lijst van onderwerpen en hun bijbehorende informatievertoningen.
 
 1. Voor de onderwerpen u zou willen wijzigen, selecteer de gewenste versie van dropdown onder de kolom van de Versie.
 
-   ![version-dropdown.png](images/version-dropdown.png)
+   ![ version-dropdown.png ](images/version-dropdown.png)
 
-1. Selecteren **Opslaan**.
+1. Selecteer **sparen**.
 
 Uw wijzigingen zijn opgeslagen. Uw basislijn zal nu de versies van het onderwerp gebruiken dat u specificeerde.
 
@@ -191,17 +191,17 @@ In dit geval maken we een uitvoervoorinstelling op basis van een basislijn.
 
 1. Navigeer naar het tabblad Uitvoervoorinstellingen in het dashboard Kaart.
 
-1. Selecteer **Maken**.
+1. Selecteer **creeer**.
 
-   ![create-output-preset.png](images/create-output-preset.png)
+   ![ creeer-output-preset.png ](images/create-output-preset.png)
 
    Er wordt een nieuwe pagina met uitvoervoorinstellingen weergegeven, genaamd Nieuwe uitvoer.
 1. Voer in het veld Naam instellen een gebruikersvriendelijke naam in.
 
 1. Schakel het selectievakje Basislijn gebruiken in en selecteer de gewenste basislijn in het vervolgkeuzemenu.
 
-   ![baseline.png](images/baseline.png)
+   ![ baseline.png ](images/baseline.png)
 
-1. Selecteren **Gereed**.
+1. Selecteer **Gereed**.
 
 Uw nieuwe uitvoervoorinstelling is gemaakt en wordt weergegeven op de pagina met uitvoervoorinstellingen.

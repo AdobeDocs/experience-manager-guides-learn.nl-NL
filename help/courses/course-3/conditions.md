@@ -13,21 +13,21 @@ ht-degree: 0%
 
 In DITA, worden de voorwaarden vaak gedreven door attributen zoals Product, Platform, en Publiek. Deze kunnen ook specifieke waarden hebben die aan hen worden toegewezen. Gebruikers kunnen dit alles beheren via Mapprofielen.
 
-Voorbeeldbestanden die u voor deze les wilt gebruiken, staan in het bestand [condities.zip](assets/conditions.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ conditions.zip ](assets/conditions.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342755?quality=12&learn=on)
 
 ## Voorwaarden toewijzen aan een mapprofiel
 
-1. Selecteer **Mapprofielen** tegel.
+1. Selecteer de **tegel van de Profielen van de 1} Omslag 0}.**
 
-1. Klikken [!UICONTROL **Voorwaardelijke kenmerken**].
+1. Klik [!UICONTROL **Voorwaardelijke Attributen**].
 
-1. Klikken [!UICONTROL **Bewerken**] in de linkerbovenhoek van het profiel.
+1. Klik [!UICONTROL **uitgeven**] in de hoogste linkerhoek van het profiel.
 
-1. Klikken [!UICONTROL **Toevoegen**].
+1. Klik [!UICONTROL **toevoegen**].
 
-   ![Voorwaarden in mapprofielen](images/lesson-13/add-name.png)
+   ![ Voorwaarden in de Profielen van de Omslag ](images/lesson-13/add-name.png)
 
 1. Vul de vereiste velden in.
 
@@ -37,23 +37,23 @@ Voorbeeldbestanden die u voor deze les wilt gebruiken, staan in het bestand [con
 
    - Het label is het woord dat wordt weergegeven door de gebruiker die kenmerken invoert.
 
-1. Klikken [!UICONTROL **Opslaan**].
+1. Klik [!UICONTROL **sparen**].
 
 >[!NOTE]
 >
->OPMERKING: het configureren van een globaal profiel kan een vroege en efficiënte manier zijn om het gebruik van kenmerken en waarden te beheren volgens een consistente stijlhulplijn.
+>NOTA: het vormen van een Globaal Profiel kan een vroege en efficiënte manier zijn om het gebruik van attributen en waarden te controleren om een verenigbare stijlgids te volgen.
 
 ## Kenmerken toewijzen aan elementen
 
 Als er geen aangepast mapprofiel aan een concept is toegewezen, kunt u desgewenst kenmerken aan specifieke elementen, zoals alinea&#39;s, toewijzen.
 
-1. Van de **Weergave opslagplaats**, klikt u op het element waarmee u wilt werken om het te selecteren.
+1. Van de **Mening van de Bewaarplaats**, klik op het element u wilt werken met om het te selecteren.
 
-1. In de **Eigenschappen van inhoud** klikt u op het deelvenster [!UICONTROL **Kenmerk**] vervolgkeuzelijst.
+1. In het **paneel van de Eigenschappen van de Inhoud**, klik op [!UICONTROL **Attributen**] dropdown.
 
 1. Kies het kenmerk dat u wilt toewijzen.
 
-1. Voeg een **Waarde**.
+1. Voeg a **Waarde** toe.
 
 Het kenmerk en de waardepapier worden nu toegewezen aan het geselecteerde element.
 
@@ -61,19 +61,19 @@ Het kenmerk en de waardepapier worden nu toegewezen aan het geselecteerde elemen
 
 In het deelvenster Voorwaarden kunt u kenmerken en waarden op een gecontroleerde manier toewijzen.
 
-1. De **Gebruikersvoorkeuren**.
+1. Wijzig de **Voorkeur van de Gebruiker**.
 
    a. Klik op het pictogram Gebruikersvoorkeuren.
 
-   ![Pictogram Gebruikersvoorkeuren](images/lesson-13/user-prefs-icon.png)
+   ![ Pictogram van de Voorkeur van de Gebruiker ](images/lesson-13/user-prefs-icon.png)
 
-   b. Vul de vereiste velden in het dialoogvenster **Gebruikersvoorkeuren** . Bijvoorbeeld:
+   b. Voltooi de vereiste gebieden in de **dialoog van de Voorkeur van de Gebruiker**. Bijvoorbeeld:
 
-   ![Gebruikersvoorkeuren](images/lesson-13/user-preferences.png)
+   ![ Voorkeur van de Gebruiker ](images/lesson-13/user-preferences.png)
 
-   c. Klikken [!UICONTROL **Opslaan**].
+   c. Klik [!UICONTROL **sparen**].
 
-1. Vouw in het deelvenster Voorwaarden de vervolgkeuzelijsten voor Publiek en Platform uit. De beschikbare voorwaarden zijn specifiek voor het mapprofiel.
+1. Vouw in het deelvenster Voorwaarden de vervolgkeuzelijsten voor publiek en platform uit. De beschikbare voorwaarden zijn specifiek voor het mapprofiel.
 
 1. Sleep een voorwaarde naar het gewenste element om deze toe te wijzen.
 
@@ -81,44 +81,44 @@ In het deelvenster Voorwaarden kunt u kenmerken en waarden op een gecontroleerde
 
 De kaarten van het onderwerpRegeling zijn een gespecialiseerde vorm van ditamap en door een kaart van verwijzingen voorzien. Onderwerpregelingen worden gebruikt om taxonomieën te definiëren. Ze bieden controle over de beschikbare waarden.
 
-1. Ga naar de **Weergave opslagplaats**.
+1. Navigeer aan de **Mening van de Bewaarplaats**.
 
-1. Selecteer een kaart die verwijst naar het onderwerpschema ditamap. In dit voorbeeld wordt de kaart met de naam _Ontwerp en lay-out_.
+1. Selecteer een kaart die verwijst naar het onderwerpschema ditamap. Dit voorbeeld gebruikt de kaart genoemd _Ontwerp en Lay-out_.
 
-   ![Gebruikersvoorkeuren](images/lesson-13/subject-scheme-map.png)
+   ![ Voorkeur van de Gebruiker ](images/lesson-13/subject-scheme-map.png)
 
 1. Gebruikersvoorkeuren configureren.
 
-   a. Klik op de knop [!UICONTROL **Gebruikersvoorkeuren**] pictogram.
+   a. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**].
 
-   ![Gebruikersvoorkeuren](images/lesson-13/user-prefs-icon-2.png)
+   ![ Voorkeur van de Gebruiker ](images/lesson-13/user-prefs-icon-2.png)
 
-   b. Vul de velden in het dialoogvenster **Gebruikersvoorkeuren** .
+   b. Vul de gebieden in de **dialoog van de Voorkeur van de Gebruiker**.
 
    c. Klik op het mapsymbool naast het veld Basispad om het pad naar het gewenste bestand te kiezen.
 
-   d. Klikken [!UICONTROL **Selecteren**].
+   d. Klik [!UICONTROL **Uitgezocht**].
 
-   e. Klik op het hoofdsymbool naast de knop **Hoofdmap** veld om een pad in te voeren.
+   e. Klik het belangrijkste symbool naast het **gebied van de Kaart van de Wortel** om een weg in te gaan.
 
    >[!IMPORTANT]
    >
-   >Belangrijk: de geselecteerde kaart van de Wortel moet de kaart zijn die het OnderwerpRegeling bevat.
+   >Belangrijk: de geselecteerde wortelkaart moet de kaart zijn die het Onderwerpschema bevat.
 
-   ![Gebruikersvoorkeuren](images/lesson-13/user-preferences-2.png)
+   ![ Voorkeur van de Gebruiker ](images/lesson-13/user-preferences-2.png)
 
    f. Beperk de weergegeven elementen door de map(pen) te selecteren die u wilt gebruiken.
 
-   g. Klikken [!UICONTROL **Selecteren**].
+   g. Klik [!UICONTROL **Uitgezocht**].
 
-   h. Klikken [!UICONTROL **Opslaan**].
+   h. Klik [!UICONTROL **sparen**].
 
 Het onderwerpprogramma is nu toegewezen.
 
 ## Het onderwerpschema weergeven vanuit het deelvenster Voorwaarden
 
-1. Navigeren naar **Editor-instellingen**.
+1. Navigeer aan **Montages van de Redacteur**.
 
-1. Selecteer **Voorwaarden** tab.
+1. Selecteer de **Voorwaarden** tabel.
 
-1. Het selectievakje inschakelen **Het onderwerpschema tonen in het deelvenster Voorwaarden**
+1. Controle de doos **toont onderwerpregeling in het paneel van Voorwaarden**

@@ -1,6 +1,6 @@
 ---
 title: Deelvensters
-description: Deelvensters in AEM hulplijnen gebruiken
+description: Deelvensters in AEM Guides gebruiken
 exl-id: 24ecfc93-3540-4efa-ae85-afb346454b7f
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Deelvensters
 
-De webeditor voor AEM hulplijnen bestaat uit meerdere secties, waaronder een hoofdwerkbalk, een secundaire werkbalk, een linkerdeelvenster, een bewerkingsgebied voor inhoud en een rechterdeelvenster.
+De AEM Guides Web Editor bestaat uit meerdere secties, waaronder een hoofdwerkbalk, een secundaire werkbalk, een linkerdeelvenster, een bewerkingsgebied voor inhoud en een rechterdeelvenster.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342760?quality=12&learn=on)
 
@@ -19,37 +19,37 @@ De webeditor voor AEM hulplijnen bestaat uit meerdere secties, waaronder een hoo
 
 Blijvende deelvensters, zoals het linkerdeelvenster, kunnen in grootte worden aangepast.
 
-1. Plaats de cursor op de vensterrand.
+1. Plaats de cursor op de rand van het deelvenster.
 
-1. Wanneer de dubbele pijl verschijnt, klikt u en sleept u naar binnen of naar buiten.
+1. Klik en sleep naar binnen of naar buiten wanneer de dubbele pijl verschijnt.
 
 ## De linkerzijbalk van het deelvenster uitvouwen of samenvouwen
 
 In de uitgevouwen weergave worden de namen en pictogrammen weergegeven die als knopinfo worden weergegeven in de samengevouwen weergave.
 
-1. Klik op de knop [!UICONTROL **Zijbalk**] om het deelvenster uit te vouwen.
+1. Klik het [!UICONTROL **Sidebar**] pictogram om het paneel uit te breiden.
 
-   ![Zijbalk uitvouwen](images/lesson-5/expand-sidebar.png)
+   ![ uitbreiden Zijbalk ](images/lesson-5/expand-sidebar.png)
 
-1. Klik op de knop [!UICONTROL **Zijbalk**] weer om het deelvenster samen te vouwen.
+1. Klik opnieuw het [!UICONTROL **Sidebar**] pictogram om het paneel samen te vouwen.
 
-   ![Zijbalk samenvouwen](images/lesson-5/collapse-sidebar.png)
+   ![ samenvouwen Sidebar ](images/lesson-5/collapse-sidebar.png)
 
 ## Een verzameling Favorieten maken
 
 In het linkerdeelvenster kunt u met Favorieten een lijst met specifieke documenten maken en deze in de loop der tijd toevoegen. U kunt een brede inzameling van Favorieten tot stand brengen en beheren.
 
-1. Selecteren **Favorieten** in het linkerdeelvenster.
+1. Selecteer **Favorieten** op het linkerpaneel.
 
-1. Klik op de knop [!UICONTROL **Plus**] pictogram.
+1. Klik [!UICONTROL **plus**] pictogram.
 
-   ![Favorieten Plus](images/lesson-5/favorites-plus.png)
+   ![ Favorieten plus ](images/lesson-5/favorites-plus.png)
 
-1. Voer in het dialoogvenster Nieuwe verzameling een **Titel** en **Beschrijving**.
+1. In de Nieuwe dialoog van de Inzameling, ga a **Titel** en a **Beschrijving** in.
 
    Houd er rekening mee dat als u Openbaar selecteert, andere gebruikers deze favoriet kunnen zien.
 
-1. Klikken [!UICONTROL **Maken**].
+1. Klik [!UICONTROL **creëren**].
 
 U hebt nu een verzameling Favorieten gemaakt.
 
@@ -57,21 +57,21 @@ U hebt nu een verzameling Favorieten gemaakt.
 
 Nadat u een verzameling hebt gemaakt, kunt u beginnen met het toevoegen van Favorieten.
 
-1. Selecteren **Weergave opslagplaats** in het linkerdeelvenster.
+1. Selecteer **Mening van de Bewaarplaats** op het linkerpaneel.
 
-1. Klik op de knop [!UICONTROL **Weglatingsteken**] naast een onderwerp voor toegang tot contextafhankelijke opties.
+1. Klik de [!UICONTROL **Ellipse**] die naast een onderwerp wordt gevestigd om tot contextafhankelijke opties toegang te hebben.
 
-1. Selecteren **Toevoegen aan** > **Favorieten**.
+1. Selecteer **toevoegen aan** > **Favorieten**.
 
-1. Kies in het dialoogvenster Toevoegen aan Favorieten de optie **Nieuwe verzameling** of **Bestaande verzameling**.
+1. In Add aan de dialoog van Favorieten, kies **Nieuwe Inzameling** of **Bestaande Inzameling**.
 
    Hier, zullen wij verkiezen om aan een Bestaande Inzameling toe te voegen.
 
-   ![Dialoogvenster Favorieten](images/lesson-5/add-to-favorites-dialog.png)
+   ![ de Dialoog van Favorieten ](images/lesson-5/add-to-favorites-dialog.png)
 
 1. Selecteer indien nodig een verzameling in het vervolgkeuzemenu.
 
-1. Klikken [!UICONTROL **Toevoegen**].
+1. Klik [!UICONTROL **toevoegen**].
 
 Het onderwerp wordt toegevoegd aan de inzameling van Favorieten u koos. U kunt deze weergeven in het menu Favorieten.
 
@@ -79,25 +79,25 @@ Het onderwerp wordt toegevoegd aan de inzameling van Favorieten u koos. U kunt d
 
 Een andere manier om een onderwerp aan uw Favorieten toe te voegen is van een open onderwerp in de Redacteur.
 
-1. Ga naar de **Weergave opslagplaats**.
+1. Navigeer aan de **Mening van de Bewaarplaats**.
 
 1. Dubbelklik op een onderwerp om het te openen.
 
-1. Klik met de rechtermuisknop op de **Tabblad Titel** in de Editor voor toegang tot contextafhankelijke opties.
+1. Klik op het lusje van de Titel van het dossier **** in de Redacteur met de rechtermuisknop aan om tot contextafhankelijke opties toegang te hebben.
 
-1. Kies **Toevoegen aan** > **Favorieten**.
+1. Kies **toevoegen aan** > **Favorieten**.
 
-   ![Toevoegen aan Favorieten](images/lesson-5/addto-favorites.png)
+   ![ voeg aan Favorieten toe ](images/lesson-5/addto-favorites.png)
 
-1. Kies in het dialoogvenster Toevoegen aan Favorieten de optie **Nieuwe verzameling** of **Bestaande verzameling**.
+1. In Add aan de dialoog van Favorieten, kies **Nieuwe Inzameling** of **Bestaande Inzameling**.
 
    Hier, zullen wij verkiezen om aan een Nieuwe Inzameling toe te voegen.
 
-1. Voer in het dialoogvenster Nieuwe verzameling een **Titel** en **Beschrijving**.
+1. In de Nieuwe dialoog van de Inzameling, ga a **Titel** en a **Beschrijving** in.
 
-   Houd er rekening mee dat u **Openbaar** betekent dat andere gebruikers deze favoriet kunnen zien.
+   Merk op dat het selecteren van **Openbaar** betekent andere gebruikers deze Favoriet kunnen zien.
 
-1. Klikken [!UICONTROL **Maken**].
+1. Klik [!UICONTROL **creëren**].
 
 De nieuwe favoriet is gemaakt en gegroepeerd. U kunt deze weergeven in het menu Favorieten.
 
@@ -105,23 +105,23 @@ De nieuwe favoriet is gemaakt en gegroepeerd. U kunt deze weergeven in het menu 
 
 Het is gemakkelijk om te bekijken welke onderwerpen u reeds aan uw Inzamelingen van Favorieten hebt toegevoegd.
 
-1. Selecteren [!UICONTROL **Favorieten**] in het linkerdeelvenster.
+1. Selecteer [!UICONTROL **Favorieten**] op het linkerpaneel.
 
-1. Klik onder Favorieten op de knop [!UICONTROL **Pijl**] pictogram naast een verzameling om de inhoud ervan weer te geven.
+1. Onder Favorieten, klik het [!UICONTROL **pictogram van de Pijl**] naast een inzameling om zijn inhoud te bekijken.
 
-   ![Favorieten weergeven](images/lesson-5/view-favorites.png)
+   ![ Favorieten van de Mening ](images/lesson-5/view-favorites.png)
 
-1. Klik op de knop [!UICONTROL **Weglatingsteken**] naast een onderwerp om contextuele opties, met inbegrip van de optie te tonen om het van de lijst van Favorieten te schrappen.
+1. Klik de [!UICONTROL **Ellipse**] naast een onderwerp om contextafhankelijke opties, met inbegrip van de optie omhoog te brengen om het van de lijst van Favorieten te schrappen.
 
 ## Een zoekopdracht filteren in de weergave Opslagplaats
 
-Met het verbeterde filter in de opslagplaats kunt u zoeken naar tekst met een groot aantal beperkingen.
+Met het verbeterde filter in de gegevensopslagruimte kunt u zoeken naar tekst met een groot aantal beperkingen.
 
-1. Navigeren naar **Weergave opslagplaats**.
+1. Navigeer aan **Mening van de Bewaarplaats**.
 
-1. Klik op de knop [!UICONTROL **Filter Zoeken**] pictogram.
+1. Klik het [!UICONTROL **pictogram van het Onderzoek van de Filter**].
 
-   ![Pictogram voor filter Bewaarplaats](images/lesson-5/repository-filter-icon.png)
+   ![ Pictogram van de Filter van de Bewaarplaats ](images/lesson-5/repository-filter-icon.png)
 
 1. Typ tekst in het geselecteerde pad of kies indien nodig een nieuw pad.
 
@@ -129,39 +129,40 @@ Met het verbeterde filter in de opslagplaats kunt u zoeken naar tekst met een gr
 
 1. Klik op het pijlpictogram naast een zoekcategorie om de zoekopdracht indien nodig verder te beperken.
 
-   ![Filtercriteria](images/lesson-5/filter-criteria.png)
+   ![ Criteria van de Filter ](images/lesson-5/filter-criteria.png)
 
 Zoekopdrachten kunnen worden beperkt tot DITA-onderwerpen of DITA-kaarten. U kunt zoeken in niet-DITA-afbeeldingsbestanden, multimedia of andere documenten in het geselecteerde pad. U kunt de zoekopdracht zelfs beperken tot DITA-elementen of filteren door het uitchecken van bestanden.
 
 ## De Kaartweergave verkennen
 
-In de Kaartweergave zijn verschillende nuttige functies beschikbaar, zoals de mogelijkheid om bestanden uit te checken en te vergrendelen, een voorvertoning van het kaartbestand weer te geven, het Kaartdashboard te openen en de kaart weer te geven in de interface Middelen.
+In de Kaartweergave zijn verschillende nuttige functies beschikbaar, zoals de mogelijkheid om bestanden uit te checken en te vergrendelen, een voorvertoning van het kaartbestand weer te geven, het Kaartdashboard te openen en de kaart in de gebruikersinterface van Assets weer te geven.
 
-Zie de les met de titel [Kaarten en bladwijzers](./maps-and-bookmaps.md) in deze cursus voor meer informatie over de Kaartweergave en de functionaliteit ervan.
+Verwijs naar de les die [ wordt genoemd Kaarten en Bookmaps ](./maps-and-bookmaps.md) in deze cursus voor meer informatie over de Mening van de Kaart en zijn functionaliteit.
 
 ## De omtrekweergave verkennen
 
 De mening van het Overzicht verstrekt een hiërarchische mening van het huidige document in het Overzicht. U kunt de mening van het Overzicht uitbreiden om veelvoudige elementen evenals om het even welke toegewezen IDs te tonen.
 
-Zie de les met de titel [Omtrekweergave](./outline-view.md) in deze cursus voor meer informatie over de mening van het Overzicht en zijn functionaliteit.
+Verwijs naar de les die [ wordt genoemd Mening van het Overzicht ](./outline-view.md) in deze cursus voor meer informatie over de Mening van het Overzicht en zijn functionaliteit.
 
 ## Werken met herbruikbare inhoud
 
 De kernDITA eigenschap is de capaciteit om inhoud, van kleine uitdrukkingen aan volledige onderwerpen of kaarten opnieuw te gebruiken. De Editor biedt een interface voor slepen en neerzetten voor hergebruik van inhoud.
 
-Zie de les met de titel [Inhoud opnieuw gebruiken](./content-reuse.md) in deze cursus voor meer informatie over herbruikbare inhoud en hoe u deze effectief kunt beheren.
+Verwijs naar de les genoemd [ Inhoud hergebruik ](./content-reuse.md) in deze cursus voor meer
+informatie over herbruikbare inhoud en hoe deze op effectieve wijze kan worden beheerd.
 
 ## Werken met woordenlijsten
 
 Met de verklarende woordenlijst is het eenvoudiger om informatie consistent te formuleren en de lezer meer duidelijkheid te verschaffen. De Redacteur verstrekt belemmering-en-dalingsinterface voor het opnemen van verklarende woordenlijsttermijnen in een onderwerp.
 
-Zie de les met de titel [Verklarende woordenlijst](./glossary.md) in deze cursus voor meer informatie over het vormen van en het gebruiken van verklarende woordenlijsten.
+Verwijs naar de les die [ wordt genoemd Verklarende woordenlijst ](./glossary.md) in deze cursus voor meer informatie bij het vormen van en het gebruiken van verklarende woordenboeken.
 
 ## Werken met voorwaarden
 
-In DITA, worden de voorwaarden vaak gedreven door het gebruik van attributen zoals Product, Platform, en Publiek, die elk specifieke waarden kunnen hebben die aan hen worden toegewezen. De voorwaarden worden beheerd door de Profielen van de Omslag.
+In DITA, worden de voorwaarden vaak gedreven door gebruik van attributen zoals Product, Platform, en Publiek, die elk specifieke waarden kunnen hebben die aan hen worden toegewezen. De voorwaarden worden beheerd via Mapprofielen.
 
-Zie de les met de titel [Voorwaarden](./conditions.md) in deze cursus voor meer informatie over het configureren en gebruiken van voorwaardelijke kenmerken.
+Verwijs naar de les die [ wordt genoemd Voorwaarden ](./conditions.md) in deze cursus voor meer informatie bij het vormen en het gebruiken van voorwaardelijke attributen.
 
 ## Een fragment maken
 
@@ -173,17 +174,17 @@ Fragmenten zijn kleine inhoudsfragmenten die opnieuw kunnen worden gebruikt als 
 
 1. Klik op de secundaire muisknop in het element.
 
-1. Kies in het resulterende menu de optie Maken [!UICONTROL **Fragment**].
+1. In het resulterende menu, kies creëren [!UICONTROL **Fragment**].
 
-   ![Fragment maken](images/lesson-5/create-snippet.png)
+   ![ creeer Fragment ](images/lesson-5/create-snippet.png)
 
-1. Voeg in het dialoogvenster Nieuw fragment een **Titel** en **Beschrijving**.
+1. In de Nieuwe dialoog van het Fragment, voeg a **Titel** en a **Beschrijving** toe.
 
 1. Bewerk het fragment naar wens.
 
    Een contextafhankelijke controle geeft een visuele melding als u een fout in de inhoud invoert.
 
-1. Klikken [!UICONTROL **Maken**].
+1. Klik [!UICONTROL **creëren**].
 
 Het fragment wordt toegevoegd aan de lijst met beschikbare fragmenten. Het is klaar om in een geldige plaats in het onderwerp worden gesleept en worden gelaten vallen.
 
@@ -191,19 +192,19 @@ Het fragment wordt toegevoegd aan de lijst met beschikbare fragmenten. Het is kl
 
 Met behulp van het deelvenster Sjablonen kunnen beheerders eenvoudig sjablonen voor auteurs maken en beheren. Door gebrek, zijn de malplaatjes gecategoriseerd als Kaart en onderwerp-type.
 
-Raadpleeg de geleerde lessen [Mapprofielen](./folder-profiles.md) en [Workflows voor het maken van eenvoudige inhoud](simple-content-creation-workflows.md) in deze cursus voor meer informatie over het configureren en toepassen van sjablonen.
+Verwijs naar de lessen die [ de Profielen van de Omslag ](./folder-profiles.md) worden genoemd en [ de Eenvoudige Werkschema&#39;s van de Aanmaak van de Inhoud ](simple-content-creation-workflows.md) in deze cursus voor meer informatie bij het vormen en het toepassen van malplaatjes.
 
 ## Bestanden zoeken met Zoeken en vervangen
 
 Er zijn twee opties voor Zoeken en Vervangen beschikbaar in de Editor. De eerste functie staat Zoeken en vervangen toe binnen een specifiek open onderwerp, net als een traditionele tekstverwerker. Het tweede is een deelvenster Zoeken en vervangen waarin wordt gezocht naar tekst in meerdere bestanden in de opslagplaats.
 
-Zie de les met de titel [Spellingcontrole en Zoeken en vervangen](./spell-check.md)  in deze cursus voor meer informatie over de functie Zoeken en vervangen.
+Verwijs naar de les die [ wordt genoemd Controle van de Spel en vind en vervang ](./spell-check.md) in deze cursus voor meer informatie over de Vondst en vervang eigenschap.
 
 ## Eigenschappen van inhoud bijwerken
 
 De Eigenschappen van de inhoud op het juiste paneel omvat specifieke informatie over het momenteel geselecteerde element, bijvoorbeeld identiteitskaart van Attributen en Waarde.
 
-1. Een onderwerp openen in **XML-editor**.
+1. Open een onderwerp in **Redacteur van XML**.
 
 1. Selecteer een **element**.
 
@@ -211,7 +212,7 @@ De Eigenschappen van de inhoud op het juiste paneel omvat specifieke informatie 
 
 1. Typ een nieuwe **Waarde** voor het element.
 
-   ![Nieuwe waarde](images/lesson-5/new-value.png)
+   ![ Nieuwe Waarde ](images/lesson-5/new-value.png)
 
 De eigenschappen van de inhoud worden dynamisch bijgewerkt wanneer u elementen wijzigt.
 
@@ -221,31 +222,31 @@ De Eigenschappen van het dossier toont extra informatie over het volledige open 
 
 1. Open een onderwerp in de Redacteur.
 
-1. Klik op de knop [!UICONTROL  **Bestandseigenschappen**] in het rechterdeelvenster.
+1. Klik het [!UICONTROL  **pictogram van de Eigenschappen van het Dossier**] op het juiste paneel.
 
-   ![Pictogram Bestandseigenschappen](images/lesson-5/file-properties-icon.png)
+   ![ Pictogram van de Eigenschappen van het Dossier ](images/lesson-5/file-properties-icon.png)
 
-1. Stel de **Documentstatus** tot **Bewerken**. De lijst Verwijzingen is momenteel leeg.
+1. Plaats de **Staat van het Document** aan **uitgeven**. De lijst Verwijzingen is momenteel leeg.
 
-   ![Geen verwijzingen](images/lesson-5/no-references.png)
+   ![ Geen Verwijzingen ](images/lesson-5/no-references.png)
 
 1. Sluit het onderwerp.
 
-1. Selecteren [!UICONTROL **Weergave opslagplaats**] in het linkerdeelvenster.
+1. Selecteer [!UICONTROL **Mening van de Bewaarplaats**] op het linkerpaneel.
 
 1. Open een kaart.
 
    De weergave verandert in Kaartweergave.
 
-1. Klik op de knop [!UICONTROL **Bewerken**] pictogram.
+1. Klik [!UICONTROL **uitgeven**] pictogram.
 
-   ![Pictogram Kaart bewerken](images/lesson-5/edit-map-icon.png)
+   ![ geef het Pictogram van de Kaart ](images/lesson-5/edit-map-icon.png) uit
 
-1. Als de kaart is geopend voor bewerken, schakelt u terug naar **Weergave opslagplaats**.
+1. Zodra de kaart voor het uitgeven open is, schakelaar terug naar **Mening van de Bewaarplaats**.
 
 1. Sleep het onderwerp waarmee u werkt naar de kaart.
 
-1. Klik op de knop [!UICONTROL **Opslaan**] op de bovenste werkbalk.
+1. Klik [!UICONTROL **sparen**] pictogram op de hoogste toolbar.
 
 Het onderwerp wordt toegevoegd aan de kaart. Nu wanneer u het onderwerp opent en de Eigenschappen van het Dossier controleert, kunt u de Verwijzingen zien worden bijgewerkt om erop te wijzen dat het onderwerp in de gespecificeerde kaart wordt gebruikt.
 
@@ -253,13 +254,13 @@ Het onderwerp wordt toegevoegd aan de kaart. Nu wanneer u het onderwerp opent en
 
 Het rechterdeelvenster bevat een sneltoets waarmee u een revisiewerkstroom kunt starten.
 
-1. Klik op de knop [!UICONTROL **Controleren**] in het rechterdeelvenster.
+1. Klik het [!UICONTROL **pictogram van het Overzicht**] op het juiste paneel.
 
-   ![Pictogram Revisie](images/lesson-5/review-icon.png)
+   ![ Pictogram van het Overzicht ](images/lesson-5/review-icon.png)
 
-1. Klikken [!UICONTROL **Revisie maken**].
+1. Klik [!UICONTROL **creëren Overzicht**].
 
-   ![Revisie maken](images/lesson-5/create-review.png)
+   ![ creeer Overzicht ](images/lesson-5/create-review.png)
 
 1. Vul de velden naar wens in in het dialoogvenster Revisietaak maken.
 
@@ -271,4 +272,4 @@ De Revisietaak wordt gemaakt.
 
 De capaciteit om veranderingen te volgen geeft u heel wat controle over welke veranderingen in één versie van een onderwerp aan volgende worden behouden. U kunt het juiste deelvenster gebruiken om bijgehouden wijzigingen te beheren.
 
-Zie de les met de titel [Wijzigingen bijhouden](./track-changes.md) in deze cursus voor meer informatie over de functie Wijzigingen bijhouden.
+Verwijs naar de les die [ Veranderingen van het Spoor ](./track-changes.md) wordt genoemd in deze cursus voor meer informatie over verandering het volgen functionaliteit.

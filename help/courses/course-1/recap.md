@@ -1,6 +1,6 @@
 ---
-title: Opnieuw samenstellen van Aan de slag met [!DNL AEM Guides]
-description: Opnieuw samenstellen van Aan de slag met [!DNL Adobe Experience Manager Guides]
+title: Opnieuw samenstellen van Aan de slag met  [!DNL AEM Guides]
+description: Opnieuw samenstellen van Aan de slag met  [!DNL Adobe Experience Manager Guides]
 exl-id: a1f7cee3-2657-4744-95c4-09d3eadb8492
 source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
@@ -20,6 +20,6 @@ In deze cursus hebt u het volgende geleerd:
 - Werken met afbeeldingen
 - Webkoppelingen toevoegen aan uw inhoud
 - Werken met lijsten met opsommingstekens en nummers
-- De inhoud vertalen
+- De inhoud van uw versie
 - Een kaart maken en ordenen
-- Een kaart publiceren als een AEM Site en PDF
+- Publish a map as an AEM Site and PDF

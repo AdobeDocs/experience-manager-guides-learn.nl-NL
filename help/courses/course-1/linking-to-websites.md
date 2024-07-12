@@ -1,6 +1,6 @@
 ---
-title: Koppelen naar websites in [!DNL AEM Guides]
-description: Koppelen naar websites in [!DNL Adobe Experience Manager Guides]
+title: Koppelen aan websites in  [!DNL AEM Guides]
+description: Koppelen aan websites in  [!DNL Adobe Experience Manager Guides]
 exl-id: 6b89f52e-ac15-4604-8bac-ab0bb5b5a978
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -18,18 +18,18 @@ Webkoppelingen leiden lezers naar websites voor meer informatie, maken interacti
 ## Een koppeling invoegen
 
 1. Selecteer uw concept in de opslagplaats en open het in de editor.
-1. Voeg een tekenreeks aan uw concept toe en markeer deze of markeer de bestaande tekst.
+1. Voeg een tekenreeks aan uw concept toe en markeer deze of markeer bestaande tekst.
 
    In deze gemarkeerde tekst wordt de koppeling ingevoegd.
-1. Selecteer **Kruisverwijzing invoegen** op de werkbalk.
+1. Selecteer de **knoop van de Verwijzing van het Tussenvoegsel** van de toolbar.
 
-   ![Pictogram Kruisverwijzing invoegen](images/lesson-5/insert-crossref-icon.png)
+   ![ het pictogram van de Verwijzing van het Tussenvoegsel Kruisverwijzing ](images/lesson-5/insert-crossref-icon.png)
 
    Het dialoogvenster Referentie wordt weergegeven.
 
 
-1. Selecteren **Webkoppeling** in het linkermenu.
-1. Plak de gewenste URL en klik vervolgens op **Selecteren**.
+1. Selecteer **Verbinding van het Web** van het linkermenu.
+1. Plak gewenste URL, dan klik **Uitgezocht**.
 
    De koppeling is functioneel en opent een webpagina in een nieuw browsertabblad wanneer erop wordt geklikt.
 
@@ -37,26 +37,26 @@ Webkoppelingen leiden lezers naar websites voor meer informatie, maken interacti
 
 Met de knop Voorvertoning kunt u een voorvertoning van een onderwerp weergeven. Hier kunt u uw koppelingen testen en bekijken zoals uw publiek dat zou doen.
 
-1. Selecteren **Voorvertoning** in de bovenste zwarte menubalk.
+1. Selecteer **Voorproef** van de hoogste zwarte menubar.
 
-   ![Knop Voorvertoning](images/common/select-preview.png)
+   ![ knoop van de Voorproef ](images/common/select-preview.png)
 
    Uw concept wordt geopend in Voorvertoning.
 
 1. Selecteer de koppeling.
 Het doel van de koppeling wordt op een ander tabblad geopend.
-1. Ga terug naar de weergave Auteur door **Auteur** in de bovenste zwarte menubalk.
+1. Keer aan de mening van de Auteur terug door **Auteur** van de hoogste zwarte menubar te selecteren.
 
-   ![Auteur, knop](images/lesson-5/author-map.png)
+   ![ knoop van de Auteur ](images/lesson-5/author-map.png)
 
 
 ## Opslaan als een nieuwe versie
 
 Nu u meer inhoud aan uw concept hebt toegevoegd, kunt u uw werk opslaan als een nieuwe versie en uw wijzigingen opnemen.
 
-1. Selecteer **Opslaan als nieuwe versie** pictogram.
+1. Selecteer **sparen als Nieuw pictogram van de Versie**.
 
-   ![Pictogram Opslaan als nieuwe versie](images/common/save-as-new-version.png)
+   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
 
 1. Voer in het veld Opmerkingen voor nieuwe versie een korte, maar duidelijke samenvatting van de wijzigingen in.
 1. Voer relevante labels in in het veld Versielabels.
@@ -67,6 +67,6 @@ Nu u meer inhoud aan uw concept hebt toegevoegd, kunt u uw werk opslaan als een 
    > 
    > Als uw programma met vooraf bepaalde etiketten wordt gevormd, kunt u van deze selecteren om verenigbare etikettering te verzekeren.
 
-1. Selecteren **Opslaan**.
+1. Selecteer **sparen**.
 
    U hebt een nieuwe versie van uw onderwerp gecreeerd, en het versieaantal wordt bijgewerkt.

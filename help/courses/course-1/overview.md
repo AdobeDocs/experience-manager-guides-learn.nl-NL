@@ -1,6 +1,6 @@
 ---
-title: Overzicht van Aan de slag met [!DNL AEM Guides] cursus
-description: Aan de slag met [!DNL Adobe Experience Manager Guides]
+title: Overzicht van het Worden begonnen met  [!DNL AEM Guides]  cursus
+description: Aan de slag met  [!DNL Adobe Experience Manager Guides]
 exl-id: 6c53602f-4971-407e-9fd0-23c3a77e0118
 source-git-commit: 6a35536d55bec04d69d1c296b75b55f034f70186
 workflow-type: tm+mt
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 In deze set zelfstudies leert u het volgende te doen:
 
-- [De gebruikersinterface begrijpen](understanding-the-aem-user-interface.md)
-- [Inhoud maken en structureren met de dataweergave en de XML-editor](creating-and-structuring-content.md)
-- [Werken met afbeeldingen](working-with-images.md)
-- [Webkoppelingen toevoegen aan uw inhoud](linking-to-websites.md)
-- [Werken met lijsten met opsommingstekens en nummers](working-with-lists.md)
-- [De inhoud van uw versie](versioning-content.md)
-- [Een kaart maken en ordenen](creating-a-map.md)
-- [Een kaart publiceren als een AEM Site en PDF](publishing-default-output.md)
+- [ Begrijp het gebruikersinterface ](understanding-the-aem-user-interface.md)
+- [ creeer en structuurinhoud met de mening van de bewaarplaats en de Redacteur van XML ](creating-and-structuring-content.md)
+- [ Werk met beelden ](working-with-images.md)
+- [ voeg Web-verbindingen aan uw inhoud ](linking-to-websites.md) toe
+- [ Werk met bulleted en genummerde lijsten ](working-with-lists.md)
+- [ Versie uw inhoud ](versioning-content.md)
+- [ creeer en organiseer een kaart ](creating-a-map.md)
+- [ Publish a kaart als AEM Plaats en PDF ](publishing-default-output.md)

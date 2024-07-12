@@ -1,10 +1,10 @@
 ---
 title: Mapprofielen
-description: Mapprofielen maken en gebruiken voor AEM hulplijnen
+description: Maken en gebruiken van mapprofielen voor AEM Guides
 exl-id: 5a0daa68-51ae-42d0-8320-6e8bdb1fe545
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 AEM biedt snelle toegang tot configuratiehulpmiddelen. Door de Profielen van de Omslag aan te passen, kunnen de verschillende afdelingen of de producten unieke malplaatjes, auteursmilieu&#39;s, voorwaardelijke attributenprofielen, Fragmenten, of zelfs de configuraties van de Redacteur van het Web hebben.
 
-Voorbeeldbestanden die u voor deze les wilt gebruiken, staan in het bestand [mapprofielen.zip](assets/folderprofiles.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ folderprofiles.zip ](assets/folderprofiles.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342758?quality=12&learn=on)
 
@@ -21,54 +21,54 @@ Voorbeeldbestanden die u voor deze les wilt gebruiken, staan in het bestand [map
 
 Configuraties worden beheerd via het pictogram Mapprofielen.
 
-1. Klik in het navigatiescherm op de knop [!UICONTROL **Gereedschappen**] pictogram.
+1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![Gereedschapspictogram](images/reuse/tools-icon.png)
+   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
 
-1. Selecteren **Hulplijnen** in het linkerdeelvenster.
+1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik op de knop [!UICONTROL **Mapprofielen**] tegel.
+1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
 
-   ![Mapprofielen](images/reuse/folder-profiles-tile.png)
+   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
-1. Selecteer het gewenste profiel. Kies bijvoorbeeld **Globaal profiel**, het standaardprofiel.
+1. Selecteer het gewenste profiel. Bijvoorbeeld, kies **Globaal Profiel**, dat het standaardprofiel is.
 
-   ![Globaal profiel](images/lesson-3/global-profile-tile.png)
+   ![ Globaal Profiel ](images/lesson-3/global-profile-tile.png)
 
 ## Voorwaardelijke kenmerken bewerken in het algemene profiel
 
 Zodra u het Globale Profiel hebt betreden kunt u zijn configuratie uitgeven. De instellingen voor het algemene profiel worden toegepast op alle gebruikers, tenzij anders aangegeven.
 
-1. Selecteer in het algemene profiel de optie **Voorwaardelijke kenmerken** tab.
+1. In het Globale Profiel, selecteer de **Voorwaardelijke Attributen** tabel.
 
-1. Klikken [!UICONTROL **Bewerken**] in de linkerbovenhoek van het scherm.
+1. Klik [!UICONTROL **uitgeven**] in de hoogste linkerhoek van het scherm.
 
-   ![Voorwaardelijke kenmerken](images/lesson-3/edit-conditional-attributes.png)
+   ![ Voorwaardelijke Attributen ](images/lesson-3/edit-conditional-attributes.png)
 
-1. Klikken [!UICONTROL **Toevoegen**].
+1. Klik [!UICONTROL **toevoegen**].
 
-1. Vul de **Naam**, **Waarde**, en **Label** velden voor de nieuwe voorwaarde.
+1. Vul de **Naam**, **Waarde**, en **Etiket** gebieden voor de nieuwe voorwaarde.
 
-   ![new Condition](images/lesson-3/new-condition.png)
+   ![ nieuwe Voorwaarde ](images/lesson-3/new-condition.png)
 
-1. Klikken [!UICONTROL **Opslaan**] in de linkerbovenhoek van het scherm.
+1. Klik [!UICONTROL **sparen**] bij de hoogste linkerhoek van het scherm.
 De nieuwe voorwaarde is nu beschikbaar voor alle gebruikers. U kunt het selecteren in het deelvenster Eigenschappen van inhoud en het toepassen op de gewenste inhoud.
 
 ## Een nieuw mapprofiel maken
 
 Naast het standaard algemene profiel kunt u ook uw eigen aangepaste profielen maken.
 
-1. Klik in het navigatiescherm op de knop [!UICONTROL **Gereedschappen**] pictogram.
+1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![Gereedschapspictogram](images/reuse/tools-icon.png)
+   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
 
-1. Selecteren **Hulplijnen** in het linkerdeelvenster.
+1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik op de knop [!UICONTROL **Mapprofielen**] tegel.
+1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
 
-   ![Mapprofielen](images/reuse/folder-profiles-tile.png)
+   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
-1. Klikken [!UICONTROL **Maken**].
+1. Klik [!UICONTROL **creëren**].
 
 1. In het dialoogvenster Mapprofiel maken.
 
@@ -76,9 +76,9 @@ Naast het standaard algemene profiel kunt u ook uw eigen aangepaste profielen ma
 
    b. Geef een pad op.
 
-   c. Klikken [!UICONTROL **Maken**].
+   c. Klik [!UICONTROL **creëren**].
 
-   ![Mapprofiel maken](images/lesson-3/create-folder-profile.png)
+   ![ creeer het Profiel van de Omslag ](images/lesson-3/create-folder-profile.png)
 
 Er wordt een tegel met de nieuwe profielnaam weergegeven op de pagina Mapprofielen.
 
@@ -88,21 +88,21 @@ Administratieve gebruikers hebben rechten om de Voorwaardelijke Attributen, het 
 
 1. Klik op de tegel om het gewenste mapprofiel te openen.
 
-   ![Mapprofiel bewerken](images/lesson-3/edit-folder-profile.png)
+   ![ geef het Profiel van de Omslag uit ](images/lesson-3/edit-folder-profile.png)
 
-1. Selecteer **Algemeen** tab.
+1. Selecteer het **Algemene** lusje.
 
-1. Klikken [!UICONTROL **Bewerken**] links boven in het scherm.
+1. Klik [!UICONTROL **uitgeven**] bij de bovenkant verlaten van het scherm.
 
 1. Selecteer onder Admin-gebruikers een gebruiker in het vervolgkeuzemenu of typ de naam van een gebruiker.
 
-1. Klikken [!UICONTROL **Toevoegen**].
+1. Klik [!UICONTROL **toevoegen**].
 
    U kunt desgewenst meerdere Admin-gebruikers toevoegen.
 
-   ![Admin toevoegen](images/lesson-3/add-admin.png)
+   ![ voeg Admin ](images/lesson-3/add-admin.png) toe
 
-1. Klikken [!UICONTROL **Opslaan**] in de rechterbovenhoek van het scherm als alle gebruikers zijn toegevoegd.
+1. Klik [!UICONTROL **sparen**] in de hoogste juiste hoek van het scherm wanneer alle gebruikers zijn toegevoegd.
 
 Administratieve gebruikers worden nu toegewezen aan dit profiel.
 
@@ -110,27 +110,27 @@ Administratieve gebruikers worden nu toegewezen aan dit profiel.
 
 Zodra u het Globale Profiel hebt betreden kunt u zijn configuratie uitgeven. De instellingen voor het algemene profiel worden toegepast op alle gebruikers, tenzij anders aangegeven.
 
-1. Selecteer vanuit het gewenste mapprofiel de optie **Voorwaardelijke kenmerken** tab.
+1. Van binnen het gewenste Profiel van de Omslag, selecteer de **Voorwaardelijke Attributen** tabel.
 
-1. Klikken [!UICONTROL **Bewerken**] in de linkerbovenhoek van het scherm.
+1. Klik [!UICONTROL **uitgeven**] in de hoogste linkerhoek van het scherm.
 
-   ![Voorwaardelijke kenmerken 2 bewerken](images/lesson-3/edit-conditional-attributes-2.png)
+   ![ geef Voorwaardelijke Attributen 2 ](images/lesson-3/edit-conditional-attributes-2.png) uit
 
-1. Klikken [!UICONTROL **Toevoegen**].
+1. Klik [!UICONTROL **toevoegen**].
 
-1. Vul de **Naam**, **Waarde**, en **Label** velden voor de nieuwe voorwaarde.
+1. Vul de **Naam**, **Waarde**, en **Etiket** gebieden voor de nieuwe voorwaarde.
 
-   Klik op de knop [!UICONTROL **Plus**] Met sign kunt u extra waarde- en labelparen toevoegen voor het benoemde kenmerk.
+   Het klikken van [!UICONTROL **plus**] teken staat u toe om extra paren van de Waarde en van het Etiket voor de genoemde attributen toe te voegen.
 
-   ![Voorwaarden toevoegen](images/lesson-3/add-conditions.png)
+   ![ voegt Voorwaarden ](images/lesson-3/add-conditions.png) toe
 
-1. Klikken [!UICONTROL **Opslaan**] in de linkerbovenhoek van het scherm.
+1. Klik [!UICONTROL **sparen**] bij de hoogste linkerhoek van het scherm.
 
 De nieuwe voorwaardelijke kenmerken zijn toegevoegd aan dit profiel.
 
 ## Kies een sjabloon en een kaart op het tabblad Ontwerpsjablonen
 
-AEM Hulplijnen worden geleverd met ontwerpsjablonen en -kaarten die niet in de box staan. U kunt deze beperken tot specifieke auteurs. Standaard worden de sjablonen opgeslagen op de middelenlocatie in de map DITA-sjablonen.
+AEM Guides wordt geleverd met kant-en-klare ontwerpsjablonen en -kaarten. U kunt deze beperken tot specifieke auteurs. Standaard worden de sjablonen opgeslagen op de Assets-locatie in een map met DITA-sjablonen.
 
 1. Selecteer het tabblad Ontwerpsjablonen in het gewenste mapprofiel.
 
@@ -138,57 +138,57 @@ AEM Hulplijnen worden geleverd met ontwerpsjablonen en -kaarten die niet in de b
 
 1. Voeg een Kaartsjabloon toe.
 
-   a. Van de **Kaartsjablonen** selecteert u een optie in de beschikbare kaarten.
+   a. Van **Malplaatjes van de Kaart** dropdown, selecteer een optie van de beschikbare kaarten.
 
-   b. Klikken [!UICONTROL **Toevoegen**].
+   b. Klik [!UICONTROL **toevoegen**].
 
-   ![Kaartsjablonen](images/lesson-3/map-templates.png)
+   ![ Malplaatjes van de Kaart ](images/lesson-3/map-templates.png)
 
 1. Voeg een onderwerpsjabloon toe.
 
-   a. Van de **Onderwerpsjablonen** selecteert u een optie in de beschikbare sjablonen.
+   a. Van **Malplaatjes van het Onderwerp** dropdown, selecteer een optie van de beschikbare malplaatjes.
 
-   ![Onderwerpsjablonen](images/lesson-3/topic-templates.png)
+   ![ de Malplaatjes van het Onderwerp ](images/lesson-3/topic-templates.png)
 
-1. Klikken [!UICONTROL **Toevoegen**].
+1. Klik [!UICONTROL **toevoegen**].
 
 1. Voeg desgewenst aanvullende onderwerpsjablonen toe.
 
-1. Als u klaar bent, klikt u op [!UICONTROL **Opslaan**] links boven in het scherm.
+1. Wanneer gebeëindigd, klik [!UICONTROL **sparen**] bij de bovenkant verlaten van het scherm.
 
 De nieuwe ontwerpsjablonen zijn toegevoegd aan dit profiel.
 
 ## Niet-essentiële voorinstellingen verwijderen op het tabblad Voorinstellingen voor uitvoer
 
-U kunt elke uitvoervoorinstelling configureren op basis van het mapprofiel. Uitvoervoorinstellingen die niet nodig zijn, moeten worden verwijderd.
+U kunt elke voorinstelling voor uitvoer configureren op basis van het mapprofiel. Uitvoervoorinstellingen die niet nodig zijn, moeten worden verwijderd.
 
-1. Selecteer vanuit het gewenste mapprofiel de optie **Voorinstellingen uitvoer** tab.
+1. Van binnen het gewenste Profiel van de Omslag, selecteer de **Output vooraf instelt** tabel.
 
 1. Schakel in het linkerdeelvenster de selectievakjes in van alle voorinstellingen die niet vereist zijn.
 
-   ![Voorinstellingen verwijderen](images/lesson-3/delete-presets.png)
+   ![ schrapt vooraf instelt ](images/lesson-3/delete-presets.png)
 
-1. Klikken [!UICONTROL **Voorinstelling verwijderen**] in de linkerbovenhoek van het scherm.
+1. Klik [!UICONTROL **Vooraf ingestelde Schrapping**] in de hoogste linkerhoek van het scherm.
 
-1. Klik in het dialoogvenster Voorinstelling verwijderen op [!UICONTROL **Verwijderen**].
+1. In de Schrapping stelt dialoog vooraf in, klik [!UICONTROL **Schrapping**].
 
-   ![Verwijderen](images/lesson-3/delete.png)
+   ![ Schrapping ](images/lesson-3/delete.png)
 
 De enige voorinstellingen voor uitvoer die worden weergegeven, zijn de voorinstellingen die worden gebruikt.
 
 ## Een fragment uploaden vanaf het tabblad Configuratie van de XML-editor
 
-1. Selecteer vanuit het gewenste mapprofiel de optie **XML Editor-configuratie** tab.
+1. Van binnen het gewenste Profiel van de Omslag, selecteer het **lusje van de Configuratie van de Redacteur van 0} XML.**
 
-1. Klik onder Fragmenten van de XML-editor op [!UICONTROL **Uploaden**].
+1. Onder de Fragmenten van de Redacteur van XML, klik [!UICONTROL **uploadt**].
 
-   ![Fragment uploaden](images/lesson-3/upload-snippet.png)
+   ![ uploadt Fragment ](images/lesson-3/upload-snippet.png)
 
 1. Navigeer naar een eerder gemaakt fragment.
 
-1. Klikken [!UICONTROL **Openen**].
+1. Klik [!UICONTROL **Open**].
 
-1. Klikken [!UICONTROL **Opslaan**] links boven in het scherm.
+1. Klik [!UICONTROL **sparen**] bij de bovenkant verlaten van het scherm.
 
 U hebt met succes de Configuratie van de Redacteur gewijzigd om Fragmenten op te nemen.
 
@@ -196,18 +196,18 @@ U hebt met succes de Configuratie van de Redacteur gewijzigd om Fragmenten op te
 
 In de Editor ziet u de resultaten van de wijzigingen die u hebt aangebracht in de mapprofielen.
 
-1. Navigeren naar **Weergave opslagplaats**.
+1. Navigeer aan **Mening van de Bewaarplaats**.
 
 1. Klik op de map voor de inhoud waarmee u wilt werken.
 
-1. Klik op de knop [!UICONTROL **Gebruikersvoorkeuren**] op de bovenste werkbalk.
+1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![Gebruikersvoorkeuren](images/lesson-3/hr-user-prefs.png)
+   ![ Voorkeur van de Gebruiker ](images/lesson-3/hr-user-prefs.png)
 
-1. Selecteer in het dialoogvenster Gebruikersvoorkeuren het gewenste mapprofiel in het vervolgkeuzemenu.
+1. Selecteer in het dialoogvenster Gebruikersvoorkeuren het gewenste mapprofiel in de vervolgkeuzelijst.
 
-   ![Gebruikersvoorkeuren selecteren](images/lesson-3/select-user-pref.png)
+   ![ Uitgezochte de Voorkeur van de Gebruiker ](images/lesson-3/select-user-pref.png)
 
-1. Klikken [!UICONTROL **Opslaan**].
+1. Klik [!UICONTROL **sparen**].
 
 U hebt het mapprofiel toegepast op uw inhoud. Nu, wanneer u een nieuw onderwerp DITA creeert, zult u een beperkte lijst van onderwerptypes zien die op het Profiel van de Omslag wordt gebaseerd. De voorwaarde van het publiek bevat de Globale montages evenals die specifiek voor het Profiel van de Omslag. In het geüploade fragmentbestand is een set standaardfragmenten gemaakt waaruit u kunt kiezen. Op het dashboard Kaart worden de beperkte uitvoervoorinstellingen weergegeven.

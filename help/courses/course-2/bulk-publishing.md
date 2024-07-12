@@ -1,6 +1,6 @@
 ---
 title: Bulkpublicatie
-description: Bulkpublicatie in [!DNL Adobe Experience Manager Guides]
+description: Bulk Publishing in  [!DNL Adobe Experience Manager Guides]
 exl-id: b277e846-ef71-47ec-a66c-ac9d392d53e0
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Bulkpublicatie
 
-Bij het publiceren is vaak meer dan één type documentatie nodig. Met Kaartverzamelingen kunt u het aantal en de typen uitvoer bepalen die worden samengesteld en gegenereerd en kunt u het publiceren in bulk starten. Met het dashboard Publiceren kunt u actieve publicatietaken weergeven. Met het dashboard voor bulksgewijs publiceren kunt u verzamelingen bulksgewijs activeren.
+Bij het publiceren is er vaak behoefte aan meer dan één type documentatie. Met Kaartverzamelingen kunt u het aantal en de typen uitvoer bepalen die worden samengesteld en gegenereerd en kunt u het publiceren in bulk starten. Met het Publish-dashboard kunt u actieve publicatietaken weergeven. Met het bulkdashboard voor Publish kunt u verzamelingen bulksgewijs activeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338985?quality=12&learn=on)
 
@@ -21,92 +21,93 @@ Gebruikend de Inzamelingen van de Kaart, kunt u de types van output controleren 
 
 ### Kaartverzamelingen maken
 
-1. Klik in het menu Navigatie op **Activa**.
+1. In het menu van de Navigatie, klik **Assets**.
 
 1. Selecteer Verzamelingen toewijzen.
 
-1. Klikken **Maken**.
+1. Klik **creëren**.
 
 1. Typ een titel voor een verzameling.
 
-   ![Map-Collection](images/map-collection.png)
+   ![ kaart-Inzameling ](images/map-collection.png)
 
-1. Klikken **Maken**.
+1. Klik **creëren**.
 1. Sluit het succesbericht.
 
 1. Open de kaartverzameling (klik op de grijze sectie onder de tegel)
 
-1. Klikken **Bewerken**.
+1. Klik **uitgeven**.
 
 1. Voeg zo nodig kaarten toe.
 
-1. Selecteren of deselecteren **Voorinstellingen uitvoer** voor elke kaart.
-1. Klikken **Gereed**.
+1. Selecteer of schrap **Output vooraf instelt** voor elke kaart.
+1. Klik **Gedaan**.
 
 ### Voorinstellingen voor toewijzingen filteren
 
 1. Open een kaartvoorinstelling.
 
-1. Onder **Filter** naar wens opties uitvouwen en selecteren.
+1. Onder **Filter** breidt en selecteert opties uit zoals nodig.
 
 ### Inhoud genereren in een kaartverzameling
 
 1. Open een kaartvoorinstelling.
 
-1. Klik desgewenst op **Alles genereren**.
+1. Indien gewenst, klik **produceren allen**.
 
-1. OF, selecteer de kaarten en outputtypes om te produceren en te klikken **Geselecteerde genereren**.
+1. OF, selecteer de kaarten en de outputtypes om te produceren en **te klikken produceren Geselecteerd**.
 
 1. Schakel indien nodig over naar het tabblad Uitvoer.
 
 1. Controleer de uitvoer.
 
-## Actieve publicatietaken weergeven op het dashboard Publiceren
+## Actieve publicatietaken weergeven op het Publish-dashboard
 
-Met het dashboard Publiceren kunt u actieve publicatietaken weergeven. Er wordt een dynamische lijst met kaarten en hun huidige status weergegeven. U kunt publicatieworkflows bijhouden, beheren of annuleren.
+Met het Publish-dashboard kunt u actief weergeven
+publiceer taken. Er wordt een dynamische lijst met kaarten en hun huidige status weergegeven. U kunt publicatieworkflows bijhouden, beheren of annuleren.
 
-1. Klik in de navigatieweergave op de knop **Gereedschappen** pictogram.
+1. In de mening van de Navigatie, klik het **pictogram van Hulpmiddelen**.
 
 1. Klik op **[!DNL Guides]**.
 
-1. Selecteer **Dashboard publiceren** tegel.
+1. Selecteer de **** tegel van het Dashboard van Publish.
 
-       Als het dashboard leeg is, worden er geen publicatietaken uitgevoerd.
+        als het dashboard leeg is zijn er geen publicatietaken die lopen.
        
    
 1. Filter zo nodig het dashboard om alle publicatietaken weer te geven.
 
-### Werken met het dashboard voor bulkpublicatie
+### Werken met het bulkdashboard voor Publish
 
-Met het bulkpublicatiedashboard kunt u werken met Bulk Activation Collections en meerdere typen uitvoer beheren.
+Met het bulk Publish-dashboard kunt u werken met bulkactiveringsverzamelingen en meerdere typen uitvoer beheren.
 
 ### Een bulkactiveringsverzameling maken
 
-1. Klik in de navigatieweergave op de knop **Gereedschappen** pictogram.
+1. In de mening van de Navigatie, klik het **pictogram van Hulpmiddelen**.
 
 1. Klik op **[!DNL Guides]**.
 
-1. Selecteer **Bulk publicatiedashboard** tegel.
+1. Selecteer het **BulkPublish Dashboard** tegel.
 
 1. Typ een titel voor een verzameling.
 
-1. Klikken **Maken**.
+1. Klik **creëren**.
 
-1. Klikken **Openen**.
+1. Klik **Open**.
 
 1. Open de kaartverzameling (klik op de grijze sectie onder de tegel)
 
-1. Klikken **Bewerken**.
+1. Klik **uitgeven**.
 
 1. Voeg zo nodig kaarten toe.
 
-1. Selecteren of deselecteren **Voorinstellingen uitvoer** voor elke kaart.
-1. Klikken **Gereed**.
+1. Selecteer of schrap **Output vooraf instelt** voor elke kaart.
+1. Klik **Gedaan**.
 1. Sluit de kaartafbeelding wanneer u klaar bent.
 
-### Snelle publicatie van een verzameling bulkactivering
+### Quick Publish a Bulk Activation Collection
 
 1. Selecteer een tegel voor de verzameling van bulkactiveringen.
-1. Klikken **Openen**.
+1. Klik **Open**.
 1. Selecteer een of meer kaarten.
-1. Klikken **Snel publiceren**.
+1. Klik **Snelle Publish**.

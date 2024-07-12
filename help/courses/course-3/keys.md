@@ -1,6 +1,6 @@
 ---
 title: Toetsen
-description: De sleutels staan u toe om veranderlijke informatie te omvatten aan wanneer het werken met DITA in AEM Gidsen
+description: Met toetsen kunt u variabele informatie opnemen voor wanneer u met DITA werkt in AEM Guides
 exl-id: cb64e094-fe6d-4a5e-8f0e-25ae58aaa2c6
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Verschillende materiaalsets kunnen vergelijkbare informatie bevatten die op bepaalde plaatsen moet worden aangepast. De sleutels staan u toe om veranderlijke informatie aan te omvatten wanneer het werken met DITA.
 
-Voorbeeldbestanden die u voor deze les wilt gebruiken, staan in het bestand [keys.zip](assets/keys.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ keys.zip ](assets/keys.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342756?quality=12&learn=on)
 
@@ -27,23 +27,23 @@ Voorbeeldbestanden die u voor deze les wilt gebruiken, staan in het bestand [key
 
    c. Selecteer het bestand voor extractie.
 
-   ![Postcode selecteren](images/lesson-9/select-zip.png)
+   ![ Uitgezochte Zip ](images/lesson-9/select-zip.png)
 
-   d. Klikken [!UICONTROL **Archief extraheren**] in de bovenste werkbalk.
+   d. Klik [!UICONTROL **het Archief van het Extraheren**] in de hoogste toolbar.
 
-   ![Werkbalk](images/lesson-9/extract-archive.png)
+   ![ Toolbar ](images/lesson-9/extract-archive.png)
 
    e. Kies in het dialoogvenster de specifieke locatie voor bestanden die u wilt uitpakken, zoals een map met de naam Toetsen.
 
-   f. Klikken [!UICONTROL **Volgende**].
+   f. Klik [!UICONTROL **daarna**].
 
    g. Sla eventuele conflicten over omdat deze niet bestaan voor inhoud die nog niet eerder is geüpload.
 
-   h. Selecteren [!UICONTROL **Extraheren**] aan de rechterbovenhoek van het scherm.
+   h. Selecteer [!UICONTROL **Extraheren**] bij het hoogste recht van het scherm.
 
-1. Wanneer het uitpakken is voltooid, klikt u op [!UICONTROL **Ga naar de doelmap**].
+1. Wanneer het extract volledig is, klik [!UICONTROL **gaan naar de doelomslag**].
 
-   ![Bevestiging](images/lesson-9/go-to-target.png)
+   ![ Bevestiging ](images/lesson-9/go-to-target.png)
 
 ## Toetsen omzetten in waarden waarnaar wordt verwezen
 
@@ -55,75 +55,75 @@ Om sleutels correct te gebruiken, moet de Voorkeur van de Gebruiker een specifie
 
    b. Gebruikersvoorkeuren configureren.
 
-   c. Klik op de knop [!UICONTROL **Gebruikersvoorkeuren**] op de bovenste werkbalk.
+   c. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![Werkbalk Boven](images/lesson-9/author-view.png)
+   ![ Hoogste Toolbar ](images/lesson-9/author-view.png)
 
-   d. Klik op het sleutelpictogram om een **Hoofdmap** die wordt gebruikt om Toetsen op te lossen.
+   d. Klik het belangrijkste pictogram om a **Kaart van de Wortel** te specificeren die zal worden gebruikt om Sleutels op te lossen.
 
-   e. Schakel de selectievakjes voor de gewenste elementen in.
+   e. Schakel de selectievakjes in voor elke gewenste Assets.
 
-   ![Vervolgkeuzelijst Elementen](images/lesson-9/select-assets.png)
+   ![ Assets Dropdown ](images/lesson-9/select-assets.png)
 
-   f. Klikken [!UICONTROL **Selecteren**].
+   f. Klik [!UICONTROL **Uitgezocht**].
 
-   g. **Opslaan** de Voorkeuren van de Gebruiker.
+   g. **sparen** de Voorkeur van de Gebruiker.
 
-1. Ga naar de **Kaartweergave**.
+1. Navigeer aan de **Mening van de Kaart**.
 
 1. Open de opgegeven kaart.
 
 De sleutels worden opgelost.
 
-## Handmatig een nieuw sleutelbestand toevoegen
+## Handmatig een nieuw sleuteldef toevoegen
 
 1. Open een kaart met een opgegeven hoofdmap.
 
 1. Selecteer een toets.
 
-   ![Key Dropdown](images/lesson-9/hybrid-key.png)
+   ![ Zeer belangrijke Dropdown ](images/lesson-9/hybrid-key.png)
 
 1. Voeg een nieuw sleutelwoord in.
 
    a. Klik op een geldige locatie op de kaart.
 
-   b. Selecteer **Keydef** op de bovenste werkbalk.
+   b. Selecteer het **Keydef** pictogram op de hoogste toolbar.
 
-   ![Keydef-werkbalk](images/lesson-9/key-icon.png)
+   ![ Werkbalk Keydef ](images/lesson-9/key-icon.png)
 
    c. Voer in het dialoogvenster Keydef invoegen een unieke waarde in voor Toetsen die voor de definitie die u maakt, zinnig is.
 
-   d. Klikken [!UICONTROL **Invoegen**].
+   d. Klik [!UICONTROL **Tussenvoegsel**].
 
 1. Voeg topicmeta binnen keydef toe.
 
-   a. Klik op de knop [!UICONTROL **Element invoegen**] op de bovenste werkbalk.
+   a. Klik het [!UICONTROL **pictogram van het Element van het Tussenvoegsel**] op de hoogste toolbar.
 
-   ![Keydef-werkbalk](images/lesson-9/add-icon.png)
+   ![ Werkbalk Keydef ](images/lesson-9/add-icon.png)
 
-   b. Zoek en selecteer &#39;topicmeta&#39; in het dialoogvenster Element invoegen.
+   b. Zoek en selecteer &quot;topicmeta&quot; in het dialoogvenster Element invoegen.
 
 1. Voeg sleutelwoorden binnen topicmeta toe.
 
-   a. Klik op de knop [!UICONTROL **Element invoegen**] op de bovenste werkbalk.
+   a. Klik het [!UICONTROL **pictogram van het Element van het Tussenvoegsel**] op de hoogste toolbar.
 
-   ![Keydef-werkbalk](images/lesson-9/add-icon.png)
+   ![ Werkbalk Keydef ](images/lesson-9/add-icon.png)
 
    b. Zoek in het dialoogvenster Element invoegen naar &quot;trefwoorden&quot; en selecteer deze.
 
 1. Voeg een sleutelwoord binnen topicmeta toe.
 
-   a. Klik op de knop [!UICONTROL **Element invoegen**] op de bovenste werkbalk.
+   a. Klik het [!UICONTROL **pictogram van het Element van het Tussenvoegsel**] op de hoogste toolbar.
 
-   ![Keydef-werkbalk](images/lesson-9/add-icon.png)
+   ![ Werkbalk Keydef ](images/lesson-9/add-icon.png)
 
-   b. In de **Element invoegen** , zoekt en selecteert u &quot;trefwoord&quot;
+   b. In de **dialoog van het Element van het Tussenvoegsel**, onderzoek en selecteer &quot;sleutelwoord&quot;
 
 1. Typ de waarde voor het trefwoord in het trefwoord.
 
 Op de kaart zou uw keydef er nu ongeveer als volgt moeten uitzien:
 
-![Keydef gereed](images/lesson-9/keydef.png)
+![ Keydef voltooide ](images/lesson-9/keydef.png)
 
 ## Een sleuteldefinitie configureren als een fragment
 
@@ -131,14 +131,14 @@ Fragmenten zijn kleine inhoudsfragmenten die over verschillende onderwerpen in u
 
 1. Selecteer een keydef-element op de kaart.
 
-1. Klik in het contextmenu op [!UICONTROL **Fragment maken**].
+1. In het contextuele menu, klik [!UICONTROL **Create Fragment**].
 
 1. Voeg een titel en beschrijving toe in het dialoogvenster Nieuw fragment.
 U kunt ook bestaande toetsen of trefwoorddefinities uit de inhoud verwijderen.
 
-1. Klikken [!UICONTROL **Maken**].
+1. Klik [!UICONTROL **creëren**].
 
-1. Selecteer in het linkerdeelvenster de optie **Fragmenten**.
+1. Voor het linkerpaneel, uitgezochte **Fragmenten**.
 
 1. Sleep het fragment dat u zojuist hebt gemaakt van het deelvenster Fragmenten naar de kaart.
 

@@ -7,7 +7,7 @@ ht-degree: 0%
 ---
 # BESTANDEN ZIJN VERPLAATST
 
-De bestanden in de sectie &quot;Lesbestanden&quot; bevinden zich nu in het gedeelte `experience-manager-guides.en` repo:
+De bestanden in de sectie &quot;zelfstudies&quot; staan nu in het `experience-manager-guides.en` -repo:
 
 <https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
 

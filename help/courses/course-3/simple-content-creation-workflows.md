@@ -1,6 +1,6 @@
 ---
 title: Workflows voor het maken van eenvoudige inhoud
-description: Inhoud maken in AEM hulplijnen
+description: Inhoud maken in AEM Guides
 exl-id: e4b8e512-0688-44f7-b981-78af33b57b08
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Workflows voor het maken van eenvoudige inhoud
 
-De AEM-editor voor hulplijnen heeft meerdere sneltoetsen die de workflow voor het maken van inhoud vereenvoudigen. Met deze sneltoetsen kunnen gebruikers snel afbeeldingen toevoegen en wijzigen, met meerdere onderwerpen tegelijk werken, fouten corrigeren, onderwerpen downloaden en met versies en labels werken.
+De AEM Guides Editor heeft meerdere sneltoetsen die de workflow voor het maken van inhoud vereenvoudigen. Met deze sneltoetsen kunnen gebruikers snel afbeeldingen toevoegen en wijzigen, met meerdere onderwerpen tegelijk werken, fouten corrigeren, onderwerpen downloaden en met versies en labels werken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342770?quality=12&learn=on)
 
@@ -19,15 +19,15 @@ De AEM-editor voor hulplijnen heeft meerdere sneltoetsen die de workflow voor he
 
 Afbeeldingen kunnen rechtstreeks vanaf een lokaal station worden toegevoegd.
 
-1. Sleep de afbeelding rechtstreeks naar het onderwerp. De **Elementen uploaden** wordt weergegeven.
+1. Sleep de afbeelding rechtstreeks naar het onderwerp. Het **uploadt Assets** dialoog verschijnt.
 
-   ![Dialoogvenster Middelen uploaden](images/lesson-15/upload-assets-dialog.png)
+   ![ upload de Dialoog van Assets ](images/lesson-15/upload-assets-dialog.png)
 
 1. Wijzig het mappad naar de gewenste afbeeldingslocatie.
 
 1. Wijzig de naam van de afbeelding in een naam die representatief is voor het doel.
 
-1. Klikken [!UICONTROL **Uploaden**].
+1. Klik [!UICONTROL **uploaden**].
 
 ## Een afbeelding wijzigen
 
@@ -35,7 +35,7 @@ Afbeeldingen kunnen rechtstreeks vanaf een lokaal station worden toegevoegd.
 
 1. Verplaats een afbeelding naar een andere locatie in het onderwerp door deze te slepen.
 
-1. Gebruiken **Eigenschappen van inhoud** aan de rechterkant van het deelvenster om de
+1. Het gebruik **Eigenschappen van de Inhoud** op het juiste zijpaneel om beeld te wijzigen
 
    - schalen
 
@@ -45,7 +45,7 @@ Afbeeldingen kunnen rechtstreeks vanaf een lokaal station worden toegevoegd.
 
    - andere kenmerken.
 
-   ![Eigenschappen van inhoud](images/lesson-15/content-properties.png)
+   ![ Eigenschappen van de Inhoud ](images/lesson-15/content-properties.png)
 
 ## Werken met meerdere onderwerpen
 
@@ -55,17 +55,17 @@ De gesplitste Mening is nuttig wanneer het vergelijken van onderwerpen, het kopi
 
 1. Klik op het tabblad Titel van een bestand om het contextmenu te openen.
 
-1. Selecteren [!UICONTROL **Splitsen**].
+1. Selecteer [!UICONTROL **Gesplitst**].
 
-1. Kies **Rechts**.
+1. Kies **Juist**.
 
-   ![Gesplitste weergave](images/lesson-15/split-view.png)
+   ![ Gesplitste Mening ](images/lesson-15/split-view.png)
 
 ## Typische fouten corrigeren
 
 1. Zoek het woord of de woordgroep met de fout.
 
-1. Pers en greep [!UICONTROL **Ctrl**].
+1. Pers en greep [!UICONTROL **CTRL**].
 
 1. Klik op de secundaire muisknop op de fout.
 
@@ -77,15 +77,15 @@ De fout is verbeterd in de onderwerptekst.
 
 Gebruikers kunnen een PDF van het huidige onderwerp downloaden om het onderwerp aan te duiden of met anderen te delen.
 
-1. Klikken [!UICONTROL **Voorvertoning**] aan de rechterbovenhoek van het scherm.
+1. Klik [!UICONTROL **Voorproef**] bij het hoogste recht van het scherm.
 
-1. Klik op de knop [!UICONTROL **PDF-pictogram**] boven het onderwerp. Er wordt een dialoogvenster weergegeven.
+1. Klik het [!UICONTROL **pictogram van de PDF**] boven het onderwerp. Er wordt een dialoogvenster weergegeven.
 
-   ![PDF exporteren](images/lesson-15/pdf-export.png)
+   ![ de Uitvoer van de PDF ](images/lesson-15/pdf-export.png)
 
-1. Vul de gegevens in voor: **Transformatienaam** of **Argumenten DITA-OT-opdrachtregel** indien nodig. Een PDF wordt nog steeds gegenereerd als alle velden leeg blijven.
+1. Vul de informatie voor of **Naam van de Transformatie** of **DITA-OT de Argumenten van de Lijn van het Bevel** indien vereist. Een PDF wordt nog steeds gegenereerd als alle velden leeg blijven.
 
-1. Klikken [!UICONTROL **Downloaden**]. De PDF genereert.
+1. Klik [!UICONTROL **Download**]. De PDF genereert.
 
 1. Gebruik beschikbare pictogrammen om het onderwerp van de PDF te vormen, te downloaden of te delen.
 
@@ -95,9 +95,9 @@ Gebruikers kunnen een PDF van het huidige onderwerp downloaden om het onderwerp 
 
 1. Klik op de secundaire muisknop op het tabblad Titel.
 
-1. Selecteren **Zoeken in**.
+1. Selecteer **plaats binnen**.
 
-1. Kies **Bewaarplaats** of **Kaart** om naar de gewenste onderwerpplaats te springen.
+1. Kies of **Bewaarplaats** of **Kaart** om aan de gewenste onderwerpplaats te springen.
 
 ## Versie een onderwerp
 
@@ -105,15 +105,15 @@ Gebruikers kunnen een PDF van het huidige onderwerp downloaden om het onderwerp 
 
 1. Sla het onderwerp op.
 
-1. Klik op de knop **Bewaarplaats** in het menu linksboven.
+1. Klik het **pictogram van de Bewaarplaats** op het hoogste linkermenu.
 
-   ![Pictogram voor opslagplaats](images/lesson-15/repository-icon.png)
+   ![ Pictogram van de Bewaarplaats ](images/lesson-15/repository-icon.png)
 
-1. In het dialoogvenster voegt u **Opmerkingen voor nieuwe versie**.
+1. In de dialoog, voeg **Commentaren voor Nieuwe Versie** toe.
 
-   ![Dialoogvenster Nieuwe versie](images/lesson-15/version-dialog.png)
+   ![ Nieuwe Dialoog van de Versie ](images/lesson-15/version-dialog.png)
 
-1. Klikken [!UICONTROL **Opslaan**].
+1. Klik [!UICONTROL **sparen**].
 
 Het versienummer wordt bijgewerkt.
 
@@ -121,7 +121,7 @@ Het versienummer wordt bijgewerkt.
 
 Het proberen om de staat van een onderwerp te volgen die op slechts het Aantal van de Versie wordt gebaseerd kan moeilijk zijn. De etiketten maken het gemakkelijker om de nauwkeurige staat van een onderwerp te identificeren dat veelvoudige herzieningen heeft ondergaan.
 
-1. Selecteer een **Mapprofiel**.
+1. Selecteer het Profiel van de a **Omslag**.
 
 1. Configureer de XML-editor in het Mapprofiel.
 
@@ -129,17 +129,17 @@ Het proberen om de staat van een onderwerp te volgen die op slechts het Aantal v
 
    b. Onder de Etiketten van de Versie van de Inhoud van XML, of voeg een nieuw onderwerp toe of gebruik bestaande.
 
-   ![Versielabels voor inhoud](images/lesson-15/version-labels.png)
+   ![ Etiketten van de Versie van de Inhoud ](images/lesson-15/version-labels.png)
 
-1. Selecteren [!UICONTROL **Uploaden**].
+1. Selecteer [!UICONTROL **uploaden**].
 
 1. Kies een bestand zoals RevisieLabels.json of een vergelijkbaar bestand. Details over het maken van een dergelijk bestand vindt u in een andere video.
 
-1. Klikken [!UICONTROL **Openen**].
+1. Klik [!UICONTROL **Open**].
 
-1. Klikken [!UICONTROL **Opslaan**] links boven in het scherm Mapprofiel.
+1. Klik [!UICONTROL **sparen**] bij de bovenkant verlaten van het scherm van het Profiel van de Omslag.
 
-1. Klikken [!UICONTROL **Sluiten**] rechtsboven.
+1. Klik [!UICONTROL **dicht**] bij het hoogste recht.
 
 Versielabels worden nu geladen.
 
@@ -147,25 +147,25 @@ Versielabels worden nu geladen.
 
 1. Versielabels laden.
 
-1. Klik op de knop [!UICONTROL **Gebruikersvoorkeuren**] pictogram bij de bovenkant verlaten van het huidige onderwerp.
+1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] bij de bovenkant verlaten van het huidige onderwerp.
 
-   ![Mapprofiel](images/lesson-15/folder-profile-icon.png)
+   ![ Profiel van de Omslag ](images/lesson-15/folder-profile-icon.png)
 
 1. Selecteer hetzelfde mapprofiel waarin versielabels eerder zijn geladen.
 
 1. Controleer in het dialoogvenster Gebruikersvoorkeuren of het basispad verwijst naar dezelfde gegevens waarop het mapprofiel is toegepast.
 
-   ![Gebruikersvoorkeuren](images/lesson-15/user-preferences.png)
+   ![ Voorkeur van de Gebruiker ](images/lesson-15/user-preferences.png)
 
-1. Klikken [!UICONTROL **Opslaan**].
+1. Klik [!UICONTROL **sparen**].
 
-1. Versie het onderwerp.
+1. Versie van het onderwerp.
 
-1. Voeg een opmerking toe en selecteer een versielabel in het vervolgkeuzemenu.
+1. Voeg een opmerking toe en selecteer een versielabel in de vervolgkeuzelijst.
 
-   ![Dialoogvenster Nieuw versielabel](images/lesson-15/labels-dialog.png)
+   ![ Nieuwe Dialoogvenster van het Etiket van de Versie ](images/lesson-15/labels-dialog.png)
 
-1. Klikken [!UICONTROL **Opslaan**].
+1. Klik [!UICONTROL **sparen**].
 
 Het versienummer wordt bijgewerkt.
 
@@ -175,27 +175,27 @@ Het versienummer wordt bijgewerkt.
 
 1. Klik op de titel om het contextmenu te openen.
 
-1. Selecteren [!UICONTROL **Weergeven in interface Elementen**].
+1. Selecteer [!UICONTROL **Mening in Assets UI**].
 
-   ![UI Middelen](images/lesson-15/view-assets-ui.png)
+   ![ UI van Assets ](images/lesson-15/view-assets-ui.png)
 
    - De versiegeschiedenis met labels wordt links weergegeven.
 
-   ![Versiehistorie](images/lesson-15/version-history.png)
+   ![ Geschiedenis van de Versie ](images/lesson-15/version-history.png)
 
-1. Klik op een versie om opties te openen zoals **Deze versie herstellen** en **Voorvertoning versie**.
+1. Klik op een versie om tot opties zoals **toegang te hebben terugkeert aan deze Versie** en **Versie van de Voorproef**.
 
 ## Een nieuwe sjabloon maken
 
 Er bestaan sjablonen voor zowel onderwerpen als kaarten. Beheerders hebben toegang tot sjablonen in het linkerdeelvenster.
 
-1. Klikken [!UICONTROL **Sjablonen**] in het linkerdeelvenster.
+1. Klik [!UICONTROL **Malplaatjes**] in het linkerpaneel.
 
 1. Selecteer Kaart of Onderwerp om het bijbehorende contextafhankelijke menu te openen.
 
 1. Klik om de nieuwe sjabloon toe te voegen.
 
-   ![Nieuwe onderwerpsjabloon](images/lesson-15/version-history.png)
+   ![ Nieuw Malplaatje van het Onderwerp ](images/lesson-15/version-history.png)
 
 1. Vul de velden in het resulterende dialoogvenster.
 

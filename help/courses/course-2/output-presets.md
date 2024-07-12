@@ -19,23 +19,23 @@ Een uitvoervoorinstelling is een verzameling publicatieeigenschappen die aan een
 
 Een uitvoervoorinstelling wordt weergegeven wanneer een kaart in de XML-editor wordt geopend in het Kaartdashboard. Voorinstellingen kunnen informatie bevatten over een specifiek uitvoertype, een doelpad, instructies voor het beheren van bestaande uitvoerpagina&#39;s en andere instellingen die op een kaart kunnen worden toegepast om uitvoer te genereren.
 
-![Access-Output-Presets](images/access-output-presets.png)
+![ toegang-output-stelt vooraf in ](images/access-output-presets.png)
 
 ## Een uitvoervoorinstelling maken
 
 >[!NOTE]
 >
->OPMERKING: Sommige functies die worden gebruikt door een uitvoervoorinstelling, zijn mogelijk afhankelijk van de eerste ontwikkeling van een basislijn of een voorinstelling voor een voorwaarde. Als deze worden vereist moet u hen vormen gebruikend de aangewezen lusjes.
+>OPMERKING: sommige functies die door een uitvoervoorinstelling worden gebruikt, zijn mogelijk afhankelijk van de eerste ontwikkeling van een basislijn of een voorinstelling voor een voorwaarde. Als deze worden vereist moet u hen vormen gebruikend de aangewezen lusjes.
 
 1. Selecteer een uitvoervoorinstelling voor de basislijn. U kunt bijvoorbeeld AEM of PDF selecteren als de nieuwe voorinstelling die u wilt maken, bestemd is voor een site of Adobe PDF-inhoud bevat.
 
-1. Klikken **Maken**.
+1. Klik **creëren**.
 
 1. Selecteer indien nodig een uitvoertype.
 
 1. Op basis van het uitvoertype configureert u de opties verder.
 
-1. Klikken **Gereed**.
+1. Klik **Gedaan**.
 
 ## Een uitvoervoorinstelling bewerken
 
@@ -43,14 +43,14 @@ Uitvoervoorinstellingen zijn vooraf gedefinieerd, maar kunnen zo nodig worden aa
 
 1. Open het kaartdashboard.
 
-1. Selecteer **Voorinstellingen uitvoer** tab.
+1. Selecteer de **Output vooraf instelt** tabel.
 
 1. Selecteer een uitvoervoorinstelling.
 
-1. Klikken **Bewerken**.
+1. Klik **uitgeven**.
 
 1. Wijzig desgewenst de instellingen.
 
-   ![Bewerken-Uitvoer-Voorinstelling](images/edit-output-preset.png)
+   ![ geef-output-Vooraf ingesteld ](images/edit-output-preset.png) uit
 
-1. Klikken **Gereed**.
+1. Klik **Gedaan**.

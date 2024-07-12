@@ -1,6 +1,6 @@
 ---
-title: Werken met afbeeldingen in AEM hulplijnen
-description: Werken met afbeeldingen in Adobe Experience Manager-hulplijnen
+title: Werken met afbeeldingen in AEM Guides
+description: Werken met afbeeldingen in Adobe Experience Manager Guides
 exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 source-git-commit: 1f8fe099be2b4123eec6f7c973668b415097ac45
 workflow-type: tm+mt
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Het volgende zal u door het uploaden van en het opnemen van een beeld, evenals hoe te om een nieuwe versie van een onderwerp te bewaren.
 
-U kunt het afbeeldingsbestand met het voorbeeld downloaden van [hier.](assets/working-with-images/SignInScreen.png)
+U kunt het dossier van het voorbeeldbeeld van [ hier downloaden.](assets/working-with-images/SignInScreen.png)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336661?quality=12&learn=on)
 
@@ -21,17 +21,17 @@ U kunt het afbeeldingsbestand met het voorbeeld downloaden van [hier.](assets/wo
 
 1. Houd de muisaanwijzer boven de submap en selecteer het pictogram van de ovaal om het menu Opties te openen.
 
-   ![Ovaalpictogram](images/lesson-4/ellipses.png)
+   ![ het pictogram van de Ellipsis ](images/lesson-4/ellipses.png)
 
-1. Selecteer **[!UICONTROL Upload Assets]**.
+1. Selecteer **[!UICONTROL Upload Assets]** .
 
-   ![Elementen uploaden](images/lesson-4/upload-assets.png)
+   ![ upload Assets ](images/lesson-4/upload-assets.png)
 
-1. Selecteer de afbeelding die u wilt uploaden van uw lokale systeem en selecteer **Openen**.
+1. Selecteer het beeld u van uw lokaal systeem zou willen uploaden, en **Open** selecteren.
 
-   De [!UICONTROL Upload Assets] wordt weergegeven.
+   Het dialoogvenster [!UICONTROL Upload Assets] wordt weergegeven.
 
-1. Selecteren **Uploaden**.
+1. Selecteer **uploaden**.
 
 ## Een afbeelding invoegen in een onderwerp
 
@@ -49,27 +49,27 @@ Voor het volgende, zorg ervoor dat uw onderwerp in de documentredacteur open is.
 
 ### Een afbeelding invoegen met de knop Afbeelding invoegen
 
-1. Selecteer **Afbeelding invoegen** pictogram.
+1. Selecteer het **pictogram van het Beeld van het Tussenvoegsel**.
 
-   ![Pictogram Afbeelding invoegen](images/lesson-4/insert-image.png)
+   ![ pictogram van het Beeld van het Tussenvoegsel ](images/lesson-4/insert-image.png)
 
    Het dialoogvenster Afbeelding invoegen wordt geopend.
 
 1. Selecteer het mappictogram naast het veld Bestand selecteren om naar de afbeelding te zoeken of naar de locatie in de opslagplaats te navigeren.
-1. Selecteer het pictogram van de afbeelding en klik vervolgens op **Selecteren**.
+1. Selecteer het pictogram van het beeld, en dan **Uitgezocht**.
 
-   ![Afbeelding selecteren](images/lesson-4/select-image-with-markings.png)
+   ![ Uitgezochte beeld ](images/lesson-4/select-image-with-markings.png)
 
    Het dialoogvenster Afbeelding invoegen wordt weergegeven met de informatie van de gekozen afbeelding.
 
 1. Typ desgewenst tekst in de velden Figuurtitel en Alternatieve tekst.
-1. Selecteren **Invoegen**.
+1. Selecteer **Tussenvoegsel**.
 
    De afbeelding wordt samen met de titel van de figuur weergegeven in de editor.
 
 ## Een afbeelding uit een onderwerp verwijderen
 
-1. Selecteer de afbeelding in de documenteditor en druk op de knop **Verwijderen** toets.
+1. Selecteer het beeld in de documentredacteur en druk de **sleutel van de Schrapping**.
 
 ## Een nieuwe versie van een onderwerp opslaan
 
@@ -77,11 +77,11 @@ Met Versioning kunt u verschillende versies controleren en vergelijken. U kunt z
 
 Aangezien u een significante verandering in uw onderwerp hebt aangebracht, kunt u het nu nuttig vinden om uw huidig werk als nieuwe versie te bewaren.
 
-1. Selecteer **Opslaan als nieuwe versie** pictogram.
+1. Selecteer **sparen als Nieuw pictogram van de Versie**.
 
-   ![Pictogram Opslaan als nieuwe versie](images/common/save-as-new-version.png)
+   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
 
-   De **Opslaan als nieuwe versie** wordt weergegeven.
+   **sparen als Nieuwe de dialoogdoos van de Versie** toont.
 
 1. Voer in het veld Opmerkingen voor nieuwe versie een korte, maar duidelijke samenvatting van de wijzigingen in.
 1. Voer relevante labels in in het veld Versielabels.
@@ -92,6 +92,6 @@ Aangezien u een significante verandering in uw onderwerp hebt aangebracht, kunt 
    > 
    > Als uw programma met vooraf bepaalde etiketten wordt gevormd, kunt u van deze selecteren om verenigbare etikettering te verzekeren.
 
-1. Selecteren **Opslaan**.
+1. Selecteer **sparen**.
 
    U hebt een nieuwe versie van uw onderwerp gecreeerd, en het versieaantal wordt bijgewerkt.

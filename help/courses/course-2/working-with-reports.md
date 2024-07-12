@@ -1,10 +1,10 @@
 ---
 title: Werken met rapporten
-description: Werken met rapporten in [!DNL Adobe Experience Manager Guides]
+description: Werken met rapporten in  [!DNL Adobe Experience Manager Guides]
 exl-id: 755506a6-c416-4a8c-8359-8db7e63a90a4
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ Op het tabblad Rapporten in het dashboard Kaart kunt u verbroken koppelingen, in
 
 >[!VIDEO](https://video.tv.adobe.com/v/339039?quality=12&learn=on)
 
-## Voorbereiden op de oefening
+## De oefening voorbereiden
 
 U kunt hier voorbeeldbestanden downloaden voor de oefening.
 
 [Oefening-downloaden](assets/exercises/working-with-reports.zip)
 
-## Elementen uploaden
+## Assets uploaden
 
 1. Selecteer in de weergave Opslagplaats het pictogram Ovaal in de hoofdmap om het menu Opties te openen.
 
-   ![ellipses-9.png](images/ellipses-9.png)
+   ![ ellipses-9.png ](images/ellipses-9.png)
 
-1. Selecteer **[!UICONTROL Upload Assets]**.
+1. Selecteer **[!UICONTROL Upload Assets]** .
 
-   ![upload-assets.png](images/upload-assets.png)
+   ![ upload-assets.png ](images/upload-assets.png)
 
-1. Selecteer de bestanden die u naar de map wilt uploaden en selecteer **Uploaden**.
+1. Selecteer de dossiers u aan de omslag wilt uploaden, en **selecteren uploadt**.
 
 De DITA-bestanden worden geopend en u moet ze controleren op problemen met ontbrekende inhoud, conrefs of kruisverwijzingen.
 
@@ -39,17 +39,17 @@ De DITA-bestanden worden geopend en u moet ze controleren op problemen met ontbr
 
 1. Selecteer het pictogram Ovaal in de hoofdmap om het menu Opties te openen.
 
-   ![ellipses-9.png](images/ellipses-9.png)
+   ![ ellipses-9.png ](images/ellipses-9.png)
 
-1. Selecteren **Maken > Kaart**.
+1. Selecteer **creeer > Kaart**.
 
-   ![create-map.png](images/create-map.png)
+   ![ create-map.png ](images/create-map.png)
 
    Het dialoogvenster Nieuwe kaart maken wordt weergegeven.
 
-1. Selecteer in het veld Sjabloon de optie **Bladwijzer** (of **Kaart** op basis van het inhoudstype dat u maakt) in het keuzemenu en geef uw kaart een titel.
+1. Op het gebied van het Malplaatje, uitgezochte **Bookmap** (of **Kaart** die op het inhoudstype wordt gebaseerd u) van het drop-down menu creeert en uw kaart een titel geeft.
 
-1. Selecteer **Maken**.
+1. Selecteer **creeer**.
 
 Uw kaart wordt gemaakt en de linkerrails veranderen automatisch van de weergave Opslagplaats naar de weergave Kaart.
 
@@ -58,39 +58,39 @@ Uw kaart wordt gemaakt en de linkerrails veranderen automatisch van de weergave 
 1. Selecteer het potloodpictogram in de linkerspoorstaaf.
 Dit is het bewerkingspictogram, waarmee u de kaart in de editor kunt openen.
 
-   ![edit-map.png](images/edit-map.png)
+   ![ uitgeven-map.png ](images/edit-map.png)
 
 1. Schakel terug naar de weergave Opslagplaats door het pictogram Opslagplaats te selecteren.
 
-   ![repository-button.png](images/repository-button.png)
+   ![ bewaarplaats-button.png ](images/repository-button.png)
 
 1. Voeg een onderwerp aan de kaart toe door het van Repository in de kaart in de redacteur te slepen en te laten vallen.
 De lijnindicator zal u tonen waar uw onderwerp zal worden geplaatst.
 
 1. Voeg desgewenst onderwerpen toe.
 
-1. Als u klaar bent, selecteert u **Opslaan als nieuwe versie.**
+1. Wanneer gebeëindigd, uitgezocht **sparen als Nieuwe Versie.**
 
-   ![save-as-new-version.png](images/save-as-new-version.png)
+   ![ save-as-new-version.png ](images/save-as-new-version.png)
 
-1. In de *Opmerkingen voor nieuwe versie* voert u een beschrijvende opmerking in.
+1. Op *Commentaren voor het nieuwe gebied van de Versie*, ga een beschrijvende commentaar in.
 
-1. Selecteren **Opslaan**.
+1. Selecteer **sparen**.
 
 ## Een AEM Site-uitvoer genereren
 
-1. Selecteer in de Repository het Ellipsis-pictogram op de kaart om het menu Opties te openen en klik vervolgens op **Open Kaartdashboard.**
+1. In Bewaarplaats, selecteer het pictogram van de Ellipsis op uw kaart om het menu van Opties te openen, en dan **Open het Dashboard van de Kaart.**
 
-   ![open-map-dashboard.png](images/open-map-dashboard.png)
+   ![ open-map-dashboard.png ](images/open-map-dashboard.png)
 
    Het kaartdashboard wordt op een ander tabblad geopend.
-1. Selecteer op het tabblad Uitvoervoorinstellingen de optie **Site AEM**.
+1. In de Output stelt lusje vooraf in, uitgezochte **AEM Plaats**.
 
-   ![Vakje voor site-controle](images/aem-site-checkbox.png)
+   ![ a-plaats-checkbox ](images/aem-site-checkbox.png)
 
-1. Selecteren **Genereren**.
+1. Selecteer **produceren**.
 
-1. Navigeer naar de pagina Uitvoer om de status van de gegenereerde uitvoer weer te geven.
+1. Navigeer naar de pagina Outputs om de status van uw geproduceerde output te bekijken.
 Als er fouten zijn, kan op het tabblad Uitvoer een oranje cirkel worden weergegeven onder de kolom Generatie-instelling in plaats van groen om aan te geven dat het genereren is voltooid.
 
 1. Selecteer de koppeling onder de kolom Generatie-instelling om de gegenereerde uitvoer te openen.
@@ -102,39 +102,39 @@ Het lusje van Rapporten toont een onderwerpsamenvatting, en een lijst die onderw
 
 In het ideale geval controleert u altijd de Rapporten op een kaart nadat u inhoud hebt geïmporteerd.
 
-![reports.png](images/reports.png)
+![ reports.png ](images/reports.png)
 
-De kolom Ontbrekende elementen geeft het aantal ontbrekende afbeeldingen en verbroken conrefs aan. U kunt de **Potlood** pictogram om het onderwerp in de redacteur te openen.
+De kolom Ontbrekende elementen geeft het aantal ontbrekende afbeeldingen en verbroken conrefs aan. U kunt het **pictogram van het Potlood** selecteren om het onderwerp in de redacteur te openen.
 
 ## Ontbrekende afbeeldingen oplossen
 
 Als er afbeeldingen ontbreken in uw bestanden, kan de algemene reden hiervoor zijn dat de inhoud wel is geüpload, maar dat dit niet het geval is bij afbeeldingen. Als dat het geval is, lost u de problemen met ontbrekende afbeeldingen op door afbeeldingen te uploaden naar een specifieke map die overeenkomt met het pad en de bestandsnamen die door bestanden worden verwacht.
 
-1. In *Weergave opslagplaats* selecteert u het pictogram Ovaal in de map met afbeeldingen om het menu Opties te openen.
+1. In *Mening van de Bewaarplaats*, selecteer het pictogram van de Ovaal op uw beeldenomslag om het menu van Opties te openen.
 
-   ![image-ellipsis.png](images/image-ellipsis.png)
+   ![ beeld-ellipsis.png ](images/image-ellipsis.png)
 
-1. Selecteren **[!UICONTROL Upload Assets]** en selecteer de ontbrekende afbeeldingen.
+1. Selecteer **[!UICONTROL Upload Assets]** en selecteer de ontbrekende afbeeldingen.
 
-1. Selecteren **Uploaden**.
+1. Selecteer **uploaden**.
 
-De ontbrekende afbeeldingen zijn geüpload. Deze afbeeldingen worden nu weergegeven in een nieuw gegenereerde AEM Site-uitvoer en op het tabblad Rapporten worden geen ontbrekende afbeeldingsfouten meer weergegeven.
+De ontbrekende afbeeldingen zijn geüpload. Deze afbeeldingen worden nu weergegeven in een nieuw gegenereerde AEM Site-uitvoer en op het tabblad Rapporten worden geen fouten meer weergegeven.
 
 ## Gebroken conrefs oplossen
 
 Als inhoud waarnaar elders wordt verwezen (een conref), verwijst naar een bestand in een andere map (bijvoorbeeld een map met de naam &quot;reuse&quot;). en de inhoud niet is geüpload, moet een fout worden opgelost. U moet bijvoorbeeld een submap maken met de naam &quot;hergebruik&quot; en het ontbrekende bestand uploaden naar &quot;hergebruik&quot;.
 
-### Middelen uploaden met de [!UICONTROL Assets] UI
+### Middelen uploaden met de gebruikersinterface van [!UICONTROL Assets]
 
-Naast de [!UICONTROL Upload Assets] kunt u elementen uploaden door deze naar de interface Elementen te slepen.
+Naast de optie [!UICONTROL Upload Assets] kunt u ook elementen uploaden door deze naar de gebruikersinterface van Assets te slepen.
 
 1. Selecteer in de weergave Opslagplaats het Ellipsis-pictogram in de map voor hergebruik om het menu Opties te openen.
 
-   ![hergebruik-ellips.png](images/reuse-ellipsis.png)
+   ![ hergebruik-ellipsis.png ](images/reuse-ellipsis.png)
 
-1. Selecteren **Weergeven in interface Elementen**.
+1. Selecteer **Mening in Assets UI**.
 
-   ![assets_ui.png](images/assets_ui.png)
+   ![ assets_ui.png ](images/assets_ui.png)
 
 1. Sleep het bestand naar de map.
 Het bestand wordt geüpload en de fout conref is opgelost.

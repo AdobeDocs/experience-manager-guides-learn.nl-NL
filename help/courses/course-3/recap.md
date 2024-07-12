@@ -1,6 +1,6 @@
 ---
 title: Conclusie trainingsreeks
-description: Overzicht en overzicht van training AEM gidsen
+description: Overzicht en overzicht van de training AEM Guides
 exl-id: 29fe5e78-8787-4f09-a969-60f68e376976
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
@@ -15,30 +15,30 @@ ht-degree: 0%
 
 In deze cursus hebt u geleerd over:
 
-- [Gebruikersvoorkeuren en -instellingen](./user-settings-preferences-toolbars.md)
+- [ Voorkeur en Montages van de Gebruiker ](./user-settings-preferences-toolbars.md)
 
-- [Mapprofielen](folder-profiles.md)
+- [ Profielen van de Omslag ](folder-profiles.md)
 
-- [Editor-configuratie](editor-configuration.md)
+- [ Configuratie van de Redacteur ](editor-configuration.md)
 
-- [Deelvensters](panels.md)
+- [ Panelen ](panels.md)
 
-- [Omtrekweergave](outline-view.md)
+- [ Mening van het Overzicht ](outline-view.md)
 
-- [Kruisverwijzingen en koppelingen](cross-references-and-links.md)
+- [ Kruisverwijzingen en Verbindingen ](cross-references-and-links.md)
 
-- [Inhoud opnieuw gebruiken](content-reuse.md)
+- [ Inhoud hergebruiken ](content-reuse.md)
 
-- [Toetsen](keys.md)
+- [ Sleutels ](keys.md)
 
-- [Verklarende woordenlijst](glossary.md)
+- [ Verklarende woordenlijst ](glossary.md)
 
-- [Spellingcontrole en Zoeken en vervangen](spell-check.md)
+- [ spelling-controlerend en Vondst en vervangt ](spell-check.md)
 
-- [Wijzigingen bijhouden](track-changes.md)
+- [ Veranderingen van het Spoor ](track-changes.md)
 
-- [Voorwaarden](conditions.md)
+- [ Voorwaarden ](conditions.md)
 
-- [Kaarten en bladwijzers](maps-and-bookmaps.md)
+- [ Kaarten en Bladwijzers ](maps-and-bookmaps.md)
 
-- [Workflows voor het maken van eenvoudige inhoud](simple-content-creation-workflows.md)
+- [ de Eenvoudige Werkschema&#39;s van de Inhoudsverwezenlijking van de Inhoud ](simple-content-creation-workflows.md)

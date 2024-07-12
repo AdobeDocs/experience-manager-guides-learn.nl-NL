@@ -22,7 +22,7 @@ ht-degree: 14%
    + [Werken met lijsten](./course-1/working-with-lists.md)
    + [Versie-inhoud](./course-1/versioning-content.md)
    + [Een kaart maken](./course-1/creating-a-map.md)
-   + [Standaarduitvoer publiceren](./course-1/publishing-default-output.md)
+   + [Standaard Publish-uitvoer](./course-1/publishing-default-output.md)
    + [Opnieuw](./course-1/recap.md)
 + Uitvoergeneratie met [!DNL AEM Guides] {#output-generation}
    + [Overzicht van genereren van uitvoer](./course-2/overview.md)
@@ -34,7 +34,7 @@ ht-degree: 14%
    + [Problemen met publicatiefouten oplossen](./course-2/troubleshooting-publishing-errors.md)
    + [Bulkpublicaties](./course-2/bulk-publishing.md)
    + [Opnieuw](./course-2/recap.md)
-+ Ontwerpen met [!DNL AEM Guides] Editor {#advanced-user-guide}
++ Ontwerpen met de [!DNL AEM Guides] Editor {#advanced-user-guide}
    + [Overzicht van ontwerpen](./course-3/overview.md)
    + [Gebruikersvoorkeuren, Editor-instellingen en Editor-werkbalken](./course-3/user-settings-preferences-toolbars.md)
    + [Mapprofielen](./course-3/folder-profiles.md)
