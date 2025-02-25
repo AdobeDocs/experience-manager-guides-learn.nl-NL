@@ -2,15 +2,15 @@
 user-guide-title: Tutorials voor Adobe Experience Manager Guides
 user-guide-description: Een verzameling video's voor Adobe Experience Manager-handleidingen.
 breadcrumb-title: Tutorials voor AEM-handleidingen
-source-git-commit: b78894069aa2b1279365d716332b5f6e2e3be865
+source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 14%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 
 
-# Tutorials voor [!DNL Adobe Experience Manager Guides] {#videos}
+# Zelfstudies voor [!DNL Adobe Experience Manager Guides] {#videos}
 
 + [[!DNL AEM Guides] Video&#39;s](overview.md)
 + Aan de slag met [!DNL AEM Guides] {#getting-started}
@@ -22,7 +22,7 @@ ht-degree: 14%
    + [Werken met lijsten](./course-1/working-with-lists.md)
    + [Versie-inhoud](./course-1/versioning-content.md)
    + [Een kaart maken](./course-1/creating-a-map.md)
-   + [Standaard Publish-uitvoer](./course-1/publishing-default-output.md)
+   + [Standaarduitvoer publiceren](./course-1/publishing-default-output.md)
    + [Opnieuw](./course-1/recap.md)
 + Uitvoergeneratie met [!DNL AEM Guides] {#output-generation}
    + [Overzicht van genereren van uitvoer](./course-2/overview.md)
@@ -38,6 +38,7 @@ ht-degree: 14%
    + [Overzicht van ontwerpen](./course-3/overview.md)
    + [Gebruikersvoorkeuren, Editor-instellingen en Editor-werkbalken](./course-3/user-settings-preferences-toolbars.md)
    + [Mapprofielen](./course-3/folder-profiles.md)
+   + [UI-configuratie converteren](./course-3/conver-ui-config.md)
    + [Editor-configuratie](./course-3/editor-configuration.md)
    + [Deelvensters](./course-3/panels.md)
    + [Omtrekweergave](./course-3/outline-view.md)

@@ -2,9 +2,9 @@
 title: AEM Guides Editor-configuratie
 description: De editor voor AEM Guides configureren
 exl-id: 437d9598-4afc-431f-81bd-6762e22656b7
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 988c288fc03e509a3a55e87b1e1ecd8fd07d1c92
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,13 @@ U kunt de standaardconfiguratie UI altijd downloaden naar uw lokale systeem, ver
 
 U kunt de inhoud nu openen en wijzigen in een teksteditor. De _Gids van de Installatie en van de Configuratie van 0} AEM Guides bevat steekproeven van hoe te om, functies aan de configuratie te verwijderen aan te passen of toe te voegen UI._
 
-## De aangepaste UI-configuratie van de XML-editor uploaden
+## De gewijzigde configuratie van de XML-editor uploaden
 
 Nadat u de UI-configuratie hebt aangepast, kunt u deze uploaden. Merk op dat een dossier van de steekproefconfiguratie _ui-config-beperkt-editor.json_ van de reeks ondersteunende onderwerpen voor deze les wordt voorzien.
 
 1. Binnen het Profiel van de Omslag, klik de **]tabel van de Configuratie van de Redacteur van 0} XML.[!UICONTROL **
 
-1. Onder de configuratie van UI van de Redacteur van XML, klik [!UICONTROL **uploadt**].
+1. Onder de configuratie van de Redacteur van XML, klik [!UICONTROL **uploadt**].
 
    ![ uploadt ](images/lesson-4/upload.png)
 
