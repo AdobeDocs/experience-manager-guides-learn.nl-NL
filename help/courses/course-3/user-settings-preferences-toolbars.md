@@ -41,7 +41,7 @@ Tags verdwijnen, zodat u zich op de tekst kunt concentreren.
 
 Door een bestand te vergrendelen (of uit te checken) heeft de gebruiker exclusieve schrijftoegang tot het bestand. Wanneer het bestand is ontgrendeld (of is ingecheckt), worden de wijzigingen opgeslagen in de huidige versie van het bestand.
 
-1. Klik het [!UICONTROL ****] pictogram van het Slot op de secundaire toolbar.
+1. Klik het [!UICONTROL **&#x200B;**] pictogram van het Slot op de secundaire toolbar.
 
    ![ Controle ](images/lesson-2/checkout-icon.png)
 

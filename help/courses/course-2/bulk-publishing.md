@@ -70,7 +70,7 @@ publiceer taken. Er wordt een dynamische lijst met kaarten en hun huidige status
 
 1. Klik op **[!DNL Guides]**.
 
-1. Selecteer de **** tegel van het Dashboard van Publish.
+1. Selecteer de **&#x200B;**&#x200B;tegel van het Dashboard van Publish.
 
         als het dashboard leeg is zijn er geen publicatietaken die lopen.
        

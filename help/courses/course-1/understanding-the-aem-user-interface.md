@@ -57,7 +57,7 @@ U kunt aanvullende acties uitvoeren met uw inhoud. Een van deze opties is om uw 
 
 U kunt uit veelvoudige meningen voor de UI van Assets kiezen om uw organisatorische behoeften het best aan te passen.
 
-1. Selecteer het **pictogram van de Schakelaar van de Mening 0} {in de hogere juiste hoek.**
+1. Selecteer het **pictogram van de Schakelaar van de Mening 0&rbrace; &lbrace;in de hogere juiste hoek.**
 
    ![ de schakelaarpictogram van de Mening ](images/lesson-2/view-switcher.png)
 

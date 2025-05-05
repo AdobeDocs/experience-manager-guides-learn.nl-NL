@@ -45,7 +45,7 @@ Er zijn verschillende methoden om herbruikbare elementen toe te voegen. Hier is 
 
    ![ Bevestiging ](images/lesson-8/insert-reuse-icon.png)
 
-1. In het dialoogvenster Inhoud opnieuw gebruiken klikt u op het pictogram **]Map[!UICONTROL ** .
+1. In het dialoogvenster Inhoud opnieuw gebruiken klikt u op het pictogram **Map** .
 
 1. Navigeer naar de gewenste map.
 

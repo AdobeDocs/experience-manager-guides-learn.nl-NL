@@ -67,7 +67,7 @@ De beheerder kan de instellingen wijzigen zodat het AEM woordenboek aangepaste w
 
    ![ Nieuwe Creatie van het Dossier van het Woordenboek ](images/lesson-11/new-dictionary-file.png)
 
-   c. noem het dossier _**user_dictionary.txt**_.
+   c. noem het dossier _&#x200B;**user_dictionary.txt**&#x200B;_.
 
    ![ tekst van het Woordenboek van de Gebruiker ](images/lesson-11/user-dictionary.png)
 

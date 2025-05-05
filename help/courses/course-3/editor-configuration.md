@@ -27,7 +27,7 @@ U kunt de standaardconfiguratie UI altijd downloaden naar uw lokale systeem, ver
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
+1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
@@ -35,17 +35,17 @@ U kunt de standaardconfiguratie UI altijd downloaden naar uw lokale systeem, ver
 
 1. Klik de [!UICONTROL **Configuratie van de Redacteur van XML**] tabel.
 
-1. Klik **]Gebrek van de 1} Download[!UICONTROL **.
+1. Klik **Gebrek van de 1&rbrace; Download**.
 
-   ![ Standaard van de Download {](images/lesson-4/download-default.png)
+   ![ Standaard van de Download &lbrace;](images/lesson-4/download-default.png)
 
-U kunt de inhoud nu openen en wijzigen in een teksteditor. De _Gids van de Installatie en van de Configuratie van 0} AEM Guides bevat steekproeven van hoe te om, functies aan de configuratie te verwijderen aan te passen of toe te voegen UI._
+U kunt de inhoud nu openen en wijzigen in een teksteditor. De _Gids van de Installatie en van de Configuratie van 0&rbrace; AEM Guides bevat steekproeven van hoe te om, functies aan de configuratie te verwijderen aan te passen of toe te voegen UI._
 
 ## De gewijzigde configuratie van de XML-editor uploaden
 
 Nadat u de UI-configuratie hebt aangepast, kunt u deze uploaden. Merk op dat een dossier van de steekproefconfiguratie _ui-config-beperkt-editor.json_ van de reeks ondersteunende onderwerpen voor deze les wordt voorzien.
 
-1. Binnen het Profiel van de Omslag, klik de **]tabel van de Configuratie van de Redacteur van 0} XML.[!UICONTROL **
+1. Binnen het Profiel van de Omslag, klik de **tabel van de Configuratie van de Redacteur van 0&rbrace; XML.**
 
 1. Onder de configuratie van de Redacteur van XML, klik [!UICONTROL **uploadt**].
 
@@ -69,7 +69,7 @@ Net als bij de UI-configuratie kunt u de CSS-sjabloonlay-out downloaden. U kunt 
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
+1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
@@ -87,7 +87,7 @@ U kunt de CSS-inhoud nu wijzigen en opslaan in een teksteditor.
 
 Nadat u de CSS-sjabloonlay-out hebt aangepast, kunt u deze uploaden. Merk op dat een steekproefdossier _css-lay-out-ONLY-concept-commentaar-change.css_ van de reeks ondersteunende onderwerpen voor deze les wordt voorzien. Dit dossier bevat slechts de Verandering van de Commentaar van het Ontwerp, terwijl _css-lay-out-ontwerp-commentaar-change.css_ het volledige dossier is, beschikbaar aan u voor het testen of overzichtsdoeleinden slechts.
 
-1. Binnen het Profiel van de Omslag, klik de **]tabel van de Configuratie van de Redacteur van 0} XML.[!UICONTROL **
+1. Binnen het Profiel van de Omslag, klik de **tabel van de Configuratie van de Redacteur van 0&rbrace; XML.**
 
 1. Onder CSS malplaatjelay-out, klik [!UICONTROL **uploadt**].
 
@@ -110,7 +110,7 @@ Fragmenten zijn herbruikbare stukken inhoud die specifiek kunnen zijn voor een p
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
+1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
@@ -140,7 +140,7 @@ Auteurs kunnen standaard zelf labels maken en deze koppelen aan onderwerpbestand
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
+1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
@@ -158,7 +158,7 @@ U kunt de labels nu naar wens aanpassen.
 
 Nadat u de labels hebt gedownload en gewijzigd, kunt u het onderwerp Versielabel voor XML-inhoud uploaden. U kunt verkiezen om het steekproefdossier _labels.json_ te gebruiken, voorzien van de reeks ondersteunende onderwerpen voor deze les.
 
-1. Binnen het Profiel van de Omslag, klik de **]tabel van de Configuratie van de Redacteur van 0} XML.[!UICONTROL **
+1. Binnen het Profiel van de Omslag, klik de **tabel van de Configuratie van de Redacteur van 0&rbrace; XML.**
 
 1. Onder de Etiketten van de Versie van de Inhoud van XML, klik [!UICONTROL **uploadt**].
 

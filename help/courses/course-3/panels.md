@@ -83,7 +83,7 @@ Een andere manier om een onderwerp aan uw Favorieten toe te voegen is van een op
 
 1. Dubbelklik op een onderwerp om het te openen.
 
-1. Klik op het lusje van de Titel van het dossier **** in de Redacteur met de rechtermuisknop aan om tot contextafhankelijke opties toegang te hebben.
+1. Klik op het lusje van de Titel van het dossier **&#x200B;**&#x200B;in de Redacteur met de rechtermuisknop aan om tot contextafhankelijke opties toegang te hebben.
 
 1. Kies **toevoegen aan** > **Favorieten**.
 
@@ -222,7 +222,7 @@ De Eigenschappen van het dossier toont extra informatie over het volledige open 
 
 1. Open een onderwerp in de Redacteur.
 
-1. Klik het [!UICONTROL  **pictogram van de Eigenschappen van het Dossier**] op het juiste paneel.
+1. Klik het [!UICONTROL &#x200B; **pictogram van de Eigenschappen van het Dossier**] op het juiste paneel.
 
    ![ Pictogram van de Eigenschappen van het Dossier ](images/lesson-5/file-properties-icon.png)
 

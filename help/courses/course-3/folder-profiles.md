@@ -27,7 +27,7 @@ Configuraties worden beheerd via het pictogram Mapprofielen.
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
+1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
@@ -64,7 +64,7 @@ Naast het standaard algemene profiel kunt u ook uw eigen aangepaste profielen ma
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
+1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
@@ -178,7 +178,7 @@ De enige voorinstellingen voor uitvoer die worden weergegeven, zijn de voorinste
 
 ## Een fragment uploaden vanaf het tabblad Configuratie van de XML-editor
 
-1. Van binnen het gewenste Profiel van de Omslag, selecteer het **lusje van de Configuratie van de Redacteur van 0} XML.**
+1. Van binnen het gewenste Profiel van de Omslag, selecteer het **lusje van de Configuratie van de Redacteur van 0&rbrace; XML.**
 
 1. Onder de Fragmenten van de Redacteur van XML, klik [!UICONTROL **uploadt**].
 

@@ -19,7 +19,7 @@ De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken
 
 ## Voorwaarden toewijzen aan een mapprofiel
 
-1. Selecteer de **tegel van de Profielen van de 1} Omslag 0}.**
+1. Selecteer de **tegel van de Profielen van de 1&rbrace; Omslag 0&rbrace;.**
 
 1. Klik [!UICONTROL **Voorwaardelijke Attributen**].
 

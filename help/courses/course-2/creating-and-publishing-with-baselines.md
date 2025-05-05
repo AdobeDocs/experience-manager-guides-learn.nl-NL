@@ -32,7 +32,7 @@ Het tabblad Basislijnen wordt weergegeven.
 
 ## Een basislijn maken op basis van labels
 
-1. In het lusje van Basislijnen, creeer de uitgezochte ****.
+1. In het lusje van Basislijnen, creeer de uitgezochte **&#x200B;**.
 
    ![ create-baseline.png ](images/create-baseline.png)
 
