@@ -1,9 +1,10 @@
 ---
 title: AEM Guides Editor-configuratie
 description: JSON-configuraties aanpassen en gebruikersinterfaceconfiguraties converteren voor de nieuwe AEM Guides Editor.
-source-git-commit: ec6f5685d690e53e5c6eb29d6b61436833f62c68
+exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
+source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '1197'
 ht-degree: 0%
 
 ---
@@ -12,6 +13,9 @@ ht-degree: 0%
 
 Wanneer het migreren van oude UI naar nieuwe AEM Guides UI, moeten de updates aan **ui_config** in flexibelere en modulaire configuraties UI worden omgezet. Dit kaderhulp keurt naadloos veranderingen in **editor_toolbar** en [ andere toolbars ](/help/courses/course-3/conver-ui-config.md#editing-json-for-different-screens) goed. Het proces ondersteunt ook het wijzigen van andere weergaven en widgets in de toepassing.
 
+>[!NOTE]
+>
+>Aanpassingen die worden toegepast op specifieke knoppen kunnen problemen veroorzaken tijdens de overgang naar het extensieframework. Als dit voorkomt, kunt u een steunkaartje met verwijzing naar deze pagina voor snelle steun en resolutie opheffen.
 
 ## JSON bewerken voor verschillende schermen
 
@@ -38,24 +42,34 @@ JSON-bestanden kunnen voor verschillende schermen en widgets worden toegevoegd a
 
 Elke JSON volgt een consistente structuur:
 
-1. **identiteitskaart**: Specificeert widget waar de component wordt aangepast.
-1. **targetEditor**: Bepaalt wanneer om een knoop te tonen of te verbergen gebruikend redacteur en wijzeeigenschappen:
+1. `id` - Geeft de widget op waar de component wordt aangepast.
+1. `targetEditor`: definieert wanneer een knop moet worden weergegeven of verborgen met de eigenschappen van de editor en modus:
 
-   Momenteel hebben wij deze **redacteur** en **wijze** in ons systeem.
+   De volgende opties worden ondersteund onder `targetEditor` :
 
-   **redacteur**: ditamap, bookmap, subjectScheme, xml, css, vertaling, preset, pdf_preset
+   - `mode`
+   - `displayMode`
+   - `editor`
+   - `documentType`
+   - `documentSubType`
+   - `flag`
 
-   **wijze**: auteur, bron, voorproef, toc, spleet
+   Voor details, mening [ Begrijpend eigenschappen targetEditor ](#understanding-targeteditor-properties)
 
-   (Opmerking: de toc-modus is van toepassing op de layoutweergave.)
+   >[!NOTE]
+   >
+   > De release 2506 van Experience Manager Guides introduceert nieuwe eigenschappen: `displayMode` , `documentType` , `documentSubType` en `flag` . Deze eigenschappen worden alleen vanaf versie 2506 ondersteund. Op dezelfde manier wordt de wijziging van `toc` in `layout` in de eigenschap mode ook toegepast vanaf deze release.
+   >
+   > Er is nu een nieuw veld, `documentType` , beschikbaar naast het bestaande veld `editor` .  Beide velden worden ondersteund en kunnen indien nodig worden gebruikt. Het gebruik van `documentType` wordt echter aanbevolen om consistentie tussen implementaties te garanderen, vooral wanneer u werkt met de eigenschap `documentSubType` . Het veld `editor` blijft geldig voor ondersteuning van compatibiliteit met oudere versies en bestaande integratie.
 
-1. **doel**: Specificeert waar de nieuwe component zal worden toegevoegd. Dit gebruikt sleutel-waardeparen of indexen voor unieke identificatie. Voorbeelden van weergavestatussen zijn:
 
-   * **voeg** toe: voeg aan het eind toe.
+1. `target` - Geeft aan waar de nieuwe component wordt toegevoegd. Dit gebruikt sleutel-waardeparen of indexen voor unieke identificatie. Voorbeelden van weergavestatussen zijn:
 
-   * **prepend**: Voeg aan het begin toe.
+   - **voeg** toe: voeg aan het eind toe.
 
-   * **vervangt**: Vervang een bestaande component.
+   - **prepend**: Voeg aan het begin toe.
+
+   - **vervangt**: Vervang een bestaande component.
 
 Voorbeeld JSON-structuur:
 
@@ -87,6 +101,140 @@ Voorbeeld JSON-structuur:
 ```
 
 <br>
+
+## `targetEditor` -eigenschappen
+
+Hieronder ziet u een uitsplitsing van elke eigenschap, het doel ervan en ondersteunde waarden.
+
+### `mode`
+
+Bepaalt de operationele wijze van de redacteur.
+
+**Gesteunde waarden**: `author`, `source`, `preview`, `layout` (eerder `toc`), `split`
+
+### `displayMode` *(optional)*
+
+Bepaalt de zichtbaarheid of interactiviteit van UI-componenten. De standaardwaarde wordt ingesteld op `show` als deze niet wordt opgegeven.
+
+**Gesteunde waarden**: `show`, `hide`, `enabled`, `disabled`
+
+Voorbeeld:
+
+```
+ {
+        "icon": "textBulleted",
+        "title": "Custom Insert Bulleted",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_BULLETED_LIST",
+        "targetEditor": {
+          "documentType": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ],
+          "displayMode": "hide"
+        }
+      },
+```
+
+### `editor`
+
+Hiermee geeft u het primaire documenttype op in de editor.
+
+**gesteunde waarden**: `ditamap`, `bookmap`, `subjectScheme`, `xml`, `css`, `translation`, `preset`, `pdf_preset`
+
+### `documentType`
+
+Hiermee wordt het primaire documenttype aangegeven.
+
+**gesteunde waarden**: `dita`, `ditamap`, `bookmap`, `subjectScheme`, `css`, `preset`, `ditaval`, `reports`, `baseline`, `translation`, `html`, `markdown`, `conditionPresets`
+
+> Aanvullende waarden kunnen worden ondersteund voor specifieke gebruiksgevallen.
+
+Voorbeeld:
+
+```
+ {
+        "icon": "textNumbered",
+        "title": "Custom Numbered List",
+        "on-click": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "key": "$$AUTHOR_INSERT_REMOVE_NUMBERED_LIST",
+        "targetEditor": {
+          "documentType": [
+            "dita",
+            "ditamap"
+          ],
+          "mode": [
+            "author",
+            "source"
+          ]
+
+        }
+      },
+```
+
+### `documentSubType`
+
+Hiermee wordt het document verder geclassificeerd op basis van `documentType` .
+
+- **Voor`preset`**: `pdf`, `html5`, `aemsite`, `nativePDF`, `json`, `custom`, `kb`
+- **Voor`dita`**: `topic`, `reference`, `concept`, `glossary`, `task`, `troubleshooting`
+
+> Aanvullende waarden kunnen worden ondersteund voor specifieke gebruiksgevallen.
+
+Voorbeeld:
+
+```
+ {
+        "icon": "rename",
+        "title": "Custom Rename",
+        "on-click": "$$PUBLISH_PRESETS_RENAME",
+        "label": "Custom Rename",
+        "key": "$$PUBLISH_PRESETS_RENAME",
+        "targetEditor": {
+          "documentType": [
+            "preset"
+          ],
+          "documentSubType": [
+            "nativePDF",
+            "aemsite",
+            "json"
+          ]
+
+        }
+      },
+```
+
+### `flag`
+
+Booleaanse indicatoren voor documentstatus of -mogelijkheden.
+
+**Gesteunde waarden**: `isOutputGenerated`, `isTemporaryFileDownloadable`, `isPDFDownloadable`, `isLocked`, `isUnlocked`, `isDocumentOpen`
+
+Bovendien kunt u binnen `extensionMap` ook een aangepaste vlag maken die als vlag in `targetEditor` wordt gebruikt. Hier is `extensionMap` een algemene variabele die wordt gebruikt om aangepaste sleutels of waarneembare waarden toe te voegen.
+
+Voorbeeld:
+
+```
+ {
+        "icon": "filePDF",
+        "title": "Custom Export pdf",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "documentType": [
+            "markdown"
+          ],
+          "mode": [
+            "preview"
+          ],
+          "flag": ["isPDFDownloadable"]
+
+        }
+      },
+```
+
 
 ## Voorbeelden
 
@@ -189,6 +337,75 @@ Het vervangen van de **Multimedia** knoop van de toolbar met **Youtube** knoop v
 
 <br>
 
+### Een knop toevoegen in de voorvertoningsmodus
+
+Conform het ontwerp wordt de zichtbaarheid van de knop afzonderlijk beheerd voor vergrendelde en ontgrendelde (alleen-lezen) modi om een duidelijke en gecontroleerde gebruikerservaring te behouden. Door gebrek, wordt om het even welke onlangs toegevoegde knoop verborgen wanneer de interface op read-only wijze is.
+Om een knoop op **read-only** wijze zichtbaar te maken, moet u een doel specificeren dat het binnen een toolbaronderafdeling plaatst die toegankelijk blijft zelfs wanneer de interface wordt gesloten.
+Bijvoorbeeld, door het doel als **Download te specificeren als PDF**, kunt u de knoop in de zelfde sectie verzekeren verschijnt zoals een bestaande zichtbare knoop, daardoor makend het toegankelijk op ontgrendelde wijze.
+
+```json
+"target": {
+  "key": "label",
+  "value": "Download as PDF",
+  "viewState": "prepend"
+}
+```
+
+Toevoegend de Uitvoer van een knoop **als PDF** op **Voorproef** wijze die zowel op slot als ontgrendelingswijze zichtbaar zal zijn.
+
+```json
+{
+  "id": "editor_toolbar",
+  "view": {
+    "items": [
+      {
+        "icon": "filePDF",
+        "title": "Export as PDF",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "preview"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Download as PDF",
+          "viewState": "prepend"
+        }
+      },
+      {
+        "icon": "filePDF",
+        "title": "Export as PDF",
+        "on-click": "$$DOWNLOAD_TOPIC_PDF",
+        "key": "$$DOWNLOAD_TOPIC_PDF",
+        "targetEditor": {
+          "editor": [
+            "ditamap",
+            "xml"
+          ],
+          "mode": [
+            "preview"
+          ]
+        }
+      }
+    ]
+  }
+}
+```
+
+Het volgende fragment toont de **Uitvoer als PDF** knoop met slotscenario.
+
+![ Uitvoer als PDF ](images/reuse/lock.png)
+
+Ook, kan de **Uitvoer als PDF** knoop met het ontgrendelingsscenario in het hieronder fragment worden gezien.
+
+![ Uitvoer als PDF ](images/reuse/unlock.png)
+
 ## Aangepaste JSON&#39;s uploaden
 
 1. Op **de configuratie van de Redacteur van XML** lusje klikt op **geeft** in de hoogste bar uit.
@@ -290,7 +507,7 @@ Met deze optie wijzigt u de achtergrond van de knop en de tekengrootte van de ti
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
+1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
