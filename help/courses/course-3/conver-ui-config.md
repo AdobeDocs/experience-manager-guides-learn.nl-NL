@@ -507,7 +507,7 @@ Met deze optie wijzigt u de achtergrond van de knop en de tekengrootte van de ti
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **]tegel van Profielen van de 1} omslag 0}.[!UICONTROL **
+1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
