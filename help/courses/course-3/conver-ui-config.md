@@ -2,9 +2,9 @@
 title: AEM Guides Editor-configuratie
 description: JSON-configuraties aanpassen en gebruikersinterfaceconfiguraties converteren voor de nieuwe AEM Guides Editor.
 exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
-source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
+source-git-commit: 1ed48d543161be88becad9c0cd58014323aeda47
 workflow-type: tm+mt
-source-wordcount: '1197'
+source-wordcount: '1303'
 ht-degree: 0%
 
 ---
@@ -406,6 +406,94 @@ Ook, kan de **Uitvoer als PDF** knoop met het ontgrendelingsscenario in het hier
 
 ![ Uitvoer als PDF ](images/reuse/unlock.png)
 
+### De opties aanpassen die worden weergegeven in het vervolgkeuzemenu van de Editor-werkbalk
+
+U kunt in het vervolgkeuzemenu Menu aangepaste opties toevoegen, verbergen, vervangen en toevoegen met behulp van de volgende voorbeelden.
+
+#### Toevoegen
+
+Een optie toevoegen in de vervolgkeuzelijst Menu. Hier voegen wij **het menuknoop van de Douane** in de opties van het Menu toe
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "targetEditor": {
+          "editor": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Version label",
+          "viewState": "append"
+        }
+      }
+```
+
+#### Vervangen
+
+Een optie vervangen die wordt weergegeven in het vervolgkeuzemenu Menu. Hier vervangen wij **overzichtstaak** met **het menuknoop van de Douane 3**.
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button 3",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "target": {
+          "key": "label",
+          "value": "Create review task",
+          "viewState": "replace"
+        }
+
+      }
+```
+
+#### Verbergen
+
+Een optie verbergen die in het vervolgkeuzemenu Menu wordt weergegeven. Hier verbergen wij **Vondst en vervangen** optie van het Menu.
+
+```json
+{
+        "hide": true,
+        "target": {
+          "key": "label",
+          "value": "Find and replace",
+          "viewState": "replace"
+        }
+      }
+```
+
+#### Aangepaste optie toevoegen in het submenu
+
+Een optie toevoegen in het submenu in het vervolgkeuzemenu.
+
+```json
+{
+        "icon": "viewAllTags",
+        "title": "Toggle Tags View Goziamasu",
+        "key": "AUTHOR_TOGGLE_TAG_VIEW",
+        "target": {
+          "key": "label",
+          "value": "Track changes",
+          "viewState": "replace"
+        },
+        "targetEditor": {
+          "documentType": [
+            "dita"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+
+      }
+```
+
 ## Aangepaste JSON&#39;s uploaden
 
 1. Op **de configuratie van de Redacteur van XML** lusje klikt op **geeft** in de hoogste bar uit.
@@ -507,7 +595,7 @@ Met deze optie wijzigt u de achtergrond van de knop en de tekengrootte van de ti
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
-1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
+1. Klik de [!UICONTROL **tegel van Profielen van de 1} omslag 0}.**]
 
    ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
 
