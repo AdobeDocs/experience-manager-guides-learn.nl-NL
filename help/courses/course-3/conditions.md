@@ -13,7 +13,7 @@ ht-degree: 0%
 
 In DITA, worden de voorwaarden vaak gedreven door attributen zoals Product, Platform, en Publiek. Deze kunnen ook specifieke waarden hebben die aan hen worden toegewezen. Gebruikers kunnen dit alles beheren via Mapprofielen.
 
-De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ conditions.zip ](assets/conditions.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [&#x200B; conditions.zip &#x200B;](assets/conditions.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342755?quality=12&learn=on)
 
@@ -27,7 +27,7 @@ De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken
 
 1. Klik [!UICONTROL **toevoegen**].
 
-   ![ Voorwaarden in de Profielen van de Omslag ](images/lesson-13/add-name.png)
+   ![&#x200B; Voorwaarden in de Profielen van de Omslag &#x200B;](images/lesson-13/add-name.png)
 
 1. Vul de vereiste velden in.
 
@@ -65,11 +65,11 @@ In het deelvenster Voorwaarden kunt u kenmerken en waarden op een gecontroleerde
 
    a. Klik op het pictogram Gebruikersvoorkeuren.
 
-   ![ Pictogram van de Voorkeur van de Gebruiker ](images/lesson-13/user-prefs-icon.png)
+   ![&#x200B; Pictogram van de Voorkeur van de Gebruiker &#x200B;](images/lesson-13/user-prefs-icon.png)
 
    b. Voltooi de vereiste gebieden in de **dialoog van de Voorkeur van de Gebruiker**. Bijvoorbeeld:
 
-   ![ Voorkeur van de Gebruiker ](images/lesson-13/user-preferences.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/lesson-13/user-preferences.png)
 
    c. Klik [!UICONTROL **sparen**].
 
@@ -85,13 +85,13 @@ De kaarten van het onderwerpRegeling zijn een gespecialiseerde vorm van ditamap 
 
 1. Selecteer een kaart die verwijst naar het onderwerpschema ditamap. Dit voorbeeld gebruikt de kaart genoemd _Ontwerp en Lay-out_.
 
-   ![ Voorkeur van de Gebruiker ](images/lesson-13/subject-scheme-map.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/lesson-13/subject-scheme-map.png)
 
 1. Gebruikersvoorkeuren configureren.
 
    a. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**].
 
-   ![ Voorkeur van de Gebruiker ](images/lesson-13/user-prefs-icon-2.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/lesson-13/user-prefs-icon-2.png)
 
    b. Vul de gebieden in de **dialoog van de Voorkeur van de Gebruiker**.
 
@@ -105,7 +105,7 @@ De kaarten van het onderwerpRegeling zijn een gespecialiseerde vorm van ditamap 
    >
    >Belangrijk: de geselecteerde wortelkaart moet de kaart zijn die het Onderwerpschema bevat.
 
-   ![ Voorkeur van de Gebruiker ](images/lesson-13/user-preferences-2.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/lesson-13/user-preferences-2.png)
 
    f. Beperk de weergegeven elementen door de map(pen) te selecteren die u wilt gebruiken.
 

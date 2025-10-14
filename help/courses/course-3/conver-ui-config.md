@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Overzicht
 
-Wanneer het migreren van oude UI naar nieuwe AEM Guides UI, moeten de updates aan **ui_config** in flexibelere en modulaire configuraties UI worden omgezet. Dit kaderhulp keurt naadloos veranderingen in **editor_toolbar** en [ andere toolbars ](/help/courses/course-3/conver-ui-config.md#editing-json-for-different-screens) goed. Het proces ondersteunt ook het wijzigen van andere weergaven en widgets in de toepassing.
+Wanneer het migreren van oude UI naar nieuwe AEM Guides UI, moeten de updates aan **ui_config** in flexibelere en modulaire configuraties UI worden omgezet. Dit kaderhulp keurt naadloos veranderingen in **editor_toolbar** en [&#x200B; andere toolbars &#x200B;](/help/courses/course-3/conver-ui-config.md#editing-json-for-different-screens) goed. Het proces ondersteunt ook het wijzigen van andere weergaven en widgets in de toepassing.
 
 >[!NOTE]
 >
@@ -21,20 +21,20 @@ Wanneer het migreren van oude UI naar nieuwe AEM Guides UI, moeten de updates aa
 
 JSON-bestanden kunnen voor verschillende schermen en widgets worden toegevoegd aan de sectie UI Configuration van de XML Editor. Hieronder volgt een lijst met veel gebruikte widgets en hun id&#39;s:
 
-1. [ editor_toolbar ](assets/toolbars/editor_toolbar.json): Webeditor toolbar die uit dossier en inhoudshandelingen bestaat.
-1. [ editor_tab_bar ](assets/toolbars/editor_tab_bar.json): Van labels voorzien mening van open dossiers binnen webeditor, heeft acties u op geopende dossiers kunt uitvoeren.
-1. [ file_mode_switch ](assets/toolbars/file_mode_switcher.json): Het helpt schakelen tussen verschillende beschikbare wijzen (auteur, bron, voorproef) voor de geopende dossiers binnen webeditor.
+1. [&#x200B; editor_toolbar &#x200B;](assets/toolbars/editor_toolbar.json): Webeditor toolbar die uit dossier en inhoudshandelingen bestaat.
+1. [&#x200B; editor_tab_bar &#x200B;](assets/toolbars/editor_tab_bar.json): Van labels voorzien mening van open dossiers binnen webeditor, heeft acties u op geopende dossiers kunt uitvoeren.
+1. [&#x200B; file_mode_switch &#x200B;](assets/toolbars/file_mode_switcher.json): Het helpt schakelen tussen verschillende beschikbare wijzen (auteur, bron, voorproef) voor de geopende dossiers binnen webeditor.
 
-   ![ editor_toolbar ](images/reuse/editor_toolbar.png)
+   ![&#x200B; editor_toolbar &#x200B;](images/reuse/editor_toolbar.png)
 
-1. [ map_console_navigation_bar ](assets/toolbars/map_console_navigation_bar.json): Het is de informatiebar voor kaart die in kaartconsole wordt geopend. Hiermee kunt u de kaart wijzigen en hebt u toegang tot instellingen.
-1. [ map_console_action_bar ](assets/toolbars/map_console_action_bar.json): Dit is de actiebar voor de punten van de kaartconsole zoals Vooraf ingestelde Output, Basislijn, Vertaling, en Rapporten die relevante informatie samen met hun respectieve actieknopen verstrekt.
+1. [&#x200B; map_console_navigation_bar &#x200B;](assets/toolbars/map_console_navigation_bar.json): Het is de informatiebar voor kaart die in kaartconsole wordt geopend. Hiermee kunt u de kaart wijzigen en hebt u toegang tot instellingen.
+1. [&#x200B; map_console_action_bar &#x200B;](assets/toolbars/map_console_action_bar.json): Dit is de actiebar voor de punten van de kaartconsole zoals Vooraf ingestelde Output, Basislijn, Vertaling, en Rapporten die relevante informatie samen met hun respectieve actieknopen verstrekt.
 
-   ![ map_console ](images/reuse/map_console.png)
+   ![&#x200B; map_console &#x200B;](images/reuse/map_console.png)
 
-1. [ home_navigation_bar ](assets/toolbars/home_navigation_bar.json): De bar van de Kopbal van Gidsen homepage waar het welkome bericht samen met geselecteerd omslagprofiel wordt getoond.
+1. [&#x200B; home_navigation_bar &#x200B;](assets/toolbars/home_navigation_bar.json): De bar van de Kopbal van Gidsen homepage waar het welkome bericht samen met geselecteerd omslagprofiel wordt getoond.
 
-   ![ home_navigation_bar ](images/reuse/home_navigation_bar.png)
+   ![&#x200B; home_navigation_bar &#x200B;](images/reuse/home_navigation_bar.png)
 
 <br>
 
@@ -54,7 +54,7 @@ Elke JSON volgt een consistente structuur:
    - `documentSubType`
    - `flag`
 
-   Voor details, mening [ Begrijpend eigenschappen targetEditor ](#understanding-targeteditor-properties)
+   Voor details, mening [&#x200B; Begrijpend eigenschappen targetEditor &#x200B;](#understanding-targeteditor-properties)
 
    >[!NOTE]
    >
@@ -277,7 +277,7 @@ Toevoegend een nieuwe knoop **Eigen Lijst van het Tussenvoegsel** in **editor_to
 }
 ```
 
-![ de douanelijst van het Tussenvoegsel ](images/reuse/insert-custom-table.png)
+![&#x200B; de douanelijst van het Tussenvoegsel &#x200B;](images/reuse/insert-custom-table.png)
 
 ### Een knop verwijderen
 
@@ -333,7 +333,7 @@ Het vervangen van de **Multimedia** knoop van de toolbar met **Youtube** knoop v
 }
 ```
 
-![ knoop Youtube ](images/reuse/youtube-button.png)
+![&#x200B; knoop Youtube &#x200B;](images/reuse/youtube-button.png)
 
 <br>
 
@@ -400,11 +400,11 @@ Toevoegend de Uitvoer van een knoop **als PDF** op **Voorproef** wijze die zowel
 
 Het volgende fragment toont de **Uitvoer als PDF** knoop met slotscenario.
 
-![ Uitvoer als PDF ](images/reuse/lock.png)
+![&#x200B; Uitvoer als PDF &#x200B;](images/reuse/lock.png)
 
 Ook, kan de **Uitvoer als PDF** knoop met het ontgrendelingsscenario in het hieronder fragment worden gezien.
 
-![ Uitvoer als PDF ](images/reuse/unlock.png)
+![&#x200B; Uitvoer als PDF &#x200B;](images/reuse/unlock.png)
 
 ### De opties aanpassen die worden weergegeven in het vervolgkeuzemenu van de Editor-werkbalk
 
@@ -499,14 +499,14 @@ Een optie toevoegen in het submenu in het vervolgkeuzemenu.
 1. Op **de configuratie van de Redacteur van XML** lusje klikt op **geeft** in de hoogste bar uit.
 1. Nu in **UI van de Redacteur van XML configuratie** sub-sectie u a **zult kunnen zien uploadt** knoop.
 
-   ![ uploadt knoop ](images/reuse/ui-config-upload.png){width="400" height="150"}
+   ![&#x200B; uploadt knoop &#x200B;](images/reuse/ui-config-upload.png){width="400" height="150"}
 
 1. U kunt op de aangepaste json klikken en deze uploaden. (De te uploaden zoon moet dezelfde naam hebben als de id van de widget die wordt aangepast)
 1. Zodra geupload, druk **sparen** in hoogste bar.
 
    Voor elk geupload dossier kunt u **json ook schrappen** om zijn aanpassing uit UI te verwijderen of **download** om het opnieuw te bekijken of te wijzigen.
 
-   ![ knoop van de Download ](images/reuse/download-delete-json.png){width="400" height="150"}
+   ![&#x200B; knoop van de Download &#x200B;](images/reuse/download-delete-json.png){width="400" height="150"}
 
 <br>
 
@@ -540,14 +540,14 @@ Voor een oude klasse kunt u elementen inspecteren en de bestaande klassen ook wi
 1. Op **de configuratie van de Redacteur van XML** lusje klikt op **geeft** in de hoogste bar uit.
 1. Nu in **de paginalay-out van de Redacteur van XML** sub-section u a **zult kunnen zien uploadt** knoop.
 
-   ![ uploadt knoop ](images/reuse/page-layout-upload.png){width="400" height="150"}
+   ![&#x200B; uploadt knoop &#x200B;](images/reuse/page-layout-upload.png){width="400" height="150"}
 
 1. U kunt klikken en aangepaste css uploaden. (Alleen CSS-bestanden worden ondersteund)
 1. Zodra geupload, druk **sparen** in hoogste bar.
 
    Voor elk geupload dossier kunt u **css ook schrappen** om zijn aanpassing uit UI te verwijderen of **download** om het opnieuw te bekijken of te wijzigen.
 
-   ![ knoop van de Download ](images/reuse/download-delete-css.png){width="400" height="150"}
+   ![&#x200B; knoop van de Download &#x200B;](images/reuse/download-delete-css.png){width="400" height="150"}
 
 
 <br>
@@ -557,7 +557,7 @@ Voor een oude klasse kunt u elementen inspecteren en de bestaande klassen ook wi
 Hier voegen wij een nieuwe knoop **Eigen Lijst van het Tussenvoegsel** in **editor_toolbar** toe om een eenvoudige lijst toe te voegen die slechts op voorproefwijze zichtbaar is en douanecss op het toe te passen.
 Met deze optie wijzigt u de achtergrond van de knop en de tekengrootte van de titel.
 
-![ CSS voorbeeld ](images/reuse/css-customization.png)
+![&#x200B; CSS voorbeeld &#x200B;](images/reuse/css-customization.png)
 
 
 ```css
@@ -591,13 +591,13 @@ Met deze optie wijzigt u de achtergrond van de knop en de tekengrootte van de ti
 
 1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![ Pictogram van Hulpmiddelen ](images/reuse/tools.png)
+   ![&#x200B; Pictogram van Hulpmiddelen &#x200B;](images/reuse/tools.png)
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
 1. Klik de [!UICONTROL **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**]
 
-   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; Profielen van de Omslag &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. Selecteer een mapprofiel.
 
@@ -605,9 +605,9 @@ Met deze optie wijzigt u de achtergrond van de knop en de tekengrootte van de ti
 
 1. U kunt op **klikken zet UI config in JSON** knoop om. Dit zal **editor_toolbar** en **map_console_action_bar** json produceren die de veranderingen bevat die in **worden gedaan ui_config**.
 
-   ![ zet UI config in JSON ](images/reuse/convert-ui-config-json.png) om
+   ![&#x200B; zet UI config in JSON &#x200B;](images/reuse/convert-ui-config-json.png) om
 
-1. U kunt de steekproef controleren produceerde zonen voor [ de toolbar van de Redacteur ](assets/editor_toolbar.json) en [ bar van de de consolactie van de Kaart ](assets/map_console_action_bar.json)
+1. U kunt de steekproef controleren produceerde zonen voor [&#x200B; de toolbar van de Redacteur &#x200B;](assets/editor_toolbar.json) en [&#x200B; bar van de de consolactie van de Kaart &#x200B;](assets/map_console_action_bar.json)
 
 
 >[!NOTE]

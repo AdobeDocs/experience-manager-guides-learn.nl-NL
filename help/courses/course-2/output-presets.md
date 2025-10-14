@@ -19,7 +19,7 @@ Een uitvoervoorinstelling is een verzameling publicatieeigenschappen die aan een
 
 Een uitvoervoorinstelling wordt weergegeven wanneer een kaart in de XML-editor wordt geopend in het Kaartdashboard. Voorinstellingen kunnen informatie bevatten over een specifiek uitvoertype, een doelpad, instructies voor het beheren van bestaande uitvoerpagina&#39;s en andere instellingen die op een kaart kunnen worden toegepast om uitvoer te genereren.
 
-![ toegang-output-stelt vooraf in ](images/access-output-presets.png)
+![&#x200B; toegang-output-stelt vooraf in &#x200B;](images/access-output-presets.png)
 
 ## Een uitvoervoorinstelling maken
 
@@ -51,6 +51,6 @@ Uitvoervoorinstellingen zijn vooraf gedefinieerd, maar kunnen zo nodig worden aa
 
 1. Wijzig desgewenst de instellingen.
 
-   ![ geef-output-Vooraf ingesteld ](images/edit-output-preset.png) uit
+   ![&#x200B; geef-output-Vooraf ingesteld &#x200B;](images/edit-output-preset.png) uit
 
 1. Klik **Gedaan**.

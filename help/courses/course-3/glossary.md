@@ -13,7 +13,7 @@ ht-degree: 0%
 
 In het deelvenster Verklarende woordenlijst kan een kaart worden geparseerd. U kunt een het onderwerpdossier van de Verklarende woordenlijst tot stand brengen en het omvatten in een gemeenschappelijke afbeelding van de Verklarende woordenlijst. Deze kaart kan vervolgens aan andere kaarten worden toegevoegd. Met de verklarende woordenlijst is het eenvoudiger om informatie consistent te formuleren en de lezer meer duidelijkheid te verschaffen.
 
-De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ glossary.zip ](assets/glossary.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [&#x200B; glossary.zip &#x200B;](assets/glossary.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342765?quality=12&learn=on)
 
@@ -33,7 +33,7 @@ De correcte Kaart van de Wortel moet worden geselecteerd om behoorlijk met een v
 
 1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![ Pictogram van de Voorkeur van de Gebruiker ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; Pictogram van de Voorkeur van de Gebruiker &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. Klik op het sleutelpictogram om de juiste hoofdmap op te geven voor het werken met de woordenlijst.
 
@@ -49,7 +49,7 @@ Het deelvenster Verklarende woordenlijst wordt automatisch bijgewerkt.
 
 1. Selecteer de kaart die vooraf is gevormd om met de verklarende woordenlijst te werken.
 
-   ![ pictogram van de Kaart pre-config ](images/lesson-10/preconfig-map.png)
+   ![&#x200B; pictogram van de Kaart pre-config &#x200B;](images/lesson-10/preconfig-map.png)
 
 1. Kies de [!UICONTROL **Mening van de Kaart**].
 
@@ -71,7 +71,7 @@ Met het gereedschap Hotspot kunt u een hele verzameling verklarende woordenlijst
 
 1. Van het paneel van de Verklarende woordenlijst, selecteer het [!UICONTROL **Hotspot pictogram**].
 
-   ![ Hotspot Pictogram ](images/lesson-10/hotspot-icon.png)
+   ![&#x200B; Hotspot Pictogram &#x200B;](images/lesson-10/hotspot-icon.png)
 
 1. Klik [!UICONTROL **Verklarende Sleutels van de Verklarende woordenlijst**] dropdown en selecteer slechts de Sleutels u wenst om toe te passen.
 

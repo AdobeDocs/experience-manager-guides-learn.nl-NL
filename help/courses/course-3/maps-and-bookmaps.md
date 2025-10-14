@@ -38,7 +38,7 @@ Voer de volgende stappen uit om een kaartbestand te maken.
 
 1. Klik [!UICONTROL **uitgeven Onderwerpen**].
 
-   ![ geef Onderwerp UI ](images/lesson-14/edit-topics.png) uit
+   ![&#x200B; geef Onderwerp UI &#x200B;](images/lesson-14/edit-topics.png) uit
 
 of
 
@@ -59,7 +59,7 @@ of
 
 1. Klik het aangewezen [!UICONTROL **Pictogram van de Toolbar**] om hoofdstukken, onderwerpen, of topicrefs toe te voegen.
 
-   ![ de Pictogrammen van de Toolbar ](images/lesson-14/toolbar-icons.png)
+   ![&#x200B; de Pictogrammen van de Toolbar &#x200B;](images/lesson-14/toolbar-icons.png)
 
 1. Kies een of meer Assets die u wilt toevoegen.
 
@@ -73,7 +73,7 @@ De Rijen van de Werkbalk van het gebruik **om hoofdstukken en topicrefs in een k
 
 1. Klik de [!UICONTROL **Linkerpijl**] om een topicref aan een hoofdstuk te bevorderen, of de [!UICONTROL **Juiste Pijl**] om een hoofdstuk aan een topicref te degraderen.
 
-   ![ Pictogrammen van de Pijl ](images/lesson-14/toolbar-arrows.png)
+   ![&#x200B; Pictogrammen van de Pijl &#x200B;](images/lesson-14/toolbar-arrows.png)
 
 1. Sla de kaart op en verander deze indien nodig.
 
@@ -85,13 +85,13 @@ of
 
 1. Van de **Toolbar van de Kaart**, neem een topicgroep op.
 
-   ![ voeg Attribuut ](images/lesson-14/add-topicgroup.png) toe
+   ![&#x200B; voeg Attribuut &#x200B;](images/lesson-14/add-topicgroup.png) toe
 
 1. Klik het [!UICONTROL **plus Pictogram**] om elementen op te nemen.
 
 1. Kies de elementen die u wilt invoegen.
 
-   ![ Metagegevens van het Tussenvoegsel ](images/lesson-14/insert-metadata.png)
+   ![&#x200B; Metagegevens van het Tussenvoegsel &#x200B;](images/lesson-14/insert-metadata.png)
 
 1. Klik [!UICONTROL **dicht**].
 
@@ -103,7 +103,7 @@ Een reltable kan worden toegevoegd nadat een kaart is gestructureerd.
 
 1. Gebruik het **Pictogram van de Toolbar** om reltable aan de kaart toe te voegen.
 
-   ![ Reltable Pictogram ](images/lesson-14/reltable-icon.png)
+   ![&#x200B; Reltable Pictogram &#x200B;](images/lesson-14/reltable-icon.png)
 
 1. Configureer het dialoogvenster.
 
@@ -119,4 +119,4 @@ Een reltable kan worden toegevoegd nadat een kaart is gestructureerd.
 
 1. Onder Andere Attributen in het paneel van Eigenschappen van de Inhoud, kies een **Attribuut** en zijn **Waarde.**
 
-   ![ voeg Attributen ](images/lesson-14/add-attribute.png) toe
+   ![&#x200B; voeg Attributen &#x200B;](images/lesson-14/add-attribute.png) toe

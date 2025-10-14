@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Het volgende zal u door het uploaden van en het opnemen van een beeld, evenals hoe te om een nieuwe versie van een onderwerp te bewaren.
 
-U kunt het dossier van het voorbeeldbeeld van [ hier downloaden.](assets/working-with-images/SignInScreen.png)
+U kunt het dossier van het voorbeeldbeeld van [&#x200B; hier downloaden.](assets/working-with-images/SignInScreen.png)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336661?quality=12&learn=on)
 
@@ -21,11 +21,11 @@ U kunt het dossier van het voorbeeldbeeld van [ hier downloaden.](assets/working
 
 1. Houd de muisaanwijzer boven de submap en selecteer het pictogram van de ovaal om het menu Opties te openen.
 
-   ![ het pictogram van de Ellipsis ](images/lesson-4/ellipses.png)
+   ![&#x200B; het pictogram van de Ellipsis &#x200B;](images/lesson-4/ellipses.png)
 
 1. Selecteer **[!UICONTROL Upload Assets]** .
 
-   ![ upload Assets ](images/lesson-4/upload-assets.png)
+   ![&#x200B; upload Assets &#x200B;](images/lesson-4/upload-assets.png)
 
 1. Selecteer het beeld u van uw lokaal systeem zou willen uploaden, en **Open** selecteren.
 
@@ -51,14 +51,14 @@ Voor het volgende, zorg ervoor dat uw onderwerp in de documentredacteur open is.
 
 1. Selecteer het **pictogram van het Beeld van het Tussenvoegsel**.
 
-   ![ pictogram van het Beeld van het Tussenvoegsel ](images/lesson-4/insert-image.png)
+   ![&#x200B; pictogram van het Beeld van het Tussenvoegsel &#x200B;](images/lesson-4/insert-image.png)
 
    Het dialoogvenster Afbeelding invoegen wordt geopend.
 
 1. Selecteer het mappictogram naast het veld Bestand selecteren om naar de afbeelding te zoeken of naar de locatie in de opslagplaats te navigeren.
 1. Selecteer het pictogram van het beeld, en dan **Uitgezocht**.
 
-   ![ Uitgezochte beeld ](images/lesson-4/select-image-with-markings.png)
+   ![&#x200B; Uitgezochte beeld &#x200B;](images/lesson-4/select-image-with-markings.png)
 
    Het dialoogvenster Afbeelding invoegen wordt weergegeven met de informatie van de gekozen afbeelding.
 
@@ -79,7 +79,7 @@ Aangezien u een significante verandering in uw onderwerp hebt aangebracht, kunt 
 
 1. Selecteer **sparen als Nieuw pictogram van de Versie**.
 
-   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
+   ![&#x200B; sparen als het Nieuwe pictogram van de Versie &#x200B;](images/common/save-as-new-version.png)
 
    **sparen als Nieuwe de dialoogdoos van de Versie** toont.
 

@@ -29,7 +29,7 @@ Gebruikend de Inzamelingen van de Kaart, kunt u de types van output controleren 
 
 1. Typ een titel voor een verzameling.
 
-   ![ kaart-Inzameling ](images/map-collection.png)
+   ![&#x200B; kaart-Inzameling &#x200B;](images/map-collection.png)
 
 1. Klik **creëren**.
 1. Sluit het succesbericht.

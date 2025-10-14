@@ -13,11 +13,11 @@ ht-degree: 0%
 
 In deze set zelfstudies leert u het volgende te doen:
 
-- [ Begrijp het gebruikersinterface ](understanding-the-aem-user-interface.md)
-- [ creeer en structuurinhoud met de mening van de bewaarplaats en de Redacteur van XML ](creating-and-structuring-content.md)
-- [ Werk met beelden ](working-with-images.md)
-- [ voeg Web-verbindingen aan uw inhoud ](linking-to-websites.md) toe
-- [ Werk met bulleted en genummerde lijsten ](working-with-lists.md)
-- [ Versie uw inhoud ](versioning-content.md)
-- [ creeer en organiseer een kaart ](creating-a-map.md)
-- [ Publish a kaart als AEM Plaats en PDF ](publishing-default-output.md)
+- [&#x200B; Begrijp het gebruikersinterface &#x200B;](understanding-the-aem-user-interface.md)
+- [&#x200B; creeer en structuurinhoud met de mening van de bewaarplaats en de Redacteur van XML &#x200B;](creating-and-structuring-content.md)
+- [&#x200B; Werk met beelden &#x200B;](working-with-images.md)
+- [&#x200B; voeg Web-verbindingen aan uw inhoud &#x200B;](linking-to-websites.md) toe
+- [&#x200B; Werk met bulleted en genummerde lijsten &#x200B;](working-with-lists.md)
+- [&#x200B; Versie uw inhoud &#x200B;](versioning-content.md)
+- [&#x200B; creeer en organiseer een kaart &#x200B;](creating-a-map.md)
+- [&#x200B; Publish a kaart als AEM Plaats en PDF &#x200B;](publishing-default-output.md)

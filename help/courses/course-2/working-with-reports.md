@@ -25,11 +25,11 @@ U kunt hier voorbeeldbestanden downloaden voor de oefening.
 
 1. Selecteer in de weergave Opslagplaats het pictogram Ovaal in de hoofdmap om het menu Opties te openen.
 
-   ![ ellipses-9.png ](images/ellipses-9.png)
+   ![&#x200B; ellipses-9.png &#x200B;](images/ellipses-9.png)
 
 1. Selecteer **[!UICONTROL Upload Assets]** .
 
-   ![ upload-assets.png ](images/upload-assets.png)
+   ![&#x200B; upload-assets.png &#x200B;](images/upload-assets.png)
 
 1. Selecteer de dossiers u aan de omslag wilt uploaden, en **selecteren uploadt**.
 
@@ -39,11 +39,11 @@ De DITA-bestanden worden geopend en u moet ze controleren op problemen met ontbr
 
 1. Selecteer het pictogram Ovaal in de hoofdmap om het menu Opties te openen.
 
-   ![ ellipses-9.png ](images/ellipses-9.png)
+   ![&#x200B; ellipses-9.png &#x200B;](images/ellipses-9.png)
 
 1. Selecteer **creeer > Kaart**.
 
-   ![ create-map.png ](images/create-map.png)
+   ![&#x200B; create-map.png &#x200B;](images/create-map.png)
 
    Het dialoogvenster Nieuwe kaart maken wordt weergegeven.
 
@@ -58,11 +58,11 @@ Uw kaart wordt gemaakt en de linkerrails veranderen automatisch van de weergave 
 1. Selecteer het potloodpictogram in de linkerspoorstaaf.
 Dit is het bewerkingspictogram, waarmee u de kaart in de editor kunt openen.
 
-   ![ uitgeven-map.png ](images/edit-map.png)
+   ![&#x200B; uitgeven-map.png &#x200B;](images/edit-map.png)
 
 1. Schakel terug naar de weergave Opslagplaats door het pictogram Opslagplaats te selecteren.
 
-   ![ bewaarplaats-button.png ](images/repository-button.png)
+   ![&#x200B; bewaarplaats-button.png &#x200B;](images/repository-button.png)
 
 1. Voeg een onderwerp aan de kaart toe door het van Repository in de kaart in de redacteur te slepen en te laten vallen.
 De lijnindicator zal u tonen waar uw onderwerp zal worden geplaatst.
@@ -71,7 +71,7 @@ De lijnindicator zal u tonen waar uw onderwerp zal worden geplaatst.
 
 1. Wanneer gebeëindigd, uitgezocht **sparen als Nieuwe Versie.**
 
-   ![ save-as-new-version.png ](images/save-as-new-version.png)
+   ![&#x200B; save-as-new-version.png &#x200B;](images/save-as-new-version.png)
 
 1. Op *Commentaren voor het nieuwe gebied van de Versie*, ga een beschrijvende commentaar in.
 
@@ -81,12 +81,12 @@ De lijnindicator zal u tonen waar uw onderwerp zal worden geplaatst.
 
 1. In Bewaarplaats, selecteer het pictogram van de Ellipsis op uw kaart om het menu van Opties te openen, en dan **Open het Dashboard van de Kaart.**
 
-   ![ open-map-dashboard.png ](images/open-map-dashboard.png)
+   ![&#x200B; open-map-dashboard.png &#x200B;](images/open-map-dashboard.png)
 
    Het kaartdashboard wordt op een ander tabblad geopend.
 1. In de Output stelt lusje vooraf in, uitgezochte **AEM Plaats**.
 
-   ![ a-plaats-checkbox ](images/aem-site-checkbox.png)
+   ![&#x200B; a-plaats-checkbox &#x200B;](images/aem-site-checkbox.png)
 
 1. Selecteer **produceren**.
 
@@ -102,7 +102,7 @@ Het lusje van Rapporten toont een onderwerpsamenvatting, en een lijst die onderw
 
 In het ideale geval controleert u altijd de Rapporten op een kaart nadat u inhoud hebt geïmporteerd.
 
-![ reports.png ](images/reports.png)
+![&#x200B; reports.png &#x200B;](images/reports.png)
 
 De kolom Ontbrekende elementen geeft het aantal ontbrekende afbeeldingen en verbroken conrefs aan. U kunt het **pictogram van het Potlood** selecteren om het onderwerp in de redacteur te openen.
 
@@ -112,7 +112,7 @@ Als er afbeeldingen ontbreken in uw bestanden, kan de algemene reden hiervoor zi
 
 1. In *Mening van de Bewaarplaats*, selecteer het pictogram van de Ovaal op uw beeldenomslag om het menu van Opties te openen.
 
-   ![ beeld-ellipsis.png ](images/image-ellipsis.png)
+   ![&#x200B; beeld-ellipsis.png &#x200B;](images/image-ellipsis.png)
 
 1. Selecteer **[!UICONTROL Upload Assets]** en selecteer de ontbrekende afbeeldingen.
 
@@ -130,11 +130,11 @@ Naast de optie [!UICONTROL Upload Assets] kunt u ook elementen uploaden door dez
 
 1. Selecteer in de weergave Opslagplaats het Ellipsis-pictogram in de map voor hergebruik om het menu Opties te openen.
 
-   ![ hergebruik-ellipsis.png ](images/reuse-ellipsis.png)
+   ![&#x200B; hergebruik-ellipsis.png &#x200B;](images/reuse-ellipsis.png)
 
 1. Selecteer **Mening in Assets UI**.
 
-   ![ assets_ui.png ](images/assets_ui.png)
+   ![&#x200B; assets_ui.png &#x200B;](images/assets_ui.png)
 
 1. Sleep het bestand naar de map.
 Het bestand wordt geüpload en de fout conref is opgelost.

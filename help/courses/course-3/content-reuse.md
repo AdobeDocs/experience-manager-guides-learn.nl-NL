@@ -27,7 +27,7 @@ Wanneer een verandering in een herbruikbaar brononderwerp wordt aangebracht, zal
 
 1. Vul de velden in het dialoogvenster Nieuw onderwerp maken. Bijvoorbeeld:
 
-   ![ Bevestiging ](images/lesson-8/new-topic-dialog.png)
+   ![&#x200B; Bevestiging &#x200B;](images/lesson-8/new-topic-dialog.png)
 
 1. Klik [!UICONTROL **creëren**].
 
@@ -43,7 +43,7 @@ Er zijn verschillende methoden om herbruikbare elementen toe te voegen. Hier is 
 
 1. Selecteer het **Opnieuw te gebruiken pictogram van de Inhoud van het Tussenvoegsel** op de hoogste toolbar.
 
-   ![ Bevestiging ](images/lesson-8/insert-reuse-icon.png)
+   ![&#x200B; Bevestiging &#x200B;](images/lesson-8/insert-reuse-icon.png)
 
 1. In het dialoogvenster Inhoud opnieuw gebruiken klikt u op het pictogram **Map** .
 
@@ -52,7 +52,7 @@ Er zijn verschillende methoden om herbruikbare elementen toe te voegen. Hier is 
 1. Kies een onderwerp met herbruikbare componenten.
 Bijvoorbeeld:
 
-   ![ Bevestiging ](images/lesson-8/reusable-topic.png)
+   ![&#x200B; Bevestiging &#x200B;](images/lesson-8/reusable-topic.png)
 
 1. Klik [!UICONTROL **Uitgezocht**].
 
@@ -68,7 +68,7 @@ Het herbruikbare element is nu opgenomen in het onderwerp.
 
 1. Klik [!UICONTROL **toevoegen**] pictogram op het Herbruikbare paneel van Inhoud.
 
-   ![ Bevestiging ](images/lesson-8/reuse-contents-icon.png)
+   ![&#x200B; Bevestiging &#x200B;](images/lesson-8/reuse-contents-icon.png)
 
 1. Blader naar een map.
 

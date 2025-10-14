@@ -23,7 +23,7 @@ Een lijst met opsommingstekens of zonder volgorde moet worden gebruikt wanneer o
 
 1. Selecteer het **Bulleted van het Tussenvoegsel Lijst** pictogram van de toolbar.
 
-   ![ het Bulleted van het Tussenvoegsel pictogram van de Lijst ](images/lesson-6/insert-bulleted-list.png)
+   ![&#x200B; het Bulleted van het Tussenvoegsel pictogram van de Lijst &#x200B;](images/lesson-6/insert-bulleted-list.png)
 
    Er wordt een opsommingsteken weergegeven. Dit is het begin van je lijst.
 
@@ -39,7 +39,7 @@ Een genummerde lijst moet worden gebruikt wanneer lijstonderdelen op een bepaald
 
 1. Selecteer het **pictogram van de Lijst van het Tussenvoegsel Genummerde** van de toolbar.
 
-   ![ Tussenvoegsel Genummerde het pictogram van de Lijst ](images/lesson-6/insert-numbered-list.png)
+   ![&#x200B; Tussenvoegsel Genummerde het pictogram van de Lijst &#x200B;](images/lesson-6/insert-numbered-list.png)
 
    Er wordt een getal weergegeven. Dit is het begin van je lijst.
 
@@ -53,7 +53,7 @@ Nu u meer inhoud aan uw concept hebt toegevoegd, kunt u uw werk opslaan als een 
 
 1. Selecteer **sparen als Nieuw pictogram van de Versie**.
 
-   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
+   ![&#x200B; sparen als het Nieuwe pictogram van de Versie &#x200B;](images/common/save-as-new-version.png)
 
 1. Voer in het veld Opmerkingen voor nieuwe versie een korte, maar duidelijke samenvatting van de wijzigingen in.
 1. Voer relevante labels in in het veld Versielabels.

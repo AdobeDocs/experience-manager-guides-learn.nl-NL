@@ -21,13 +21,13 @@ Er zijn een aantal uitvoervoorinstellingen beschikbaar waaruit u kunt kiezen. De
 
 1. In de bewaarplaats, selecteer het ellipspictogram op uw kaart om het menu van Opties te openen, en dan **Open in het Dashboard van de Kaart.**
 
-   ![ Open in het Dashboard van de Kaart ](images/lesson-9/map-dashboard-with-markings.png)
+   ![&#x200B; Open in het Dashboard van de Kaart &#x200B;](images/lesson-9/map-dashboard-with-markings.png)
 
    Het kaartdashboard wordt op een ander tabblad geopend.
 
 1. Selecteer AEM Site en PDF op het tabblad Voorinstellingen uitvoer.
 
-   ![ Voorinstellingen van de Output ](images/lesson-9/pdf-aem.png)
+   ![&#x200B; Voorinstellingen van de Output &#x200B;](images/lesson-9/pdf-aem.png)
 
 1. Selecteer **produceren.**
 
@@ -35,7 +35,7 @@ Er zijn een aantal uitvoervoorinstellingen beschikbaar waaruit u kunt kiezen. De
 
    Een groene cirkel geeft aan dat het genereren is voltooid.
 
-   ![ volledige de generatie van de Output ](images/lesson-9/green-circle.png)
+   ![&#x200B; volledige de generatie van de Output &#x200B;](images/lesson-9/green-circle.png)
 
 ## Uitvoer van AEM site
 

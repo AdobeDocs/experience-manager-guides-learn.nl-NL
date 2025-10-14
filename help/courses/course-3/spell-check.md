@@ -33,7 +33,7 @@ U kunt een andere spellingcontrole dan het standaardwoordenboek van de browser g
 
 1. Selecteer het **Algemene** montageslusje.
 
-   ![ de Controle Config van de Spelling ](images/lesson-11/configure-dictionary.png)
+   ![&#x200B; de Controle Config van de Spelling &#x200B;](images/lesson-11/configure-dictionary.png)
 
 1. Er zijn twee opties:
 
@@ -53,11 +53,11 @@ De beheerder kan de instellingen wijzigen zodat het AEM woordenboek aangepaste w
 
 1. Login aan **CRXDE Lite**.
 
-   ![ AEM UI CRXDE Lite pictogram ](images/lesson-11/crxde-lite.png)
+   ![&#x200B; AEM UI CRXDE Lite pictogram &#x200B;](images/lesson-11/crxde-lite.png)
 
 1. Navigeer naar het knooppunt **_/apps/fmdita/config_** .
 
-   ![ CRXDE Lite Knoop Config ](images/lesson-11/config-node.png)
+   ![&#x200B; CRXDE Lite Knoop Config &#x200B;](images/lesson-11/config-node.png)
 
 1. Maak een nieuw bestand.
 
@@ -65,11 +65,11 @@ De beheerder kan de instellingen wijzigen zodat het AEM woordenboek aangepaste w
 
    b. Kies **creëren > Dossier** creëren.
 
-   ![ Nieuwe Creatie van het Dossier van het Woordenboek ](images/lesson-11/new-dictionary-file.png)
+   ![&#x200B; Nieuwe Creatie van het Dossier van het Woordenboek &#x200B;](images/lesson-11/new-dictionary-file.png)
 
    c. noem het dossier _&#x200B;**user_dictionary.txt**&#x200B;_.
 
-   ![ tekst van het Woordenboek van de Gebruiker ](images/lesson-11/user-dictionary.png)
+   ![&#x200B; tekst van het Woordenboek van de Gebruiker &#x200B;](images/lesson-11/user-dictionary.png)
 
    d. Klik [!UICONTROL **OK**].
 
@@ -87,7 +87,7 @@ Auteurs moeten mogelijk hun Web Editor-sessie opnieuw starten om de bijgewerkte 
 
 1. Klik op het pictogram Zoeken en vervangen op de bovenste werkbalk.
 
-   ![ vind vervang Pictogram ](images/lesson-11/find-replace-icon.png)
+   ![&#x200B; vind vervang Pictogram &#x200B;](images/lesson-11/find-replace-icon.png)
 
 1. Typ een woord of woordgroep in de onderste werkbalk.
 
@@ -111,7 +111,7 @@ Auteurs moeten mogelijk hun Web Editor-sessie opnieuw starten om de bijgewerkte 
 
    - **Hele woord slechts** - beperkt het onderzoek om slechts het nauwkeurige ingegane woord of de ingevoerde uitdrukking terug te keren.
 
-   ![ vind Vervangen in Bewaarplaats ](images/lesson-11/repository-find-replace.png)
+   ![&#x200B; vind Vervangen in Bewaarplaats &#x200B;](images/lesson-11/repository-find-replace.png)
 
 1. Klik [!UICONTROL **toepassen filter**] pictogram om de weg in Repository te selecteren waar u het onderzoek wilt uitvoeren.
 
@@ -123,4 +123,4 @@ Auteurs moeten mogelijk hun Web Editor-sessie opnieuw starten om de bijgewerkte 
 
 1. Open het gewenste bestand en gebruik de pijlen om van het ene gevonden resultaat naar het volgende te navigeren.
 
-   ![ vind Vervangen Navigatie UI ](images/lesson-11/find-replace-navigation.png)
+   ![&#x200B; vind Vervangen Navigatie UI &#x200B;](images/lesson-11/find-replace-navigation.png)

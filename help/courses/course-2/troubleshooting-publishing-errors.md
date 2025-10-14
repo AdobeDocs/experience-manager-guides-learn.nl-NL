@@ -19,7 +19,7 @@ Het publiceren van een kaart is doorgaans eenvoudig. Open de kaart, selecteer ee
 
 U kunt hier voorbeeldbestanden downloaden voor de oefening.
 
-[ oefening-Download ](assets/exercises/publishing-basic-to-advanced.zip)
+[&#x200B; oefening-Download &#x200B;](assets/exercises/publishing-basic-to-advanced.zip)
 
 ## Algemene oorzaken van publicatiefouten
 
@@ -43,7 +43,7 @@ Er kunnen fouten in de broninhoud worden ingevoegd. Bijvoorbeeld:
 
 Een fout kan klein zijn en in een eenvoudige nota resulteren om u te laten weten dat een dossier niet met succes werd verpakt, of ernstig genoeg dat het tot een volledig mislukken leidt om output te produceren. Op het tabblad Uitvoer worden pictogrammen met kleurcodering weergegeven om aan te tonen dat de uitvoer is gelukt, dat er fouten zijn opgetreden of dat de uitvoer is gegenereerd.
 
-![ fout-effect ](images/error-impact.png)
+![&#x200B; fout-effect &#x200B;](images/error-impact.png)
 
 ## Logbestanden van fouten openen en bekijken
 
@@ -51,7 +51,7 @@ Het logbestand dat wordt gegenereerd, kan worden geopend voor revisie.
 
 1. In het **lusje van Output**, klik de **datum/tijd onder Gegenereerd bij.**
 
-   ![ fout-logboek ](images/error-log.png)
+   ![&#x200B; fout-logboek &#x200B;](images/error-log.png)
 
 1. Blader door het foutenlogboek.
 
@@ -59,7 +59,7 @@ Het logbestand dat wordt gegenereerd, kan worden geopend voor revisie.
 
 In het foutenlogboek wordt elk fouttype in een unieke kleur weergegeven.
 
-![ navigate-fouten ](images/navigate-errors.png)
+![&#x200B; navigate-fouten &#x200B;](images/navigate-errors.png)
 
 1. **Uitgezochte** of **schrap** om het even welk foutentype om het benadrukken te tonen of te verbergen.
 

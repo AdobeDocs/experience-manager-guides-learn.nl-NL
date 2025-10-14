@@ -15,30 +15,30 @@ ht-degree: 0%
 
 In deze cursus hebt u geleerd over:
 
-- [ Voorkeur en Montages van de Gebruiker ](./user-settings-preferences-toolbars.md)
+- [&#x200B; Voorkeur en Montages van de Gebruiker &#x200B;](./user-settings-preferences-toolbars.md)
 
-- [ Profielen van de Omslag ](folder-profiles.md)
+- [&#x200B; Profielen van de Omslag &#x200B;](folder-profiles.md)
 
-- [ Configuratie van de Redacteur ](editor-configuration.md)
+- [&#x200B; Configuratie van de Redacteur &#x200B;](editor-configuration.md)
 
-- [ Panelen ](panels.md)
+- [&#x200B; Panelen &#x200B;](panels.md)
 
-- [ Mening van het Overzicht ](outline-view.md)
+- [&#x200B; Mening van het Overzicht &#x200B;](outline-view.md)
 
-- [ Kruisverwijzingen en Verbindingen ](cross-references-and-links.md)
+- [&#x200B; Kruisverwijzingen en Verbindingen &#x200B;](cross-references-and-links.md)
 
-- [ Inhoud hergebruiken ](content-reuse.md)
+- [&#x200B; Inhoud hergebruiken &#x200B;](content-reuse.md)
 
-- [ Sleutels ](keys.md)
+- [&#x200B; Sleutels &#x200B;](keys.md)
 
-- [ Verklarende woordenlijst ](glossary.md)
+- [&#x200B; Verklarende woordenlijst &#x200B;](glossary.md)
 
-- [ spelling-controlerend en Vondst en vervangt ](spell-check.md)
+- [&#x200B; spelling-controlerend en Vondst en vervangt &#x200B;](spell-check.md)
 
-- [ Veranderingen van het Spoor ](track-changes.md)
+- [&#x200B; Veranderingen van het Spoor &#x200B;](track-changes.md)
 
-- [ Voorwaarden ](conditions.md)
+- [&#x200B; Voorwaarden &#x200B;](conditions.md)
 
-- [ Kaarten en Bladwijzers ](maps-and-bookmaps.md)
+- [&#x200B; Kaarten en Bladwijzers &#x200B;](maps-and-bookmaps.md)
 
-- [ de Eenvoudige Werkschema&#39;s van de Inhoudsverwezenlijking van de Inhoud ](simple-content-creation-workflows.md)
+- [&#x200B; de Eenvoudige Werkschema&#39;s van de Inhoudsverwezenlijking van de Inhoud &#x200B;](simple-content-creation-workflows.md)

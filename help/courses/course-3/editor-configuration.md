@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Als u in een restrictieve omgeving werkt, kunt u kiezen welke eigenschappen uw auteurs kunnen zien door de Configuratie van de Redacteur binnen een specifiek Profiel van de Omslag aan te passen. Door dit mapprofiel toe te passen, kunt u de vormgeving van de Editor zelf, de CSS-sjablonen, de beschikbare fragmenten en de labels voor inhoudsversies wijzigen.
 
-De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ xmleditorconfiguration.zip ](assets/xmleditorconfiguration.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [&#x200B; xmleditorconfiguration.zip &#x200B;](assets/xmleditorconfiguration.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342762?quality=12&learn=on)
 
@@ -23,13 +23,13 @@ U kunt de standaardconfiguratie UI altijd downloaden naar uw lokale systeem, ver
 
 1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
+   ![&#x200B; Pictogram van Hulpmiddelen &#x200B;](images/reuse/tools-icon.png)
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
 1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
-   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; Profielen van de Omslag &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. Selecteer een mapprofiel.
 
@@ -37,7 +37,7 @@ U kunt de standaardconfiguratie UI altijd downloaden naar uw lokale systeem, ver
 
 1. Klik **Gebrek van de 1&rbrace; Download**.
 
-   ![ Standaard van de Download &lbrace;](images/lesson-4/download-default.png)
+   ![&#x200B; Standaard van de Download &lbrace;](images/lesson-4/download-default.png)
 
 U kunt de inhoud nu openen en wijzigen in een teksteditor. De _Gids van de Installatie en van de Configuratie van 0&rbrace; AEM Guides bevat steekproeven van hoe te om, functies aan de configuratie te verwijderen aan te passen of toe te voegen UI._
 
@@ -49,11 +49,11 @@ Nadat u de UI-configuratie hebt aangepast, kunt u deze uploaden. Merk op dat een
 
 1. Onder de configuratie van de Redacteur van XML, klik [!UICONTROL **uploadt**].
 
-   ![ uploadt ](images/lesson-4/upload.png)
+   ![&#x200B; uploadt &#x200B;](images/lesson-4/upload.png)
 
 1. Dubbelklik op het bestand voor de gewijzigde UI-configuratie of, zoals u hier ziet, op het beschikbare voorbeeldbestand.
 
-   ![ Steekproef Config Dossier ](images/lesson-4/sample-config-file.png)
+   ![&#x200B; Steekproef Config Dossier &#x200B;](images/lesson-4/sample-config-file.png)
 
 1. Klik [!UICONTROL **sparen**] in de hoogste linkerhoek van het scherm.
 
@@ -65,13 +65,13 @@ Net als bij de UI-configuratie kunt u de CSS-sjabloonlay-out downloaden. U kunt 
 
 1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
+   ![&#x200B; Pictogram van Hulpmiddelen &#x200B;](images/reuse/tools-icon.png)
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
 1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
-   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; Profielen van de Omslag &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. Selecteer een mapprofiel.
 
@@ -79,7 +79,7 @@ Net als bij de UI-configuratie kunt u de CSS-sjabloonlay-out downloaden. U kunt 
 
 1. Onder CSS de lay-out van het Malplaatje, klik [!UICONTROL **Download**].
 
-   ![ download CSS ](images/lesson-4/download-css.png)
+   ![&#x200B; download CSS &#x200B;](images/lesson-4/download-css.png)
 
 U kunt de CSS-inhoud nu wijzigen en opslaan in een teksteditor.
 
@@ -91,11 +91,11 @@ Nadat u de CSS-sjabloonlay-out hebt aangepast, kunt u deze uploaden. Merk op dat
 
 1. Onder CSS malplaatjelay-out, klik [!UICONTROL **uploadt**].
 
-   ![ upload CSS ](images/lesson-4/upload-css.png)
+   ![&#x200B; upload CSS &#x200B;](images/lesson-4/upload-css.png)
 
 1. Dubbelklik op het bestand voor uw eigen aangepaste CSS-indeling of het voorbeeldbestand dat u hier ziet.
 
-   ![ Voorbeeld CSS Dossier ](images/lesson-4/sample-css-file.png)
+   ![&#x200B; Voorbeeld CSS Dossier &#x200B;](images/lesson-4/sample-css-file.png)
 
 1. Klik [!UICONTROL **sparen**] in de hoogste linkerhoek van het scherm.
 De aangepaste CSS-sjabloonindeling is geüpload.
@@ -106,13 +106,13 @@ Fragmenten zijn herbruikbare stukken inhoud die specifiek kunnen zijn voor een p
 
 1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
+   ![&#x200B; Pictogram van Hulpmiddelen &#x200B;](images/reuse/tools-icon.png)
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
 1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
-   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; Profielen van de Omslag &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. Selecteer een mapprofiel.
 
@@ -120,11 +120,11 @@ Fragmenten zijn herbruikbare stukken inhoud die specifiek kunnen zijn voor een p
 
 1. Onder de Fragmenten van de Redacteur van XML, klik **uploadt**.
 
-   ![ uploadt Fragmenten ](images/lesson-4/upload-snippets.png)
+   ![&#x200B; uploadt Fragmenten &#x200B;](images/lesson-4/upload-snippets.png)
 
 1. Kies uw eigen fragmenten of gebruik de meegeleverde voorbeelden.
 
-   ![ het Fragment van de Steekproef ](images/lesson-4/sample-snippet.png)
+   ![&#x200B; het Fragment van de Steekproef &#x200B;](images/lesson-4/sample-snippet.png)
 
 1. Klik [!UICONTROL **sparen**] in de hoogste linkerhoek van het scherm.
 
@@ -136,13 +136,13 @@ Auteurs kunnen standaard zelf labels maken en deze koppelen aan onderwerpbestand
 
 1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
+   ![&#x200B; Pictogram van Hulpmiddelen &#x200B;](images/reuse/tools-icon.png)
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
 1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
-   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; Profielen van de Omslag &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. Selecteer een mapprofiel.
 
@@ -150,7 +150,7 @@ Auteurs kunnen standaard zelf labels maken en deze koppelen aan onderwerpbestand
 
 1. Onder de Etiketten van de Versie van de Inhoud van XML, klik [!UICONTROL **Download**].
 
-   ![ de Etiketten van de Download ](images/lesson-4/download-labels.png)
+   ![&#x200B; de Etiketten van de Download &#x200B;](images/lesson-4/download-labels.png)
 
 U kunt de labels nu naar wens aanpassen.
 
@@ -162,11 +162,11 @@ Nadat u de labels hebt gedownload en gewijzigd, kunt u het onderwerp Versielabel
 
 1. Onder de Etiketten van de Versie van de Inhoud van XML, klik [!UICONTROL **uploadt**].
 
-   ![ upload Etiketten ](images/lesson-4/upload-labels.png)
+   ![&#x200B; upload Etiketten &#x200B;](images/lesson-4/upload-labels.png)
 
 1. Dubbelklik op het bestand voor uw eigen aangepaste labels of het voorbeeldbestand dat u hier ziet.
 
-   ![ Dossier van de Etiketten van de Steekproef ](images/lesson-4/sample-labels-file.png)
+   ![&#x200B; Dossier van de Etiketten van de Steekproef &#x200B;](images/lesson-4/sample-labels-file.png)
 
 1. Klik [!UICONTROL **sparen**] in de hoogste linkerhoek van het scherm.
 

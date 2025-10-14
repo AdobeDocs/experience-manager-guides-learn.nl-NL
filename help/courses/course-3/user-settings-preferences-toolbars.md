@@ -21,7 +21,7 @@ Tags zijn visuele aanwijzingen die de grenzen van een element aangeven. Een elem
 
 1. Klik het [!UICONTROL **pictogram van de Mening van de Markeringen van de Knevel**] op de secundaire toolbar.
 
-   ![ Markeringen van de knevel ](images/lesson-2/tags-on-icon.png)
+   ![&#x200B; Markeringen van de knevel &#x200B;](images/lesson-2/tags-on-icon.png)
 
    De markeringen verschijnen binnen het onderwerp. Met de Mening van Markeringen op u kunt:
 
@@ -43,13 +43,13 @@ Door een bestand te vergrendelen (of uit te checken) heeft de gebruiker exclusie
 
 1. Klik het [!UICONTROL **&#x200B;**] pictogram van het Slot op de secundaire toolbar.
 
-   ![ Controle ](images/lesson-2/checkout-icon.png)
+   ![&#x200B; Controle &#x200B;](images/lesson-2/checkout-icon.png)
 
    Het bestand is uitgecheckt en er verschijnt een vergrendelingspictogram naast de bestandsnaam in de opslagplaats.
 
 1. Klik het [!UICONTROL **ontgrendelen**] pictogram.
 
-   ![ Controle ](images/lesson-2/check-in-icon.png)
+   ![&#x200B; Controle &#x200B;](images/lesson-2/check-in-icon.png)
 
 De Repository wordt bijgewerkt om aan te tonen dat het bestand is ingecheckt.
 
@@ -57,7 +57,7 @@ De Repository wordt bijgewerkt om aan te tonen dat het bestand is ingecheckt.
 
 1. Klik het [!UICONTROL **pictogram van het Teken van het Tussenvoegsel Speciale**] op de secundaire toolbar.
 
-   ![ Speciaal ](images/lesson-2/special-icon.png)
+   ![&#x200B; Speciaal &#x200B;](images/lesson-2/special-icon.png)
 
 1. Typ in het dialoogvenster Speciaal teken invoegen de naam van het teken in de zoekbalk.
 
@@ -73,7 +73,7 @@ Het speciale teken wordt in de tekst ingevoegd.
 
 Met de werkbalk rechtsboven in het scherm kunt u schakelen tussen de weergaven.
 
-![ Wijzen ](images/lesson-2/modes.png)
+![&#x200B; Wijzen &#x200B;](images/lesson-2/modes.png)
 
 - Selecteer **Auteur** om de structuur en de inhoud te bekijken aangezien u met een onderwerp werkt.
 
@@ -87,13 +87,13 @@ U kunt kiezen uit de thema&#39;s Licht of Donker voor de editor. Met het thema L
 
 1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![ Voorkeur van de Gebruiker ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. In de dialoog van de Voorkeur van de Gebruiker, klik het [!UICONTROL **drop-down Thema**].
 
 1. Kies een van de beschikbare opties.
 
-   ![ Thema&#39;s ](images/lesson-2/themes.png)
+   ![&#x200B; Thema&#39;s &#x200B;](images/lesson-2/themes.png)
 
 1. Klik [!UICONTROL **sparen**].
 
@@ -105,11 +105,11 @@ U kunt het Basispad bijwerken zodat in de weergave Opslagplaats de inhoud van ee
 
 1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![ Voorkeur van de Gebruiker ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. In de dialoog van de Voorkeur van de Gebruiker, klik het [!UICONTROL **pictogram van de Omslag**] naast de Weg van de Basis.
 
-   ![ Weg van de Omslag van de Basis ](images/lesson-2/base-path-folder-icon.png)
+   ![&#x200B; Weg van de Omslag van de Basis &#x200B;](images/lesson-2/base-path-folder-icon.png)
 
 1. Klik in het dialoogvenster Pad selecteren op het selectievakje naast een specifieke map.
 
@@ -123,11 +123,11 @@ Het algemene profiel is een systeemstandaard. Beheerders kunnen extra mapprofiel
 
 1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![ Voorkeur van de Gebruiker ](images/reuse/user-prefs-icon.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/reuse/user-prefs-icon.png)
 
 1. In de dialoog van de Voorkeur van de Gebruiker, klik de [!UICONTROL **drop-down Profielen van de Omslag**].
 
-   ![ Lijst van het Profiel ](images/lesson-2/folder-profiles-dropdown.png)
+   ![&#x200B; Lijst van het Profiel &#x200B;](images/lesson-2/folder-profiles-dropdown.png)
 
 1. Kies een profiel in de beschikbare opties.
 
@@ -141,7 +141,7 @@ Editor-instellingen zijn beschikbaar voor gebruikers met beheerdersbevoegdheden.
 
 1. Klik het [!UICONTROL **pictogram van de Montages van de Redacteur**] op de hoogste toolbar.
 
-   ![ Montages van de Redacteur ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; Montages van de Redacteur &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. In de dialoog van de Montages van de Redacteur, klik het [!UICONTROL **Algemene**] lusje.
 
@@ -157,13 +157,13 @@ Een van de functies die u kunt aanpassen met de Editor-instellingen is Deelvenst
 
 1. Klik het [!UICONTROL **pictogram van de Montages van de Redacteur**] op de hoogste toolbar.
 
-   ![ Montages van de Redacteur ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; Montages van de Redacteur &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. In de dialoog van de Montages van de Redacteur, klik de [!UICONTROL **Panelen**] tabel.
 
 1. Schakel de beschikbare deelvensters zo nodig in of uit om weer te geven of te verbergen.
 
-   ![ Comité van de knevel ](images/lesson-2/toggle-panels.png)
+   ![&#x200B; Comité van de knevel &#x200B;](images/lesson-2/toggle-panels.png)
 
 1. Klik [!UICONTROL **sparen**].
 
@@ -175,7 +175,7 @@ In de Elements List kunt u een specifiek element een naam geven en er een mensvr
 
 1. Klik het [!UICONTROL **pictogram van de Montages van de Redacteur**] op de hoogste toolbar.
 
-   ![ Montages van de Redacteur ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; Montages van de Redacteur &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. In de dialoog van de Montages van de Redacteur, klik de [!UICONTROL **Lijst van Elementen**] tabel.
 
@@ -183,7 +183,7 @@ In de Elements List kunt u een specifiek element een naam geven en er een mensvr
 
 1. Klik [!UICONTROL **plus**] pictogram om meer elementen aan de lijst toe te voegen.
 
-   ![ Lijst van Elementen ](images/lesson-2/elements-list.png)
+   ![&#x200B; Lijst van Elementen &#x200B;](images/lesson-2/elements-list.png)
 
 1. Klik [!UICONTROL **sparen**].
 
@@ -195,7 +195,7 @@ De lijst met kenmerken werkt ongeveer op dezelfde manier als de lijst met elemen
 
 1. Klik het [!UICONTROL **pictogram van de Montages van de Redacteur**] op de hoogste toolbar.
 
-   ![ Montages van de Redacteur ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; Montages van de Redacteur &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. In de dialoog van de Montages van de Redacteur, klik de [!UICONTROL **Lijst van Attributen**] tabel.
 
@@ -209,13 +209,13 @@ Op het tabblad Voorwaarde kunt u verschillende eigenschappen configureren.
 
 1. Klik het [!UICONTROL **pictogram van de Montages van de Redacteur**] op de hoogste toolbar.
 
-   ![ Montages van de Redacteur ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; Montages van de Redacteur &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. In de dialoog van de Montages van de Redacteur, klik de [!UICONTROL **Voorwaarde**] tabel.
 
 1. Schakel de selectievakjes in voor de voorwaarden die u wilt toepassen.
 
-   ![ het Lusje van de Voorwaarde ](images/lesson-2/condition.png)
+   ![&#x200B; het Lusje van de Voorwaarde &#x200B;](images/lesson-2/condition.png)
 
 1. Klik [!UICONTROL **sparen**].
 
@@ -225,7 +225,7 @@ Publish-profielen kunnen worden gebruikt om de kennisbasis te publiceren. Salesf
 
 1. Klik het [!UICONTROL **pictogram van de Montages van de Redacteur**] op de hoogste toolbar.
 
-   ![ Montages van de Redacteur ](images/lesson-2/editor-settings-icon.png)
+   ![&#x200B; Montages van de Redacteur &#x200B;](images/lesson-2/editor-settings-icon.png)
 
 1. In de dialoog van de Montages van de Redacteur, klik de [!UICONTROL **Profielen**] tabel.
 

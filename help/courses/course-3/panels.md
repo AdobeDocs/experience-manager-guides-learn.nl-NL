@@ -29,11 +29,11 @@ In de uitgevouwen weergave worden de namen en pictogrammen weergegeven die als k
 
 1. Klik het [!UICONTROL **Sidebar**] pictogram om het paneel uit te breiden.
 
-   ![ uitbreiden Zijbalk ](images/lesson-5/expand-sidebar.png)
+   ![&#x200B; uitbreiden Zijbalk &#x200B;](images/lesson-5/expand-sidebar.png)
 
 1. Klik opnieuw het [!UICONTROL **Sidebar**] pictogram om het paneel samen te vouwen.
 
-   ![ samenvouwen Sidebar ](images/lesson-5/collapse-sidebar.png)
+   ![&#x200B; samenvouwen Sidebar &#x200B;](images/lesson-5/collapse-sidebar.png)
 
 ## Een verzameling Favorieten maken
 
@@ -43,7 +43,7 @@ In het linkerdeelvenster kunt u met Favorieten een lijst met specifieke document
 
 1. Klik [!UICONTROL **plus**] pictogram.
 
-   ![ Favorieten plus ](images/lesson-5/favorites-plus.png)
+   ![&#x200B; Favorieten plus &#x200B;](images/lesson-5/favorites-plus.png)
 
 1. In de Nieuwe dialoog van de Inzameling, ga a **Titel** en a **Beschrijving** in.
 
@@ -67,7 +67,7 @@ Nadat u een verzameling hebt gemaakt, kunt u beginnen met het toevoegen van Favo
 
    Hier, zullen wij verkiezen om aan een Bestaande Inzameling toe te voegen.
 
-   ![ de Dialoog van Favorieten ](images/lesson-5/add-to-favorites-dialog.png)
+   ![&#x200B; de Dialoog van Favorieten &#x200B;](images/lesson-5/add-to-favorites-dialog.png)
 
 1. Selecteer indien nodig een verzameling in het vervolgkeuzemenu.
 
@@ -87,7 +87,7 @@ Een andere manier om een onderwerp aan uw Favorieten toe te voegen is van een op
 
 1. Kies **toevoegen aan** > **Favorieten**.
 
-   ![ voeg aan Favorieten toe ](images/lesson-5/addto-favorites.png)
+   ![&#x200B; voeg aan Favorieten toe &#x200B;](images/lesson-5/addto-favorites.png)
 
 1. In Add aan de dialoog van Favorieten, kies **Nieuwe Inzameling** of **Bestaande Inzameling**.
 
@@ -109,7 +109,7 @@ Het is gemakkelijk om te bekijken welke onderwerpen u reeds aan uw Inzamelingen 
 
 1. Onder Favorieten, klik het [!UICONTROL **pictogram van de Pijl**] naast een inzameling om zijn inhoud te bekijken.
 
-   ![ Favorieten van de Mening ](images/lesson-5/view-favorites.png)
+   ![&#x200B; Favorieten van de Mening &#x200B;](images/lesson-5/view-favorites.png)
 
 1. Klik de [!UICONTROL **Ellipse**] naast een onderwerp om contextafhankelijke opties, met inbegrip van de optie omhoog te brengen om het van de lijst van Favorieten te schrappen.
 
@@ -121,7 +121,7 @@ Met het verbeterde filter in de gegevensopslagruimte kunt u zoeken naar tekst me
 
 1. Klik het [!UICONTROL **pictogram van het Onderzoek van de Filter**].
 
-   ![ Pictogram van de Filter van de Bewaarplaats ](images/lesson-5/repository-filter-icon.png)
+   ![&#x200B; Pictogram van de Filter van de Bewaarplaats &#x200B;](images/lesson-5/repository-filter-icon.png)
 
 1. Typ tekst in het geselecteerde pad of kies indien nodig een nieuw pad.
 
@@ -129,7 +129,7 @@ Met het verbeterde filter in de gegevensopslagruimte kunt u zoeken naar tekst me
 
 1. Klik op het pijlpictogram naast een zoekcategorie om de zoekopdracht indien nodig verder te beperken.
 
-   ![ Criteria van de Filter ](images/lesson-5/filter-criteria.png)
+   ![&#x200B; Criteria van de Filter &#x200B;](images/lesson-5/filter-criteria.png)
 
 Zoekopdrachten kunnen worden beperkt tot DITA-onderwerpen of DITA-kaarten. U kunt zoeken in niet-DITA-afbeeldingsbestanden, multimedia of andere documenten in het geselecteerde pad. U kunt de zoekopdracht zelfs beperken tot DITA-elementen of filteren door het uitchecken van bestanden.
 
@@ -137,32 +137,32 @@ Zoekopdrachten kunnen worden beperkt tot DITA-onderwerpen of DITA-kaarten. U kun
 
 In de Kaartweergave zijn verschillende nuttige functies beschikbaar, zoals de mogelijkheid om bestanden uit te checken en te vergrendelen, een voorvertoning van het kaartbestand weer te geven, het Kaartdashboard te openen en de kaart in de gebruikersinterface van Assets weer te geven.
 
-Verwijs naar de les die [ wordt genoemd Kaarten en Bookmaps ](./maps-and-bookmaps.md) in deze cursus voor meer informatie over de Mening van de Kaart en zijn functionaliteit.
+Verwijs naar de les die [&#x200B; wordt genoemd Kaarten en Bookmaps &#x200B;](./maps-and-bookmaps.md) in deze cursus voor meer informatie over de Mening van de Kaart en zijn functionaliteit.
 
 ## De omtrekweergave verkennen
 
 De mening van het Overzicht verstrekt een hiërarchische mening van het huidige document in het Overzicht. U kunt de mening van het Overzicht uitbreiden om veelvoudige elementen evenals om het even welke toegewezen IDs te tonen.
 
-Verwijs naar de les die [ wordt genoemd Mening van het Overzicht ](./outline-view.md) in deze cursus voor meer informatie over de Mening van het Overzicht en zijn functionaliteit.
+Verwijs naar de les die [&#x200B; wordt genoemd Mening van het Overzicht &#x200B;](./outline-view.md) in deze cursus voor meer informatie over de Mening van het Overzicht en zijn functionaliteit.
 
 ## Werken met herbruikbare inhoud
 
 De kernDITA eigenschap is de capaciteit om inhoud, van kleine uitdrukkingen aan volledige onderwerpen of kaarten opnieuw te gebruiken. De Editor biedt een interface voor slepen en neerzetten voor hergebruik van inhoud.
 
-Verwijs naar de les genoemd [ Inhoud hergebruik ](./content-reuse.md) in deze cursus voor meer
+Verwijs naar de les genoemd [&#x200B; Inhoud hergebruik &#x200B;](./content-reuse.md) in deze cursus voor meer
 informatie over herbruikbare inhoud en hoe deze op effectieve wijze kan worden beheerd.
 
 ## Werken met woordenlijsten
 
 Met de verklarende woordenlijst is het eenvoudiger om informatie consistent te formuleren en de lezer meer duidelijkheid te verschaffen. De Redacteur verstrekt belemmering-en-dalingsinterface voor het opnemen van verklarende woordenlijsttermijnen in een onderwerp.
 
-Verwijs naar de les die [ wordt genoemd Verklarende woordenlijst ](./glossary.md) in deze cursus voor meer informatie bij het vormen van en het gebruiken van verklarende woordenboeken.
+Verwijs naar de les die [&#x200B; wordt genoemd Verklarende woordenlijst &#x200B;](./glossary.md) in deze cursus voor meer informatie bij het vormen van en het gebruiken van verklarende woordenboeken.
 
 ## Werken met voorwaarden
 
 In DITA, worden de voorwaarden vaak gedreven door gebruik van attributen zoals Product, Platform, en Publiek, die elk specifieke waarden kunnen hebben die aan hen worden toegewezen. De voorwaarden worden beheerd via Mapprofielen.
 
-Verwijs naar de les die [ wordt genoemd Voorwaarden ](./conditions.md) in deze cursus voor meer informatie bij het vormen en het gebruiken van voorwaardelijke attributen.
+Verwijs naar de les die [&#x200B; wordt genoemd Voorwaarden &#x200B;](./conditions.md) in deze cursus voor meer informatie bij het vormen en het gebruiken van voorwaardelijke attributen.
 
 ## Een fragment maken
 
@@ -176,7 +176,7 @@ Fragmenten zijn kleine inhoudsfragmenten die opnieuw kunnen worden gebruikt als 
 
 1. In het resulterende menu, kies creëren [!UICONTROL **Fragment**].
 
-   ![ creeer Fragment ](images/lesson-5/create-snippet.png)
+   ![&#x200B; creeer Fragment &#x200B;](images/lesson-5/create-snippet.png)
 
 1. In de Nieuwe dialoog van het Fragment, voeg a **Titel** en a **Beschrijving** toe.
 
@@ -192,13 +192,13 @@ Het fragment wordt toegevoegd aan de lijst met beschikbare fragmenten. Het is kl
 
 Met behulp van het deelvenster Sjablonen kunnen beheerders eenvoudig sjablonen voor auteurs maken en beheren. Door gebrek, zijn de malplaatjes gecategoriseerd als Kaart en onderwerp-type.
 
-Verwijs naar de lessen die [ de Profielen van de Omslag ](./folder-profiles.md) worden genoemd en [ de Eenvoudige Werkschema&#39;s van de Aanmaak van de Inhoud ](simple-content-creation-workflows.md) in deze cursus voor meer informatie bij het vormen en het toepassen van malplaatjes.
+Verwijs naar de lessen die [&#x200B; de Profielen van de Omslag &#x200B;](./folder-profiles.md) worden genoemd en [&#x200B; de Eenvoudige Werkschema&#39;s van de Aanmaak van de Inhoud &#x200B;](simple-content-creation-workflows.md) in deze cursus voor meer informatie bij het vormen en het toepassen van malplaatjes.
 
 ## Bestanden zoeken met Zoeken en vervangen
 
 Er zijn twee opties voor Zoeken en Vervangen beschikbaar in de Editor. De eerste functie staat Zoeken en vervangen toe binnen een specifiek open onderwerp, net als een traditionele tekstverwerker. Het tweede is een deelvenster Zoeken en vervangen waarin wordt gezocht naar tekst in meerdere bestanden in de opslagplaats.
 
-Verwijs naar de les die [ wordt genoemd Controle van de Spel en vind en vervang ](./spell-check.md) in deze cursus voor meer informatie over de Vondst en vervang eigenschap.
+Verwijs naar de les die [&#x200B; wordt genoemd Controle van de Spel en vind en vervang &#x200B;](./spell-check.md) in deze cursus voor meer informatie over de Vondst en vervang eigenschap.
 
 ## Eigenschappen van inhoud bijwerken
 
@@ -212,7 +212,7 @@ De Eigenschappen van de inhoud op het juiste paneel omvat specifieke informatie 
 
 1. Typ een nieuwe **Waarde** voor het element.
 
-   ![ Nieuwe Waarde ](images/lesson-5/new-value.png)
+   ![&#x200B; Nieuwe Waarde &#x200B;](images/lesson-5/new-value.png)
 
 De eigenschappen van de inhoud worden dynamisch bijgewerkt wanneer u elementen wijzigt.
 
@@ -224,11 +224,11 @@ De Eigenschappen van het dossier toont extra informatie over het volledige open 
 
 1. Klik het [!UICONTROL &#x200B; **pictogram van de Eigenschappen van het Dossier**] op het juiste paneel.
 
-   ![ Pictogram van de Eigenschappen van het Dossier ](images/lesson-5/file-properties-icon.png)
+   ![&#x200B; Pictogram van de Eigenschappen van het Dossier &#x200B;](images/lesson-5/file-properties-icon.png)
 
 1. Plaats de **Staat van het Document** aan **uitgeven**. De lijst Verwijzingen is momenteel leeg.
 
-   ![ Geen Verwijzingen ](images/lesson-5/no-references.png)
+   ![&#x200B; Geen Verwijzingen &#x200B;](images/lesson-5/no-references.png)
 
 1. Sluit het onderwerp.
 
@@ -240,7 +240,7 @@ De Eigenschappen van het dossier toont extra informatie over het volledige open 
 
 1. Klik [!UICONTROL **uitgeven**] pictogram.
 
-   ![ geef het Pictogram van de Kaart ](images/lesson-5/edit-map-icon.png) uit
+   ![&#x200B; geef het Pictogram van de Kaart &#x200B;](images/lesson-5/edit-map-icon.png) uit
 
 1. Zodra de kaart voor het uitgeven open is, schakelaar terug naar **Mening van de Bewaarplaats**.
 
@@ -256,11 +256,11 @@ Het rechterdeelvenster bevat een sneltoets waarmee u een revisiewerkstroom kunt 
 
 1. Klik het [!UICONTROL **pictogram van het Overzicht**] op het juiste paneel.
 
-   ![ Pictogram van het Overzicht ](images/lesson-5/review-icon.png)
+   ![&#x200B; Pictogram van het Overzicht &#x200B;](images/lesson-5/review-icon.png)
 
 1. Klik [!UICONTROL **creëren Overzicht**].
 
-   ![ creeer Overzicht ](images/lesson-5/create-review.png)
+   ![&#x200B; creeer Overzicht &#x200B;](images/lesson-5/create-review.png)
 
 1. Vul de velden naar wens in in het dialoogvenster Revisietaak maken.
 
@@ -272,4 +272,4 @@ De Revisietaak wordt gemaakt.
 
 De capaciteit om veranderingen te volgen geeft u heel wat controle over welke veranderingen in één versie van een onderwerp aan volgende worden behouden. U kunt het juiste deelvenster gebruiken om bijgehouden wijzigingen te beheren.
 
-Verwijs naar de les die [ Veranderingen van het Spoor ](./track-changes.md) wordt genoemd in deze cursus voor meer informatie over verandering het volgen functionaliteit.
+Verwijs naar de les die [&#x200B; Veranderingen van het Spoor &#x200B;](./track-changes.md) wordt genoemd in deze cursus voor meer informatie over verandering het volgen functionaliteit.

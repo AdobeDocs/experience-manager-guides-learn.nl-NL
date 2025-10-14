@@ -23,7 +23,7 @@ Webkoppelingen leiden lezers naar websites voor meer informatie, maken interacti
    In deze gemarkeerde tekst wordt de koppeling ingevoegd.
 1. Selecteer de **knoop van de Verwijzing van het Tussenvoegsel** van de toolbar.
 
-   ![ het pictogram van de Verwijzing van het Tussenvoegsel Kruisverwijzing ](images/lesson-5/insert-crossref-icon.png)
+   ![&#x200B; het pictogram van de Verwijzing van het Tussenvoegsel Kruisverwijzing &#x200B;](images/lesson-5/insert-crossref-icon.png)
 
    Het dialoogvenster Referentie wordt weergegeven.
 
@@ -39,7 +39,7 @@ Met de knop Voorvertoning kunt u een voorvertoning van een onderwerp weergeven. 
 
 1. Selecteer **Voorproef** van de hoogste zwarte menubar.
 
-   ![ knoop van de Voorproef ](images/common/select-preview.png)
+   ![&#x200B; knoop van de Voorproef &#x200B;](images/common/select-preview.png)
 
    Uw concept wordt geopend in Voorvertoning.
 
@@ -47,7 +47,7 @@ Met de knop Voorvertoning kunt u een voorvertoning van een onderwerp weergeven. 
 Het doel van de koppeling wordt op een ander tabblad geopend.
 1. Keer aan de mening van de Auteur terug door **Auteur** van de hoogste zwarte menubar te selecteren.
 
-   ![ knoop van de Auteur ](images/lesson-5/author-map.png)
+   ![&#x200B; knoop van de Auteur &#x200B;](images/lesson-5/author-map.png)
 
 
 ## Opslaan als een nieuwe versie
@@ -56,7 +56,7 @@ Nu u meer inhoud aan uw concept hebt toegevoegd, kunt u uw werk opslaan als een 
 
 1. Selecteer **sparen als Nieuw pictogram van de Versie**.
 
-   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
+   ![&#x200B; sparen als het Nieuwe pictogram van de Versie &#x200B;](images/common/save-as-new-version.png)
 
 1. Voer in het veld Opmerkingen voor nieuwe versie een korte, maar duidelijke samenvatting van de wijzigingen in.
 1. Voer relevante labels in in het veld Versielabels.

@@ -14,7 +14,7 @@ ht-degree: 0%
 De Redacteur van XML en DITA verstrekken een krachtige manier om tussen onderwerpen te verbinden. Het is belangrijk dat u de verwijzingen naar inhoud op effectieve wijze beheert. U moet daarbij ook werken met unieke id-waarden.
 
 Voorbeeldbestanden die u voor deze les wilt gebruiken, staan in het bestand
-[ crossreferencesandlinks.zip ](assets/crossreferencesandlinks.zip)
+[&#x200B; crossreferencesandlinks.zip &#x200B;](assets/crossreferencesandlinks.zip)
 
 >[!VIDEO](https://video.tv.adobe.com/v/342764?quality=12&learn=on)
 
@@ -38,7 +38,7 @@ Het is mogelijk om een externe kruisverwijzing te maken door een onderwerp vanui
 
 1. Klik het [!UICONTROL **pictogram van de Verwijzing**] op de hoogste toolbar.
 
-   ![ Toolbar ](images/lesson-7/references-icon.png)
+   ![&#x200B; Toolbar &#x200B;](images/lesson-7/references-icon.png)
 
 1. Van het **lusje van de Verwijzing van de Inhoud**, selecteer identiteitskaart en element die u als verwijzing wilt opnemen.
 
@@ -61,6 +61,6 @@ Sommige wijzigingen kunnen leiden tot verbroken kruisverwijzingen. Deze omvatten
 
 1. Selecteer **Verbroken verbindingen**.
 
-   ![ Dropdown van de Filter ](images/lesson-7/broken-links.png)
+   ![&#x200B; Dropdown van de Filter &#x200B;](images/lesson-7/broken-links.png)
 
 Verbroken koppelingen worden weergegeven als klikbare objecten. U kunt ze in rode tekst in het onderwerp identificeren.

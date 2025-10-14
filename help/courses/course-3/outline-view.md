@@ -21,9 +21,9 @@ Elementen kunnen worden uitgevouwen om onderliggende elementen weer te geven of 
 
 1. Klik op het juiste pictogram om de omtrekweergave uit of samen te vouwen.
 
-   ![ Overzicht van de Verwijzing ](images/lesson-6/outline-collapsed-before.png)
+   ![&#x200B; Overzicht van de Verwijzing &#x200B;](images/lesson-6/outline-collapsed-before.png)
 
-   ![ Subtabs van het Overzicht van de Verwijzing ](images/lesson-6/outline-expanded-after.png)
+   ![&#x200B; Subtabs van het Overzicht van de Verwijzing &#x200B;](images/lesson-6/outline-expanded-after.png)
 
 In de omtrekweergave schakelt u van uitgevouwen naar samengevouwen.
 
@@ -33,7 +33,7 @@ In de omtrekweergave schakelt u van uitgevouwen naar samengevouwen.
 
 1. Klik de [!UICONTROL **Ellipse**] naast een element om tot kortere wegopties toegang te hebben.
 
-   ![ Contextmenu ](images/lesson-6/shortcut-options.png)
+   ![&#x200B; Contextmenu &#x200B;](images/lesson-6/shortcut-options.png)
 
 ## Een id toewijzen met de omtrekweergave
 
@@ -43,7 +43,7 @@ Een nieuwe identiteitskaart kan automatisch worden geproduceerd gebaseerd op sys
 
 1. Kies **produceer IDs**.
 
-   ![ het Contextmenu van de Ellipsis ](images/lesson-6/ellipsis-popup.png)
+   ![&#x200B; het Contextmenu van de Ellipsis &#x200B;](images/lesson-6/ellipsis-popup.png)
 
 De id is toegewezen. De updates voor de eigenschappen van de inhoud en de informatie over elementen en kenmerken worden weergegeven.
 
@@ -67,7 +67,7 @@ Elementen kunnen opnieuw worden geordend in de omtrekweergave.
 
 1. Selecteer **anders noemen Element**.
 
-   ![ noem het Contextmenu van het Element anders ](images/lesson-6/rename-before.png)
+   ![&#x200B; noem het Contextmenu van het Element anders &#x200B;](images/lesson-6/rename-before.png)
 
 1. Dubbelklik op een nieuwe elementnaam.
 
@@ -87,7 +87,7 @@ De inhoud blijft behouden, maar de structuur is verwijderd.
 
 1. Klik het [!UICONTROL **pictogram van de Filter**] naast de onderzoeksbar in de Mening van het Overzicht.
 
-   ![ Filters ](images/lesson-6/filter-icon.png)
+   ![&#x200B; Filters &#x200B;](images/lesson-6/filter-icon.png)
 
 1. Kies of **allen** om alle elementen te tonen of **Gebroken verbindingen** om gebroken verwijzingen te vinden en te bevestigen.
 
@@ -97,6 +97,6 @@ Een zoekopdracht kan worden beperkt en resultaten retourneren op basis van een e
 
 1. Typ de naam van het element dat u wilt zoeken in de zoekbalk.
 
-   ![ Bar van het Onderzoek ](images/lesson-6/search-bar.png)
+   ![&#x200B; Bar van het Onderzoek &#x200B;](images/lesson-6/search-bar.png)
 
 1. Kies het resultaat dat het meest geschikt is voor uw behoeften.

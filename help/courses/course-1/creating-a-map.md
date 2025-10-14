@@ -15,8 +15,8 @@ Een kaart is een organisatorisch hulpmiddel dat u informatie in een hiërarchisc
 
 U kunt voorbeeld DITA- dossiers van hier downloaden:
 
-* [ documenten-met-Visual-Content.dita ](assets/working-with-maps/Documents-with-Visual-Content.dita)
-* [ werkings-met-Tables.dita ](assets/working-with-maps/Working-with-Tables.dita)
+* [&#x200B; documenten-met-Visual-Content.dita &#x200B;](assets/working-with-maps/Documents-with-Visual-Content.dita)
+* [&#x200B; werkings-met-Tables.dita &#x200B;](assets/working-with-maps/Working-with-Tables.dita)
 
 >[!VIDEO](https://video.tv.adobe.com/v/336725?quality=12&learn=on)
 
@@ -31,12 +31,12 @@ U kunt desgewenst lokale voorbeeldbestanden uploaden naar AEM voor een volledige
 
 1. Als u het menu [!UICONTROL Options] wilt openen, selecteert u het pictogram met de ovaal in de hoofdmap.
 
-   ![ het pictogram van de Ellipsis ](images/lesson-8/ellipses-9.png)
+   ![&#x200B; het pictogram van de Ellipsis &#x200B;](images/lesson-8/ellipses-9.png)
 
 1. Selecteer **[!UICONTROL Create]** > **[!UICONTROL Map]** .
 
 
-   ![ creeer kaart ](images/lesson-8/create-map-with-markings.png)
+   ![&#x200B; creeer kaart &#x200B;](images/lesson-8/create-map-with-markings.png)
 
    Het dialoogvenster [!UICONTROL Create New Map] wordt weergegeven.
 
@@ -49,13 +49,13 @@ U kunt desgewenst lokale voorbeeldbestanden uploaden naar AEM voor een volledige
 
 1. Selecteer het potloodpictogram in de linkerspoorstaaf.
 
-   ![ geef pictogram ](images/lesson-8/pencil-icon.png) uit
+   ![&#x200B; geef pictogram &#x200B;](images/lesson-8/pencil-icon.png) uit
 
    Dit is het bewerkingspictogram, waarmee u de kaart in de editor kunt openen.
 
 1. Schakel terug naar de weergave Opslagplaats door het pictogram Opslagplaats te selecteren.
 
-   ![ pictogram van de Bewaarplaats ](images/common/repository-icon.png)
+   ![&#x200B; pictogram van de Bewaarplaats &#x200B;](images/common/repository-icon.png)
 
 1. Voeg een onderwerp aan de kaart toe door het van Repository in de kaart in de redacteur te slepen en te laten vallen.
 
@@ -69,13 +69,13 @@ Met Voorvertoning kunt u snel de inhoud bekijken met de standaardindelingen. Het
 
 1. Selecteer **[!UICONTROL Preview]** in de bovenste zwarte menubalk.
 
-   ![ knoop van de Voorproef ](images/common/select-preview.png)
+   ![&#x200B; knoop van de Voorproef &#x200B;](images/common/select-preview.png)
 
 Uw inhoud wordt geopend in [!UICONTROL Preview] .
 
 1. Om op de Mening van de Auteur terug te keren en kaart het uitgeven te hervatten, uitgezochte **Auteur.**
 
-   ![ knoop van de Auteur ](images/lesson-5/author-map.png)
+   ![&#x200B; knoop van de Auteur &#x200B;](images/lesson-5/author-map.png)
 
 ## Kaartstructuur configureren
 
@@ -84,7 +84,7 @@ U kunt de hiërarchie van onderwerpen binnen de kaart uitgeven.
 1. Klik op het pictogram van een onderwerp om het te selecteren.
 1. Gebruik de pijlen om respectievelijk elementen te degraderen en te bevorderen.
 
-   ![ pictogram van de Bewaarplaats ](images/lesson-8/left-right.png)
+   ![&#x200B; pictogram van de Bewaarplaats &#x200B;](images/lesson-8/left-right.png)
 
 ## De kaart opslaan als een nieuwe versie
 
@@ -92,7 +92,7 @@ Nu de kaart is voltooid, kunt u uw werk opslaan als een nieuwe versie en uw wijz
 
 1. Selecteer het pictogram **[!UICONTROL Save as New Version]** .
 
-   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
+   ![&#x200B; sparen als het Nieuwe pictogram van de Versie &#x200B;](images/common/save-as-new-version.png)
 
 1. Voer in het veld Opmerkingen voor nieuwe versie een korte, maar duidelijke samenvatting van de wijzigingen in.
 

@@ -19,7 +19,7 @@ Als u een document versibreert, wordt een opname van de huidige staat gemaakt. H
 
 1. Selecteer het pictogram Opslaan als nieuwe versie.
 
-   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
+   ![&#x200B; sparen als het Nieuwe pictogram van de Versie &#x200B;](images/common/save-as-new-version.png)
 
    Het dialoogvenster Opslaan als nieuwe versie wordt weergegeven.
 
@@ -42,7 +42,7 @@ Als u meerdere versies van uw inhoud hebt, kunt u de verschillen tussen de versi
 
 1. Selecteer het pictogram Versiehistorie op de werkbalk.
 
-   ![ pictogram van de Geschiedenis van de Versie ](images/lesson-7/version-history.png)
+   ![&#x200B; pictogram van de Geschiedenis van de Versie &#x200B;](images/lesson-7/version-history.png)
 
    Het dialoogvenster Versiehistorie wordt weergegeven.
 
@@ -70,7 +70,7 @@ U kunt versieverschillen in Voorvertoning ook bekijken met de filters Tekstspati
 
 1. Selecteer **Voorproef** van de hoogste menubar.
 
-   ![ knoop van de Voorproef ](images/common/select-preview.png)
+   ![&#x200B; knoop van de Voorproef &#x200B;](images/common/select-preview.png)
 
    Uw onderwerp wordt geopend in Voorvertoning.
 

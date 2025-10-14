@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Verschillende materiaalsets kunnen vergelijkbare informatie bevatten die op bepaalde plaatsen moet worden aangepast. De sleutels staan u toe om veranderlijke informatie aan te omvatten wanneer het werken met DITA.
 
-De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ keys.zip ](assets/keys.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [&#x200B; keys.zip &#x200B;](assets/keys.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342756?quality=12&learn=on)
 
@@ -27,11 +27,11 @@ De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken
 
    c. Selecteer het bestand voor extractie.
 
-   ![ Uitgezochte Zip ](images/lesson-9/select-zip.png)
+   ![&#x200B; Uitgezochte Zip &#x200B;](images/lesson-9/select-zip.png)
 
    d. Klik [!UICONTROL **het Archief van het Extraheren**] in de hoogste toolbar.
 
-   ![ Toolbar ](images/lesson-9/extract-archive.png)
+   ![&#x200B; Toolbar &#x200B;](images/lesson-9/extract-archive.png)
 
    e. Kies in het dialoogvenster de specifieke locatie voor bestanden die u wilt uitpakken, zoals een map met de naam Toetsen.
 
@@ -43,7 +43,7 @@ De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken
 
 1. Wanneer het extract volledig is, klik [!UICONTROL **gaan naar de doelomslag**].
 
-   ![ Bevestiging ](images/lesson-9/go-to-target.png)
+   ![&#x200B; Bevestiging &#x200B;](images/lesson-9/go-to-target.png)
 
 ## Toetsen omzetten in waarden waarnaar wordt verwezen
 
@@ -57,13 +57,13 @@ Om sleutels correct te gebruiken, moet de Voorkeur van de Gebruiker een specifie
 
    c. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![ Hoogste Toolbar ](images/lesson-9/author-view.png)
+   ![&#x200B; Hoogste Toolbar &#x200B;](images/lesson-9/author-view.png)
 
    d. Klik het belangrijkste pictogram om a **Kaart van de Wortel** te specificeren die zal worden gebruikt om Sleutels op te lossen.
 
    e. Schakel de selectievakjes in voor elke gewenste Assets.
 
-   ![ Assets Dropdown ](images/lesson-9/select-assets.png)
+   ![&#x200B; Assets Dropdown &#x200B;](images/lesson-9/select-assets.png)
 
    f. Klik [!UICONTROL **Uitgezocht**].
 
@@ -81,7 +81,7 @@ De sleutels worden opgelost.
 
 1. Selecteer een toets.
 
-   ![ Zeer belangrijke Dropdown ](images/lesson-9/hybrid-key.png)
+   ![&#x200B; Zeer belangrijke Dropdown &#x200B;](images/lesson-9/hybrid-key.png)
 
 1. Voeg een nieuw sleutelwoord in.
 
@@ -89,7 +89,7 @@ De sleutels worden opgelost.
 
    b. Selecteer het **Keydef** pictogram op de hoogste toolbar.
 
-   ![ Werkbalk Keydef ](images/lesson-9/key-icon.png)
+   ![&#x200B; Werkbalk Keydef &#x200B;](images/lesson-9/key-icon.png)
 
    c. Voer in het dialoogvenster Keydef invoegen een unieke waarde in voor Toetsen die voor de definitie die u maakt, zinnig is.
 
@@ -99,7 +99,7 @@ De sleutels worden opgelost.
 
    a. Klik het [!UICONTROL **pictogram van het Element van het Tussenvoegsel**] op de hoogste toolbar.
 
-   ![ Werkbalk Keydef ](images/lesson-9/add-icon.png)
+   ![&#x200B; Werkbalk Keydef &#x200B;](images/lesson-9/add-icon.png)
 
    b. Zoek en selecteer &quot;topicmeta&quot; in het dialoogvenster Element invoegen.
 
@@ -107,7 +107,7 @@ De sleutels worden opgelost.
 
    a. Klik het [!UICONTROL **pictogram van het Element van het Tussenvoegsel**] op de hoogste toolbar.
 
-   ![ Werkbalk Keydef ](images/lesson-9/add-icon.png)
+   ![&#x200B; Werkbalk Keydef &#x200B;](images/lesson-9/add-icon.png)
 
    b. Zoek in het dialoogvenster Element invoegen naar &quot;trefwoorden&quot; en selecteer deze.
 
@@ -115,7 +115,7 @@ De sleutels worden opgelost.
 
    a. Klik het [!UICONTROL **pictogram van het Element van het Tussenvoegsel**] op de hoogste toolbar.
 
-   ![ Werkbalk Keydef ](images/lesson-9/add-icon.png)
+   ![&#x200B; Werkbalk Keydef &#x200B;](images/lesson-9/add-icon.png)
 
    b. In de **dialoog van het Element van het Tussenvoegsel**, onderzoek en selecteer &quot;sleutelwoord&quot;
 
@@ -123,7 +123,7 @@ De sleutels worden opgelost.
 
 Op de kaart zou uw keydef er nu ongeveer als volgt moeten uitzien:
 
-![ Keydef voltooide ](images/lesson-9/keydef.png)
+![&#x200B; Keydef voltooide &#x200B;](images/lesson-9/keydef.png)
 
 ## Een sleuteldefinitie configureren als een fragment
 

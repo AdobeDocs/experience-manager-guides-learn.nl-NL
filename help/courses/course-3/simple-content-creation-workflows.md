@@ -21,7 +21,7 @@ Afbeeldingen kunnen rechtstreeks vanaf een lokaal station worden toegevoegd.
 
 1. Sleep de afbeelding rechtstreeks naar het onderwerp. Het **uploadt Assets** dialoog verschijnt.
 
-   ![ upload de Dialoog van Assets ](images/lesson-15/upload-assets-dialog.png)
+   ![&#x200B; upload de Dialoog van Assets &#x200B;](images/lesson-15/upload-assets-dialog.png)
 
 1. Wijzig het mappad naar de gewenste afbeeldingslocatie.
 
@@ -45,7 +45,7 @@ Afbeeldingen kunnen rechtstreeks vanaf een lokaal station worden toegevoegd.
 
    - andere kenmerken.
 
-   ![ Eigenschappen van de Inhoud ](images/lesson-15/content-properties.png)
+   ![&#x200B; Eigenschappen van de Inhoud &#x200B;](images/lesson-15/content-properties.png)
 
 ## Werken met meerdere onderwerpen
 
@@ -59,7 +59,7 @@ De gesplitste Mening is nuttig wanneer het vergelijken van onderwerpen, het kopi
 
 1. Kies **Juist**.
 
-   ![ Gesplitste Mening ](images/lesson-15/split-view.png)
+   ![&#x200B; Gesplitste Mening &#x200B;](images/lesson-15/split-view.png)
 
 ## Typische fouten corrigeren
 
@@ -81,7 +81,7 @@ Gebruikers kunnen een PDF van het huidige onderwerp downloaden om het onderwerp 
 
 1. Klik het [!UICONTROL **pictogram van de PDF**] boven het onderwerp. Er wordt een dialoogvenster weergegeven.
 
-   ![ de Uitvoer van de PDF ](images/lesson-15/pdf-export.png)
+   ![&#x200B; de Uitvoer van de PDF &#x200B;](images/lesson-15/pdf-export.png)
 
 1. Vul de informatie voor of **Naam van de Transformatie** of **DITA-OT de Argumenten van de Lijn van het Bevel** indien vereist. Een PDF wordt nog steeds gegenereerd als alle velden leeg blijven.
 
@@ -107,11 +107,11 @@ Gebruikers kunnen een PDF van het huidige onderwerp downloaden om het onderwerp 
 
 1. Klik het **pictogram van de Bewaarplaats** op het hoogste linkermenu.
 
-   ![ Pictogram van de Bewaarplaats ](images/lesson-15/repository-icon.png)
+   ![&#x200B; Pictogram van de Bewaarplaats &#x200B;](images/lesson-15/repository-icon.png)
 
 1. In de dialoog, voeg **Commentaren voor Nieuwe Versie** toe.
 
-   ![ Nieuwe Dialoog van de Versie ](images/lesson-15/version-dialog.png)
+   ![&#x200B; Nieuwe Dialoog van de Versie &#x200B;](images/lesson-15/version-dialog.png)
 
 1. Klik [!UICONTROL **sparen**].
 
@@ -129,7 +129,7 @@ Het proberen om de staat van een onderwerp te volgen die op slechts het Aantal v
 
    b. Onder de Etiketten van de Versie van de Inhoud van XML, of voeg een nieuw onderwerp toe of gebruik bestaande.
 
-   ![ Etiketten van de Versie van de Inhoud ](images/lesson-15/version-labels.png)
+   ![&#x200B; Etiketten van de Versie van de Inhoud &#x200B;](images/lesson-15/version-labels.png)
 
 1. Selecteer [!UICONTROL **uploaden**].
 
@@ -149,13 +149,13 @@ Versielabels worden nu geladen.
 
 1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] bij de bovenkant verlaten van het huidige onderwerp.
 
-   ![ Profiel van de Omslag ](images/lesson-15/folder-profile-icon.png)
+   ![&#x200B; Profiel van de Omslag &#x200B;](images/lesson-15/folder-profile-icon.png)
 
 1. Selecteer hetzelfde mapprofiel waarin versielabels eerder zijn geladen.
 
 1. Controleer in het dialoogvenster Gebruikersvoorkeuren of het basispad verwijst naar dezelfde gegevens waarop het mapprofiel is toegepast.
 
-   ![ Voorkeur van de Gebruiker ](images/lesson-15/user-preferences.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/lesson-15/user-preferences.png)
 
 1. Klik [!UICONTROL **sparen**].
 
@@ -163,7 +163,7 @@ Versielabels worden nu geladen.
 
 1. Voeg een opmerking toe en selecteer een versielabel in de vervolgkeuzelijst.
 
-   ![ Nieuwe Dialoogvenster van het Etiket van de Versie ](images/lesson-15/labels-dialog.png)
+   ![&#x200B; Nieuwe Dialoogvenster van het Etiket van de Versie &#x200B;](images/lesson-15/labels-dialog.png)
 
 1. Klik [!UICONTROL **sparen**].
 
@@ -177,11 +177,11 @@ Het versienummer wordt bijgewerkt.
 
 1. Selecteer [!UICONTROL **Mening in Assets UI**].
 
-   ![ UI van Assets ](images/lesson-15/view-assets-ui.png)
+   ![&#x200B; UI van Assets &#x200B;](images/lesson-15/view-assets-ui.png)
 
    - De versiegeschiedenis met labels wordt links weergegeven.
 
-   ![ Geschiedenis van de Versie ](images/lesson-15/version-history.png)
+   ![&#x200B; Geschiedenis van de Versie &#x200B;](images/lesson-15/version-history.png)
 
 1. Klik op een versie om tot opties zoals **toegang te hebben terugkeert aan deze Versie** en **Versie van de Voorproef**.
 
@@ -195,7 +195,7 @@ Er bestaan sjablonen voor zowel onderwerpen als kaarten. Beheerders hebben toega
 
 1. Klik om de nieuwe sjabloon toe te voegen.
 
-   ![ Nieuw Malplaatje van het Onderwerp ](images/lesson-15/version-history.png)
+   ![&#x200B; Nieuw Malplaatje van het Onderwerp &#x200B;](images/lesson-15/version-history.png)
 
 1. Vul de velden in het resulterende dialoogvenster.
 

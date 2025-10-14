@@ -19,11 +19,11 @@ Nadat u zich vertrouwd hebt gemaakt met de gebruikersinterface, kunt u beginnen 
 
 1. Selecteer het **pictogram van de Bewaarplaats** om uw omslagen en dossiers te bekijken.
 
-   ![ pictogram van de Bewaarplaats ](images/common/repository-icon.png)
+   ![&#x200B; pictogram van de Bewaarplaats &#x200B;](images/common/repository-icon.png)
 
 1. Selecteer **+** pictogram en **Omslag**.
 
-   ![+ icon ](images/lesson-3/+-icon.png)
+   ![+ icon &#x200B;](images/lesson-3/+-icon.png)
 
 1. Geef de map een titel.
 1. Selecteer **creeer**.
@@ -35,12 +35,12 @@ We kunnen nu een map in uw nieuwe map maken die afbeeldingen of andere inhoud be
 
 1. Houd de muisaanwijzer boven de nieuwe map in de opslagplaats en selecteer het pictogram van de ellips dat wordt weergegeven.
 
-   ![ het pictogram van de Ellipsis ](images/lesson-3/ellipses-icon.png)
+   ![&#x200B; het pictogram van de Ellipsis &#x200B;](images/lesson-3/ellipses-icon.png)
 
    Het menu Opties wordt weergegeven.
 
 1. Selecteer **creeer \> Omslag**.
-   ![ Creërend een subfolder ](images/lesson-3/create-subfolder-with-markings.png)
+   ![&#x200B; Creërend een subfolder &#x200B;](images/lesson-3/create-subfolder-with-markings.png)
 
 1. Geef subfolder een titel (bijvoorbeeld, &quot;beelden&quot;) en selecteer **creeer**.
 
@@ -48,25 +48,25 @@ We kunnen nu een map in uw nieuwe map maken die afbeeldingen of andere inhoud be
 
 1. Houd de muisaanwijzer boven de bovenliggende map in de opslagplaats en selecteer het pictogram voor de ovaal.
 
-   ![ het pictogram van de Ellipsis ](images/lesson-3/ellipses-icon.png)
+   ![&#x200B; het pictogram van de Ellipsis &#x200B;](images/lesson-3/ellipses-icon.png)
 
    Het menu Opties wordt weergegeven.
 
 1. Selecteer **creeer \> Onderwerp**.
 
-   ![ Creërend een nieuw onderwerp ](images/lesson-3/create-topic-with-markings.png)
+   ![&#x200B; Creërend een nieuw onderwerp &#x200B;](images/lesson-3/create-topic-with-markings.png)
 
    Het dialoogvenster Nieuw onderwerp maken wordt weergegeven.
 
 1. Van het drop-down menu van het Malplaatje in de dialoog, uitgezochte **Concept**.
 
-   ![ drop-down Malplaatje ](images/lesson-3/dropdown-with-markings.png)
+   ![&#x200B; drop-down Malplaatje &#x200B;](images/lesson-3/dropdown-with-markings.png)
 
 1. Geef uw concept een titel en selecteer **creeer**.
 
    Het nieuwe concept wordt weergegeven in de editor, gevuld met de titel.
 
-   ![ Nieuw concept ](images/lesson-3/new-concept.png)
+   ![&#x200B; Nieuw concept &#x200B;](images/lesson-3/new-concept.png)
 
 1. Vul het concept door in de korte beschrijving of alinea te klikken en de inhoud te typen.
 
@@ -78,13 +78,13 @@ U kunt uw werk op elk gewenst moment opslaan met Opslaan of Opslaan als nieuwe v
 
 1. Selecteer **sparen** pictogram.
 
-   ![ sparen pictogram ](images/common/save.png)
+   ![&#x200B; sparen pictogram &#x200B;](images/common/save.png)
 
 ### Opslaan als een nieuwe versie
 
 1. Selecteer **sparen als Nieuwe Versie** pictogram op het recht van sparen pictogram.
 
-   ![ sparen als het Nieuwe pictogram van de Versie ](images/common/save-as-new-version.png)
+   ![&#x200B; sparen als het Nieuwe pictogram van de Versie &#x200B;](images/common/save-as-new-version.png)
 
    Het dialoogvenster Opslaan als nieuwe versie wordt weergegeven.
 

@@ -30,7 +30,7 @@ In de standaardweergave wordt uw [!UICONTROL Favorites] weergegeven. U kunt deze
 
 1. Selecteer **[!UICONTROL Repository View]** in het linkerspoor.
 
-   ![ pictogram van de Bewaarplaats ](images/common/repository-icon.png)
+   ![&#x200B; pictogram van de Bewaarplaats &#x200B;](images/common/repository-icon.png)
 
    De [!UICONTROL Repository View] wordt weergegeven.
 
@@ -44,13 +44,13 @@ U kunt aanvullende acties uitvoeren met uw inhoud. Een van deze opties is om uw 
 
 1. Houd de muisaanwijzer boven een map of onderwerp in de opslagplaats en selecteer het pictogram van de ellips dat wordt weergegeven.
 
-   ![ het pictogram van de Ellipsis ](images/lesson-2/options-menu-with-markings.png)
+   ![&#x200B; het pictogram van de Ellipsis &#x200B;](images/lesson-2/options-menu-with-markings.png)
 
    Het menu Opties wordt weergegeven.
 
 1. Van het menu, uitgezochte **Mening in Assets UI.**
 
-   ![ Mening in Assets UI ](images/lesson-2/assets-ui.png)
+   ![&#x200B; Mening in Assets UI &#x200B;](images/lesson-2/assets-ui.png)
 
 
 ### Een weergave selecteren
@@ -59,7 +59,7 @@ U kunt uit veelvoudige meningen voor de UI van Assets kiezen om uw organisatoris
 
 1. Selecteer het **pictogram van de Schakelaar van de Mening 0&rbrace; &lbrace;in de hogere juiste hoek.**
 
-   ![ de schakelaarpictogram van de Mening ](images/lesson-2/view-switcher.png)
+   ![&#x200B; de schakelaarpictogram van de Mening &#x200B;](images/lesson-2/view-switcher.png)
 
    Er wordt een vervolgkeuzemenu weergegeven.
 
@@ -88,6 +88,6 @@ U gaat terug naar de XML-editor.
 
 1. Selecteer het potloodpictogram op een onderwerp in [!UICONTROL Assets] UI.
 
-   ![ pictogram van het Potlood ](images/lesson-2/return-card-view.png)
+   ![&#x200B; pictogram van het Potlood &#x200B;](images/lesson-2/return-card-view.png)
 
    U gaat terug naar de XML-editor.

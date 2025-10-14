@@ -19,7 +19,7 @@ Met voorwaardelijke publicatie kan één inhoudsbron worden geschreven voor een 
 
 U kunt hier voorbeeldbestanden downloaden voor de oefening.
 
-[ oefening-Download ](assets/exercises/publishing-with-conditions.zip)
+[&#x200B; oefening-Download &#x200B;](assets/exercises/publishing-with-conditions.zip)
 
 ## Inhoud markeren met voorwaardelijke kenmerken
 
@@ -27,11 +27,11 @@ U kunt hier voorbeeldbestanden downloaden voor de oefening.
 
 1. Voer de tekst in die voorwaardelijk moet worden. Bijvoorbeeld een of meer alinea&#39;s, een hele tabel, een figuur of andere inhoud.
 
-   ![ presenteren-Informatie ](images/presenting-info.png)
+   ![&#x200B; presenteren-Informatie &#x200B;](images/presenting-info.png)
 
 1. Selecteer de specifieke inhoud waaraan u een voorwaardelijk kenmerk wilt toewijzen. Bijvoorbeeld één alinea in de bron.
 
-   ![ malplaatje-Keuze ](images/template-choice.png)
+   ![&#x200B; malplaatje-Keuze &#x200B;](images/template-choice.png)
 
 1. Controleer in de rechterspoorlijn de weergave Eigenschappen.
 
@@ -39,7 +39,7 @@ U kunt hier voorbeeldbestanden downloaden voor de oefening.
 
 1. Wijs een waarde toe aan het kenmerk. De weergave van de inhoud wordt bijgewerkt om voorwaardelijke opmaak weer te geven.
 
-   ![ specificeren-Malplaatje ](images/specify-template.png)
+   ![&#x200B; specificeren-Malplaatje &#x200B;](images/specify-template.png)
 
 ## Voorvertoning van voorwaardelijke inhoud weergeven
 
@@ -49,7 +49,7 @@ U kunt hier voorbeeldbestanden downloaden voor de oefening.
 
 1. Selecteer of schrap **de voorwaardetekst van het Hoogtepunt**.
 
-   ![ voorproef-voorwaardelijk-Inhoud ](images/preview-conditional-content.png)
+   ![&#x200B; voorproef-voorwaardelijk-Inhoud &#x200B;](images/preview-conditional-content.png)
 
 ## Een voorinstelling voor een voorwaarde maken
 
@@ -65,7 +65,7 @@ Een voorinstelling voor een voorwaarde is een verzameling eigenschappen die defi
 
 1. Selecteer een combinatie van kenmerken, labels en handelingen.
 
-   ![ creëren-Vooraf ingestelde voorwaarde-Vooraf instelt ](images/create-condition-preset.png)
+   ![&#x200B; creëren-Vooraf ingestelde voorwaarde-Vooraf instelt &#x200B;](images/create-condition-preset.png)
 
 1. Herhaal deze bewerking zo nodig.
 
@@ -85,7 +85,7 @@ Als de voorwaarden eenmaal zijn toegepast op de inhoud, kan deze worden gegenere
 
 1. Onder **pas Voorwaarde die** gebruiken toe selecteert een Vooraf ingestelde Voorwaarde.
 
-   ![ produceer-voorwaardelijk-Output ](images/generate-conditional-output.png)
+   ![&#x200B; produceer-voorwaardelijk-Output &#x200B;](images/generate-conditional-output.png)
 
 1. Klik **Gedaan**.
 
@@ -103,7 +103,7 @@ Het DITAval-bestand kan worden gebruikt om voorwaardelijke inhoud te publiceren.
 
 1. Selecteer onder Voorwaarde toepassen met een DITAval-bestand.
 
-   ![ produceer-Gebruikend-DITAval ](images/generate-using-ditaval.png)
+   ![&#x200B; produceer-Gebruikend-DITAval &#x200B;](images/generate-using-ditaval.png)
 
 1. Klik **Gedaan**.
 

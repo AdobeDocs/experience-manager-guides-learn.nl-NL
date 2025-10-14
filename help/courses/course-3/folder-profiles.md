@@ -13,7 +13,7 @@ ht-degree: 0%
 
 AEM biedt snelle toegang tot configuratiehulpmiddelen. Door de Profielen van de Omslag aan te passen, kunnen de verschillende afdelingen of de producten unieke malplaatjes, auteursmilieu&#39;s, voorwaardelijke attributenprofielen, Fragmenten, of zelfs de configuraties van de Redacteur van het Web hebben.
 
-De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [ folderprofiles.zip ](assets/folderprofiles.zip).
+De dossiers van de steekproef die u kunt verkiezen om voor deze les te gebruiken worden verstrekt in het dossier [&#x200B; folderprofiles.zip &#x200B;](assets/folderprofiles.zip).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342758?quality=12&learn=on)
 
@@ -23,17 +23,17 @@ Configuraties worden beheerd via het pictogram Mapprofielen.
 
 1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
+   ![&#x200B; Pictogram van Hulpmiddelen &#x200B;](images/reuse/tools-icon.png)
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
 1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
-   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; Profielen van de Omslag &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. Selecteer het gewenste profiel. Bijvoorbeeld, kies **Globaal Profiel**, dat het standaardprofiel is.
 
-   ![ Globaal Profiel ](images/lesson-3/global-profile-tile.png)
+   ![&#x200B; Globaal Profiel &#x200B;](images/lesson-3/global-profile-tile.png)
 
 ## Voorwaardelijke kenmerken bewerken in het algemene profiel
 
@@ -43,13 +43,13 @@ Zodra u het Globale Profiel hebt betreden kunt u zijn configuratie uitgeven. De 
 
 1. Klik [!UICONTROL **uitgeven**] in de hoogste linkerhoek van het scherm.
 
-   ![ Voorwaardelijke Attributen ](images/lesson-3/edit-conditional-attributes.png)
+   ![&#x200B; Voorwaardelijke Attributen &#x200B;](images/lesson-3/edit-conditional-attributes.png)
 
 1. Klik [!UICONTROL **toevoegen**].
 
 1. Vul de **Naam**, **Waarde**, en **Etiket** gebieden voor de nieuwe voorwaarde.
 
-   ![ nieuwe Voorwaarde ](images/lesson-3/new-condition.png)
+   ![&#x200B; nieuwe Voorwaarde &#x200B;](images/lesson-3/new-condition.png)
 
 1. Klik [!UICONTROL **sparen**] bij de hoogste linkerhoek van het scherm.
 De nieuwe voorwaarde is nu beschikbaar voor alle gebruikers. U kunt het selecteren in het deelvenster Eigenschappen van inhoud en het toepassen op de gewenste inhoud.
@@ -60,13 +60,13 @@ Naast het standaard algemene profiel kunt u ook uw eigen aangepaste profielen ma
 
 1. Van het scherm van de Navigatie, klik het [!UICONTROL **pictogram van Hulpmiddelen**].
 
-   ![ Pictogram van Hulpmiddelen ](images/reuse/tools-icon.png)
+   ![&#x200B; Pictogram van Hulpmiddelen &#x200B;](images/reuse/tools-icon.png)
 
 1. Selecteer **Gidsen** op het linkerpaneel.
 
 1. Klik de **tegel van Profielen van de 1&rbrace; omslag 0&rbrace;.**
 
-   ![ Profielen van de Omslag ](images/reuse/folder-profiles-tile.png)
+   ![&#x200B; Profielen van de Omslag &#x200B;](images/reuse/folder-profiles-tile.png)
 
 1. Klik [!UICONTROL **creëren**].
 
@@ -78,7 +78,7 @@ Naast het standaard algemene profiel kunt u ook uw eigen aangepaste profielen ma
 
    c. Klik [!UICONTROL **creëren**].
 
-   ![ creeer het Profiel van de Omslag ](images/lesson-3/create-folder-profile.png)
+   ![&#x200B; creeer het Profiel van de Omslag &#x200B;](images/lesson-3/create-folder-profile.png)
 
 Er wordt een tegel met de nieuwe profielnaam weergegeven op de pagina Mapprofielen.
 
@@ -88,7 +88,7 @@ Administratieve gebruikers hebben rechten om de Voorwaardelijke Attributen, het 
 
 1. Klik op de tegel om het gewenste mapprofiel te openen.
 
-   ![ geef het Profiel van de Omslag uit ](images/lesson-3/edit-folder-profile.png)
+   ![&#x200B; geef het Profiel van de Omslag uit &#x200B;](images/lesson-3/edit-folder-profile.png)
 
 1. Selecteer het **Algemene** lusje.
 
@@ -100,7 +100,7 @@ Administratieve gebruikers hebben rechten om de Voorwaardelijke Attributen, het 
 
    U kunt desgewenst meerdere Admin-gebruikers toevoegen.
 
-   ![ voeg Admin ](images/lesson-3/add-admin.png) toe
+   ![&#x200B; voeg Admin &#x200B;](images/lesson-3/add-admin.png) toe
 
 1. Klik [!UICONTROL **sparen**] in de hoogste juiste hoek van het scherm wanneer alle gebruikers zijn toegevoegd.
 
@@ -114,7 +114,7 @@ Zodra u het Globale Profiel hebt betreden kunt u zijn configuratie uitgeven. De 
 
 1. Klik [!UICONTROL **uitgeven**] in de hoogste linkerhoek van het scherm.
 
-   ![ geef Voorwaardelijke Attributen 2 ](images/lesson-3/edit-conditional-attributes-2.png) uit
+   ![&#x200B; geef Voorwaardelijke Attributen 2 &#x200B;](images/lesson-3/edit-conditional-attributes-2.png) uit
 
 1. Klik [!UICONTROL **toevoegen**].
 
@@ -122,7 +122,7 @@ Zodra u het Globale Profiel hebt betreden kunt u zijn configuratie uitgeven. De 
 
    Het klikken van [!UICONTROL **plus**] teken staat u toe om extra paren van de Waarde en van het Etiket voor de genoemde attributen toe te voegen.
 
-   ![ voegt Voorwaarden ](images/lesson-3/add-conditions.png) toe
+   ![&#x200B; voegt Voorwaarden &#x200B;](images/lesson-3/add-conditions.png) toe
 
 1. Klik [!UICONTROL **sparen**] bij de hoogste linkerhoek van het scherm.
 
@@ -142,13 +142,13 @@ AEM Guides wordt geleverd met kant-en-klare ontwerpsjablonen en -kaarten. U kunt
 
    b. Klik [!UICONTROL **toevoegen**].
 
-   ![ Malplaatjes van de Kaart ](images/lesson-3/map-templates.png)
+   ![&#x200B; Malplaatjes van de Kaart &#x200B;](images/lesson-3/map-templates.png)
 
 1. Voeg een onderwerpsjabloon toe.
 
    a. Van **Malplaatjes van het Onderwerp** dropdown, selecteer een optie van de beschikbare malplaatjes.
 
-   ![ de Malplaatjes van het Onderwerp ](images/lesson-3/topic-templates.png)
+   ![&#x200B; de Malplaatjes van het Onderwerp &#x200B;](images/lesson-3/topic-templates.png)
 
 1. Klik [!UICONTROL **toevoegen**].
 
@@ -166,13 +166,13 @@ U kunt elke voorinstelling voor uitvoer configureren op basis van het mapprofiel
 
 1. Schakel in het linkerdeelvenster de selectievakjes in van alle voorinstellingen die niet vereist zijn.
 
-   ![ schrapt vooraf instelt ](images/lesson-3/delete-presets.png)
+   ![&#x200B; schrapt vooraf instelt &#x200B;](images/lesson-3/delete-presets.png)
 
 1. Klik [!UICONTROL **Vooraf ingestelde Schrapping**] in de hoogste linkerhoek van het scherm.
 
 1. In de Schrapping stelt dialoog vooraf in, klik [!UICONTROL **Schrapping**].
 
-   ![ Schrapping ](images/lesson-3/delete.png)
+   ![&#x200B; Schrapping &#x200B;](images/lesson-3/delete.png)
 
 De enige voorinstellingen voor uitvoer die worden weergegeven, zijn de voorinstellingen die worden gebruikt.
 
@@ -182,7 +182,7 @@ De enige voorinstellingen voor uitvoer die worden weergegeven, zijn de voorinste
 
 1. Onder de Fragmenten van de Redacteur van XML, klik [!UICONTROL **uploadt**].
 
-   ![ uploadt Fragment ](images/lesson-3/upload-snippet.png)
+   ![&#x200B; uploadt Fragment &#x200B;](images/lesson-3/upload-snippet.png)
 
 1. Navigeer naar een eerder gemaakt fragment.
 
@@ -202,11 +202,11 @@ In de Editor ziet u de resultaten van de wijzigingen die u hebt aangebracht in d
 
 1. Klik het [!UICONTROL **pictogram van de Voorkeur van de Gebruiker**] op de hoogste toolbar.
 
-   ![ Voorkeur van de Gebruiker ](images/lesson-3/hr-user-prefs.png)
+   ![&#x200B; Voorkeur van de Gebruiker &#x200B;](images/lesson-3/hr-user-prefs.png)
 
 1. Selecteer in het dialoogvenster Gebruikersvoorkeuren het gewenste mapprofiel in de vervolgkeuzelijst.
 
-   ![ Uitgezochte de Voorkeur van de Gebruiker ](images/lesson-3/select-user-pref.png)
+   ![&#x200B; Uitgezochte de Voorkeur van de Gebruiker &#x200B;](images/lesson-3/select-user-pref.png)
 
 1. Klik [!UICONTROL **sparen**].
 

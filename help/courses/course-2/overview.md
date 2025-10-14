@@ -13,11 +13,11 @@ ht-degree: 0%
 
 In deze set zelfstudies leert u het volgende te doen:
 
-- [ begrijp het Dashboard van de Kaart ](./introduction-to-the-map-dashboard.md)
-- [ Werk met Rapporten ](./working-with-reports.md)
-- [ creeer en publiceer met Basislijnen ](./creating-and-publishing-with-baselines.md)
-- [ Publish met Voorwaarden ](./publishing-with-conditions.md)
-- [ Begrijp Output vooraf instelt ](./output-presets.md)
-- [ los het publiceren fouten ](./troubleshooting-publishing-errors.md) problemen op
-- [ Bulk publiceert ](./bulk-publishing.md)
-- [ Recap ](./recap.md)
+- [&#x200B; begrijp het Dashboard van de Kaart &#x200B;](./introduction-to-the-map-dashboard.md)
+- [&#x200B; Werk met Rapporten &#x200B;](./working-with-reports.md)
+- [&#x200B; creeer en publiceer met Basislijnen &#x200B;](./creating-and-publishing-with-baselines.md)
+- [&#x200B; Publish met Voorwaarden &#x200B;](./publishing-with-conditions.md)
+- [&#x200B; Begrijp Output vooraf instelt &#x200B;](./output-presets.md)
+- [&#x200B; los het publiceren fouten &#x200B;](./troubleshooting-publishing-errors.md) problemen op
+- [&#x200B; Bulk publiceert &#x200B;](./bulk-publishing.md)
+- [&#x200B; Recap &#x200B;](./recap.md)

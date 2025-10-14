@@ -19,7 +19,7 @@ U kunt alle op een document aangebrachte updates bijhouden door de modus Wijzigi
 
 1. Wissel het **pictogram van de Veranderingen van het Spoor** toolbar om (of onbruikbaar te maken) de eigenschap toe te laten.
 
-   ![ Veranderingen van het Spoor ](images/lesson-12/track-changes-icon.png)
+   ![&#x200B; Veranderingen van het Spoor &#x200B;](images/lesson-12/track-changes-icon.png)
 
 1. Wijzig het onderwerp.
 
@@ -27,11 +27,11 @@ U kunt alle op een document aangebrachte updates bijhouden door de modus Wijzigi
 
 1. Selecteer het **Getraceerde pictogram van Veranderingen** op het recht om tot het Getraceerde paneel van Veranderingen toegang te hebben.
 
-   ![ keurt/verwerpt allen ](images/lesson-12/accept-reject-all.png) goed
+   ![&#x200B; keurt/verwerpt allen &#x200B;](images/lesson-12/accept-reject-all.png) goed
 
 1. Klik [!UICONTROL **sparen**].
 
-   ![ sparen Pictogram ](images/lesson-12/save-icon.png)
+   ![&#x200B; sparen Pictogram &#x200B;](images/lesson-12/save-icon.png)
 
 1. Sluit het onderwerp.
 
@@ -54,7 +54,7 @@ Meerdere bijgehouden wijzigingen kunnen ook worden gefilterd door invoegen, verw
 
 1. Schakel de selectievakjes voor de gewenste filters in.
 
-   ![ UI van de Filter ](images/lesson-12/filter.png)
+   ![&#x200B; UI van de Filter &#x200B;](images/lesson-12/filter.png)
 
 1. Klik [!UICONTROL **toepassen**].
 
@@ -68,13 +68,13 @@ Revisoren en materiaaldeskundigen kunnen de wijzigingen van andere gebruikers af
 
 1. Klik de [!UICONTROL **Duimen omhoog**] of [!UICONTROL **duimen neer**] pictogram verbonden aan de verandering om het goed te keuren of te verwerpen.
 
-   ![ keurt/verwerpt Enige UI ](images/lesson-12/accept-reject-single.png) goed
+   ![&#x200B; keurt/verwerpt Enige UI &#x200B;](images/lesson-12/accept-reject-single.png) goed
 
    of
 
    Klik de [!UICONTROL **Duimen omhoog**] of [!UICONTROL **duimen neer**] pictogram boven de bar van het Onderzoek om alle veranderingen goed te keuren of te verwerpen.
 
-   ![ keurt/verwerpt Enige UI ](images/lesson-12/accept-reject-single.png) goed
+   ![&#x200B; keurt/verwerpt Enige UI &#x200B;](images/lesson-12/accept-reject-single.png) goed
 
 1. [!UICONTROL **sparen**] het onderwerp.
 
@@ -86,7 +86,7 @@ Wanneer u in een multi-auteurmilieu werkt, kan het moeilijk zijn om te volgen we
 
 1. Klik het [!UICONTROL **pictogram van de Fusie**] op de toolbar.
 
-   ![ Pictogram van de Fusie ](images/lesson-12/merge-icon.png)
+   ![&#x200B; Pictogram van de Fusie &#x200B;](images/lesson-12/merge-icon.png)
 
 1. Selecteer in het dialoogvenster Samenvoegen een versie van het bestand waarmee u de huidige versie van het bestand wilt vergelijken.
 
