@@ -9,6 +9,6 @@ ht-degree: 0%
 
 De bestanden in de sectie &quot;zelfstudies&quot; staan nu in het `experience-manager-guides.en` -repo:
 
-<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
+<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.nl-NL>
 
 In dit antwoord voor leren wordt alleen de video-inhoud opgenomen. Alle productdocumentatie staat nu in het andere repo.
